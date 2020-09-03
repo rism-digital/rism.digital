@@ -1,0 +1,8 @@
+@use "sass:color";
+
+$rism-digital-center-primary: hsl(0, 74%, 32%); /* equivalent #8c1515 */
+$rism-digital-center-highlight: color.scale($rism-digital-center-primary, $lightness: 20%);
+
+$navbar-background-color: $rism-digital-center-primary;
+$navbar-item-active-color: $rism-digital-center-highlight;
+$navbar-item-color: #fff;
