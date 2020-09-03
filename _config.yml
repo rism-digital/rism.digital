@@ -1,16 +1,16 @@
-title: Répertoire International des Sources Musicales
-email: contact@rism.info
+title: RISM Digital Center
+email: info@rism.digital
 description: >- # this means to ignore newlines
   The organization, founded in Paris in 1952, is the largest and only global
   operation that documents written musical sources.
   RISM records what exists and where it can be found.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rism.digital" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://rism.digital"
 twitter_username: RISM_Music
 
 exclude: ['.idea']
 
-languages: ["en", "de", "fr"]
+languages: ["en", "de", "fr", "it"]
 default_lang: "en"
 exclude_from_localization: ["assets", "javascript", "images", "css", "README.md"]
 parallel_localization: false
@@ -26,7 +26,7 @@ theme: rism-theme
 pagination:
 
   # Site-wide kill switch, disabled here it doesn't run at all
-  enabled: true
+  enabled: false
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
   debug: false
