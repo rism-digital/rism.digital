@@ -1,0 +1,30 @@
+- name:
+    en: "Home"
+    de: "Startseite"
+    fr: "Accueil"
+    it: "Home"
+  link: /index.html
+- name:
+    en: "Organization"
+    de: "Unternehmen"
+    fr: "Organisation"
+    it: "ORGANIZATION"
+  link: /organization.html
+- name:
+    en: "Tools"
+    de: "TOOLS"
+    fr: "Outils"
+    it: "TOOLS"
+  link: /tools.html
+- name:
+    en: "Publications"
+    de: "Publikationen"
+    fr: "Publications"
+    it: "Pubblicazioni"
+  link: /publications.html
+- name:
+    en: "RISM Switzerland"
+    de: "RISM Schweiz"
+    fr: "RISM Suisse"
+    it: "RISM Svizzera"
+  link: /rism-ch.html

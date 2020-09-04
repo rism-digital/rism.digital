@@ -1,0 +1,78 @@
+- label: 
+    en: "Cataloging projects"
+    de: "Katalogisierungsprojekte"
+    fr: "Projets de catalogage"
+    it: "Progetti di catalogazione"
+  items:
+    - name:
+        de: "Adolf Reichel"
+        en: "Adolf Reichel"
+        fr: "Adolf Reichel"
+        it: "Adolf Reichel"
+      link: /rism-ch/cataloging/reichel.html
+    - name:
+        de: "Frauenkloster Sarnen"
+        en: "Convent of Sarnen"
+        fr: "Couvent of Sarnen"
+        it: "Monastero femminile di Sarnen"
+      link: /rism-ch/cataloging/sarnen.html
+    - name:
+        de: "BCU Lausanne"
+        en: "BCU Lausanne"
+        fr: "BCU Lausanne"
+        it: "BCU Lausanne"
+      link: /rism-ch/cataloging/bcu-lausanne.html
+    - name:
+        de: "Louis Niedermeyer"
+        en: "Louis Niedermeyer"
+        fr: "Louis Niedermeyer"
+        it: "Louis Niedermeyer"
+      link: /rism-ch/cataloging/niedermeyer.html
+    - name:
+        de: "Kloster Fischingen"
+        en: "Fischingen Monastery"
+        fr: "Monastère de Fischingen"
+        it: "Monastero di Fischingen"
+      link: /rism-ch/cataloging/fischingen.html
+    - name:
+        de: "Munzingeriana"
+        en: "Munzingeriana"
+        fr: "Munzingeriana"
+        it: "Munzingeriana"
+      link: /rism-ch/cataloging/munzingeriana.html
+    - name:
+        de: "Hochschule Luzern – Musik"
+        en: "Lucerne School of Music"
+        fr: "Haute école de musique Lucerne"
+        it: "Scuola professionale di musica di Lucerna"
+      link: /rism-ch/cataloging/hslu.html
+    - name:
+        de: "Nachlass Ernst Kunz"
+        en: "Ernst Kunz collection"
+        fr: "Fonds Ernst Kunz"
+        it: "Fondo Ernst Kunz"
+      link: /rism-ch/cataloging/kunz.html
+    - name:
+        de: "Nachlass Ferdinand Fürchtegott Huber"
+        en: "Ferdinand Fürchtegott Huber collection"
+        fr: "Fonds Ferdinand Fürchtegott Huber"
+        it: "Fondo Ferdinand Fürchtegott Huber"
+      link: /rism-ch/cataloging/huber.html
+    - name:
+        de: "Schweizer Komponisten des 19. Jahrhunderts in der Musikbibliothek des Klosters Einsiedeln"
+        en: "Swiss composers of the 19th century in the music library of Einsiedeln monastery"
+        fr: "Compositeurs suisses du 19ème siècle à la bibliothèque musicale de l'abbaye d'Einsiedeln"
+        it: "Compositori svizzeri dell'Ottocento nella biblioteca del convento di Einsiedeln"
+      link: /rism-ch/cataloging/einsiedeln.html
+    - name:
+        de: "Musikalische Quellen im Domarchiv St. Gallen"
+        en: "Musical sources of the Domarchiv St. Gallen"
+        fr: "Collection musicale du Domarchiv St. Gallen"
+        it: "Fonti musicali presso il Domarchiv St. Gallen"
+      link: /rism-ch/cataloging/st-gall.html
+    - name:
+        de: "Musikbibliothek des Stifts St. Michael Beromünster"
+        en: "Music library of the collegiate church of Beromünster"
+        fr: "Bibliothèque musicale des chanoines de la collégiale de Beromünster"
+        it: "Biblioteca musicale della collegiata di San Michele a Beromünster"
+      link: /rism-ch/cataloging/beromuenster.html

@@ -1,0 +1,48 @@
+- label: 
+    en: "Cataloging projects"
+    de: "Katalogisierungsprojekte"
+    fr: "Projets de catalogage"
+    it: "Progetti di catalogazione"
+  items:
+    - name:
+        de: "Nationalbibliothek"
+        en: "Swiss National Library"
+        fr: "Bibliothèque nationale"
+        it: "Biblioteca nazionale"
+      link: /rism-ch/cataloging/snb.html
+    - name:
+        de: "BCU Fribourg"
+        en: "BCU Fribourg"
+        fr: "BCU Fribourg"
+        it: "BCU Fribourg"
+      link: /rism-ch/cataloging/bcu-fribourg.html
+    - name:
+        de: "ZHB Luzern"
+        en: "ZHB Lucern"
+        fr: "ZHB Lucerne"
+        it: "ZHB Lucerna"
+      link: /rism-ch/cataloging/zhb-lu.html
+    - name:
+        de: "Frey-Grynäum"
+        en: "Frey-Gryn Library"
+        fr: "Bibiothèque Frey-Gryn"
+        it: "Biblioteca Frey-Gryn"
+      link: /rism-ch/cataloging/frey-gryn.html
+    - name:
+        de: "Repertorium"
+        en: "Repertorium"
+        fr: "Repertorium"
+        it: "Repertorium"
+      link: /rism-ch/cataloging/repertorium.html
+    - name:
+        de: "Burgerbibliothek Bern"
+        en: "Burgerbibliothek Bern"
+        fr: "Bibliothèque de la bourgeoisie de Berne"
+        it: "Biblioteca della Borghesia di Berna"
+      link: /rism-ch/cataloging/bern-bb.html
+    - name:
+        de: "Abgeschlossene Projekte"
+        en: "Past projects"
+        fr: "Projets terminés"
+        it: "Progetti conclusi"
+      link: /rism-ch/past-cataloging-projects.html
