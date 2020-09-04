@@ -1,0 +1,21 @@
+<h3 data-localize="menu.links_submenu.{{ page.active }}">&nbsp;</h3>
+
+{% for page_links in page.links %}
+    {% if page_links.label.size > 0 %}
+    <h4 data-localize="finding_aid.{{ page_links.label }}">&nbsp;</h4>
+    {% endif %}
+
+    <table class="links">
+        {% for item in page_links.links %}
+        <tr>
+            <td>
+                {% if item[0].size > 0 %}
+                <a href="{{ item[1] }}" target="_blank">{{ item[0] }}</a>
+                {% else %}
+                &nbsp;
+                {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+{% endfor %}

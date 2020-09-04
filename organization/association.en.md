@@ -5,7 +5,6 @@ show_posts: false
 lang: en
 permalink: /organization/association.html
 ---
-
 ### Association
 
 The Swiss RISM Association is open to all interested persons and
@@ -17,14 +16,11 @@ are invited. The annual meeting of the Association provides information
 to members and also enables the election of the board of directors to be
 held. A cultural event is linked to this meeting which allows members to
 create or maintain contacts.
-
 #### Cost of membership
 
 -   Individuals min. CHF 50.\--
 -   Institutions min. CHF 100.\--;
 -   Sponsor member min. CHF 500.\--
-
-
 * [Statuten des Vereins](http://docs.rism-ch.org/Statuten_DEUTSCH.pdf)
 * [Jahresbericht 2005](http://docs.rism-ch.org/Jahresbericht_2005.pdf)
 * [Jahresbericht 2006](http://docs.rism-ch.org/Jahresbericht_2006.pdf)

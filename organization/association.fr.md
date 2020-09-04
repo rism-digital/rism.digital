@@ -5,7 +5,6 @@ show_posts: false
 lang: fr
 permalink: /organization/association.html
 ---
-
 ### Association
 
 L\'Association Bureau suisse du RISM est ouverte à toutes les personnes
@@ -18,13 +17,11 @@ réunion annuelle de l\'Association permet d\'informer les membres et
 permet aussi l\'élection du conseil d\'administration. Un volet culturel
 est lié à cet événement qui permet aux membres de créer ou d\'entretenir
 des contacts.
-
 #### Cotisation
 
 -   Membres individuels min. CHF 50.\--
 -   Institutions / Personnes juridiques min. CHF 100.\--
 -   Membres de soutien min. CHF 500.\--\
-
 * [ Statuts de l\'Association](http://docs.rism-ch.org/STATUTS_FRAN.pdf)
 * [ Rapport annuel 2005](http://docs.rism-ch.org/Rapportannuel_2005.pdf)
 * [ Rapport annuel 2006](http://docs.rism-ch.org/Rapportannuel_2006.pdf)

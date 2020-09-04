@@ -1,0 +1,47 @@
+<table class="finding-aid-nav">
+	<tr>
+        <td>
+        {% for link in page.toplinks %}
+            {% if forloop.index > 1  %} | {% endif %}
+            <a href="{{ link[0] }}.html">{{ link[1] }}</a>
+        {% endfor %}
+	</tr>
+</table>
+
+<table class="finding-aid">
+	{% for page_links in page.links %}
+    <tr>
+        <td class="letter">
+            <strong>{{ page_links.letter }}</strong>
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+        {% for item in page_links.links %}
+        <tr>
+            <td class="link">
+                {{ item[0] }}
+            <td/>
+            <td>
+                {% for link in item[1] %}
+                    {% if forloop.index > 1  %} | {% endif %}
+                    {% if link[0].size > 0 %}
+                    <a href="{{ link[0] }}" target="_blank">{{ link[1] }}</a>
+                    {% else %}
+                    {{ link[1] }}
+                    {% endif %}
+                {% endfor %}
+            </td>
+        </tr>
+        {% endfor %}
+    {% endfor %}
+</table>
+
+<table class="finding-aid-nav-bottom">
+	<tr>
+        <td>
+        {% for link in page.toplinks %}
+            {% if forloop.index > 1  %} | {% endif %}
+            <a href="{{ link[0] }}.html">{{ link[1] }}</a>
+        {% endfor %}
+	</tr>
+</table>

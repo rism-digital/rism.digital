@@ -5,7 +5,6 @@ show_posts: false
 lang: it
 permalink: /organization/association.html
 ---
-
 ### Associazione
 
 L'Associazione Ufficio RISM-Svizzera è aperta a tutte le persone e
@@ -19,14 +18,11 @@ sull'esercizio dell'anno in corso e sull'elezione del consiglio
 d'amministrazione. Tale occasione è accompagnata da una parte culturale
 che vuole agevolare lo scambio di informazioni e approfondire i contatti
 tra i soci.
-
 #### Tassa di adesione
 
 -   Socio min. CHF 50.\--
 -   Istituto / Persona giuridica min. CHF 100.\--
 -   Socio sostenitore min. CHF 500.\--
-
-
 * [ Statuts de l\'Association](http://docs.rism-ch.org/STATUTS_FRAN.pdf)
 * [ Rapport annuel 2005](http://docs.rism-ch.org/Rapportannuel_2005.pdf)
 * [ Rapport annuel 2006](http://docs.rism-ch.org/Rapportannuel_2006.pdf)

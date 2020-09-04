@@ -5,7 +5,6 @@ show_posts: false
 lang: de
 permalink: /organization/association.html
 ---
-
 ### Verein
 
 Der Verein Arbeitsstelle Schweiz des RISM steht allen interessierten
@@ -19,13 +18,11 @@ Information über das Geschäftsjahr der Arbeitsstelle und der Wahl des
 Vorstandes. Dieser Anlass wird mit einem kulturellen Teil verknüpft und
 kann für die Pflege interessanter Kontakte unter den Mitgliedern genutzt
 werden.
-
 #### Mitgliederbeitrag
 
 -   Einzelpersonen min. CHF 50.\--
 -   Institutionen / juristische Personen min. CHF 100.\--
 -   Gönnermitglied min. CHF 500.\--
-
 * [Statuten des Vereins](http://docs.rism-ch.org/Statuten_DEUTSCH.pdf)
 * [Jahresbericht 2005](http://docs.rism-ch.org/Jahresbericht_2005.pdf)
 * [Jahresbericht 2006](http://docs.rism-ch.org/Jahresbericht_2006.pdf)
