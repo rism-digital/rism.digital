@@ -1,6 +1,6 @@
 ---
 title: hslu
-layout: cataloging
+layout: past-cataloging
 show_posts: false
 lang: it
 permalink: /rism-ch/cataloging/hslu.html

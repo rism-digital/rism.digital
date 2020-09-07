@@ -1,6 +1,6 @@
 ---
 title: beromuenster
-layout: cataloging
+layout: past-cataloging
 show_posts: false
 lang: en
 permalink: /rism-ch/cataloging/beromuenster.html

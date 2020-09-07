@@ -1,6 +1,6 @@
 ---
 title: kunz
-layout: cataloging
+layout: past-cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/kunz.html

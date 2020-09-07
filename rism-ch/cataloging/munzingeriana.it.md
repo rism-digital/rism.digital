@@ -1,6 +1,6 @@
 ---
 title: munzingeriana
-layout: cataloging
+layout: past-cataloging
 show_posts: false
 lang: it
 permalink: /rism-ch/cataloging/munzingeriana.html

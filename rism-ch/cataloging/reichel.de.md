@@ -1,6 +1,6 @@
 ---
 title: reichel
-layout: cataloging
+layout: past-cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/reichel.html

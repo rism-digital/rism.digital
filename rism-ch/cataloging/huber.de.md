@@ -1,6 +1,6 @@
 ---
 title: huber
-layout: cataloging
+layout: past-cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/huber.html

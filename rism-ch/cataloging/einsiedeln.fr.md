@@ -1,6 +1,6 @@
 ---
 title: einsiedeln
-layout: cataloging
+layout: past-cataloging
 show_posts: false
 lang: fr
 permalink: /rism-ch/cataloging/einsiedeln.html

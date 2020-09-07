@@ -1,6 +1,6 @@
 ---
 title: st-gall
-layout: cataloging
+layout: past-cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/st-gall.html
