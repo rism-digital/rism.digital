@@ -17,5 +17,6 @@ McGill University in Montreal ([Informationspool]), and the project in
 partnership with the chair of Musicology in Fribourg ([Switzerland Music
 monasteries]).
 
-  [Informationspool]: /infrastructure/informationspool.html
-  [Switzerland Music monasteries]: /infrastructure/swiss-monasteries.html
+<hr/>
+
+{% include submenu_as_list.html submenubar="infrastructure" %}

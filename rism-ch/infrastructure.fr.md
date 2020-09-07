@@ -18,5 +18,6 @@ la Phonothèque nationale suisse et l\'Université McGill de Montréal
 de Musicologie de l\'Université de Fribourg ([Musiques des monastères
 suisses]).
 
-  [Informationspool]: /infrastructure/informationspool.html
-  [Musiques des monastères suisses]: /infrastructure/swiss-monasteries.html
+<hr/>
+
+{% include submenu_as_list.html submenubar="infrastructure" %}

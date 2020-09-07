@@ -17,5 +17,6 @@ con la Fonoteca Nazionale Svizzera e la McGill University di Montréal
 ([Informationspool]) nonché con la cattedra di musicologia presso
 l'università di Friburgo ([Musica dei monasteri svizzeri]).
 
-  [Informationspool]: /infrastructure/informationspool.html
-  [Musica dei monasteri svizzeri]: /infrastructure/swiss-monasteries.html
+<hr/>
+
+{% include submenu_as_list.html submenubar="infrastructure" %}

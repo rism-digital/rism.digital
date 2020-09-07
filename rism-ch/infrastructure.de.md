@@ -18,5 +18,6 @@ Svizzera und der McGill University Montreal ([Informationspool]) sowie
 dem Freiburger Lehrstuhl für Musikwissenschaft ([Musik aus Schweizer
 Klöstern]).
 
-  [Informationspool]: /infrastructure/informationspool.html
-  [Musik aus Schweizer Klöstern]: /infrastructure/swiss-monasteries.html
+<hr/>
+
+{% include submenu_as_list.html submenubar="infrastructure" %}
