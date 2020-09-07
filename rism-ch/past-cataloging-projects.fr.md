@@ -1,9 +1,9 @@
 ---
-title: past-cataloging-projects
+title: past-cataloging
 layout: cataloging
 show_posts: false
 lang: fr
-permalink: /rism-ch/past-cataloging-projects.html
+permalink: /rism-ch/past-cataloging.html
 ---
 
 ### Projets terminés
