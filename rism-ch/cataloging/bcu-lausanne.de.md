@@ -1,6 +1,6 @@
 ---
 title: bcu-lausanne
-layout: cataloging
+layout: past-cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/bcu-lausanne.html
