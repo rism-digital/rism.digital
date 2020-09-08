@@ -1,8 +1,8 @@
-<h3 data-localize="menu.links_submenu.{{ page.active }}">&nbsp;</h3>
+<h1>{{ page.label[site.active_lang] }}</h1>
 
 {% for page_links in page.links %}
     {% if page_links.label.size > 0 %}
-    <h4 data-localize="finding_aid.{{ page_links.label }}">&nbsp;</h4>
+    <h3>{{ page_links.label[site.active_lang] }}</h3>
     {% endif %}
 
     <table class="links">

@@ -1,0 +1,66 @@
+- label: 
+    en: "Cataloging projects"
+    de: "Katalogisierungsprojekte"
+    fr: "Projets de catalogage"
+    it: "Progetti di catalogazione"
+  items:
+    - name:
+        de: "Internationale Organisationen"
+        en: "International organisations"
+        fr: "Organisations internationales"
+        it: "Organizzazioni internazionali"
+      link: /rism-ch/links/org-international.html
+    - name:
+        de: "Schweizer Institutionen"
+        en: "Swiss organisations"
+        fr: "Organisations suisse"
+        it: "Organizzazioni svizzere"
+      link: /rism-ch/links/org-ch.html
+    - name:
+        de: "Lexika und Wörterbücher"
+        en: "Encyclopaedias and dictionaries"
+        fr: "Encyclopédies et dictionnaires"
+        it: "Enciclopedie e dizionari"
+      link: /rism-ch/links/dictionaries.html
+    - name:
+        de: "Musiklexika"
+        en: "Music reference works"
+        fr: "Encyclopédies musicales et biographies"
+        it: "Enciclopedie musicali e biografie"
+      link: /rism-ch/links/music-dictionaries.html
+    - name:
+        de: "Findmittel"
+        en: "Finding aids"
+        fr: "Aides à la recherche"
+        it: "Aiuti alla ricerca"
+      link: /rism-ch/links/finding-aid.html
+    - name:
+        de: "Quellenverzeichnisse"
+        en: "Source catalogs"
+        fr: "Catalogues de sources"
+        it: "Cataloghi di fonti"
+      link: /rism-ch/links/source-catalogues.html
+    - name:
+        de: "Digitalisierte Quellen"
+        en: "Digitised sources"
+        fr: "Sources numerisées"
+        it: "Fonti digitalizzate"
+      link: /rism-ch/links/digitisation.html
+    - name:
+        de: "Repertoire"
+        en: "Repertoire"
+        fr: "Répertoire"
+        it: "Repertorio"
+      link: /rism-ch/links/repertoire.html
+    - name:
+        de: "Online-Editionen"
+        en: "Online editions"
+        fr: "Editions en ligne"
+        it: "Edizioni online"
+      link: /rism-ch/links/editions.html
+    - name:
+        de: "Varia"
+        en: "Varia"
+        fr: "Varia"
+        it: "Varia"
+      link: /rism-ch/links/varia.html

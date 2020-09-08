@@ -1,7 +1,8 @@
 {% assign menus = site.data.[include.submenubar] %}
 
-{% for menu in menus %}
 <ul>
+{% for menu in menus %}
+
     {% for item in menu.items %}
     <li>
         <a href="{{ item.link | absolute_url }}" class="{% if item.link == page.permalink %}is-active{% endif %} {% if item.link %}{% else %}disabled{% endif %}">{{ item.name[site.active_lang] }}</a>
@@ -14,5 +15,6 @@
         {% endif %}
     </li>
     {% endfor %}    
-</ul>
+
 {% endfor %}
+</ul>
