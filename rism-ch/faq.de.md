@@ -6,7 +6,7 @@ lang: de
 permalink: /rism-ch/faq.html
 ---
 
-### FAQ
+# FAQ
 
 Ein wichtiges Ziel von RISM Schweiz ist es, dass seine Quellendatenbank
 neben der Forschung auch vermehrt von praktizierenden Musikerinnen und
@@ -17,46 +17,37 @@ Kompositionen. Weshalb also nicht einmal ein Werk zur Aufführung
 bringen, welches explizit für einen bestimmten Ort komponiert wurde?
 Grundsätzliche Fragen werden nachfolgend behandelt.
 
-Ist der Zugang zur RISM-Datenbank offen?
+### Ist der Zugang zur RISM-Datenbank offen?
 
- {.faq-answer}
 Die Datenbank von RISM Schweiz wird gratis zur Verfügung gestellt und es
 ist kein Login nötig, um nach Quellen zu suchen. Es können aber bei den
 Bibliotheken, insbesondere bei der Anforderung von Kopien, Kosten
 entstehen.
 
+### Wo befinden sich die in der Datenbank gefundenen Quellen?
 
-Wo befinden sich die in der Datenbank gefundenen Quellen?
-
- {.faq-answer}
 RISM Schweiz ist selbst nicht in Besitz von musikalischen Quellen. Diese
 befinden sich in der jeweiligen Institution. Bitte kontaktieren Sie die
 entsprechende Bibliothek und vereinbaren einen Termin. Die Kontaktdaten
 finden Sie unter der Rubrik „Bibliothekssigel".
 
+### Wo erhalte ich Kopien von den Quellen?
 
-Wo erhalte ich Kopien von den Quellen?
-
- {.faq-answer}
 Bei den meisten Bibliotheken können Kopien von den Quellen angefordert
 werden. Bitte informieren Sie sich direkt bei der jeweiligen Institution
 und beachten Sie, dass für Kopien Gebühren anfallen können. Ausserdem
 ist insbesondere bei Aufführungen der entsprechenden Werke die
 urheberrechtliche Situation abzuklären.
 
+### Kann man digitale Kopien von Quellen herunterladen?
 
-Kann man digitale Kopien von Quellen herunterladen?
-
- {.faq-answer}
 Einige wenige Quellen werden von RISM Schweiz in gesonderten Projekten
 digitalisiert und veröffentlicht. Diese können teilweise auch
 heruntergeladen werden. Es ist jedoch nicht die Aufgabe von RISM,
 sämtliche Quellen zu digitalisieren.
 
+### Welche Materialtypen von Quellen gibt es?
 
-Welche Materialtypen von Quellen gibt es?
-
- {.faq-answer}
 RISM Schweiz katalogisiert sämtliche Materialtypen. Am häufigsten sind
 Handschriften (Manuscript) und Drucke (Print), wobei die Handschriften
 noch in Autographe (Autograph), fragliche Autographe (Probably
@@ -64,10 +55,8 @@ autograph) und Abschriften (Manuscript) unterteilt werden. Die
 entsprechende Bezeichnung befindet sich in der Rubrik Physische
 Beschreibung / Quellentyp.
 
+### Welches Repertoire ist in der RISM-Datenbank enthalten?
 
-Welches Repertoire ist in der RISM-Datenbank enthalten?
-
- {.faq-answer}
 Die Datenbank enthält ein vielfältiges Repertoire an Musik. Die
 Besetzung reicht von Musik für ein Instrument bis hin zu grossangelegten
 Orchesterkompositionen und umfasst Werke vom 15. bis ins 20.
@@ -75,10 +64,8 @@ Jahrhundert. Auch in Bezug auf die Gattungen deckt die Datenbank ein
 breites Spektrum ab, wobei die geistliche Musik eine besonders grosse
 Bedeutung erhält.
 
+### Wie sind die Katalogisate in der RISM-Datenbank organisiert?
 
-Wie sind die Katalogisate in der RISM-Datenbank organisiert?
-
- {.faq-answer}
 Die Datenbank enthält neben Einzeleinträgen (Quellen, welche ein
 einziges Werk beinhalten) auch sogenannte Konvolute und Sammlungen
 (Collection). Letztere bestehen aus mehreren Einzelwerken, Konvolute
@@ -88,10 +75,8 @@ hierarchisch strukturiert, wobei sämtliche übergeordneten Titel
 (Konvolut und/oder Sammlung) mit ihren Einzeleinträgen und umgekehrt
 verlinkt sind.
 
+### Sind die Bibliotheken immer in Besitz des gesamten Aufführungsmaterials?
 
-Sind die Bibliotheken immer in Besitz des gesamten Aufführungsmaterials?
-
- {.faq-answer}
 Dies ist leider nicht immer der Fall. Beachten Sie in den
 Datenbankeinträgen, ob das Quellenmaterial vollständig vorhanden ist.
 Sie finden den entsprechenden Hinweis („Incomplete material") unter der
@@ -100,10 +85,8 @@ meistens eine genauere Beschreibung der fehlenden Stimmen unter
 Physische Beschreibung / Fehlendes Stimmenmaterial. Achten Sie auch auf
 Begriffe wie „missing" oder „incpl" bei der physischen Beschreibung.
 
+### Gibt es spezielle Suchfilter für meine Projekte?
 
-Gibt es spezielle Suchfilter für meine Projekte?
-
- {.faq-answer}
 In der RISM-Datenbank kann sowohl mittels erweiterter Suche als auch
 über die Volltextsuche ein gutes Resultat erzielt werden. Daneben
 besteht die Möglichkeit innerhalb der verschiedenen Indizes zu suchen.
@@ -116,19 +99,13 @@ werden.
 
 Ein spezielles Projekt, welches RISM Schweiz seit geraumer Zeit
 durchführt, ist das [„Repertorium Schweizer Komponisten des 19.
-Jahrhunderts"]. Falls Sie Quellen aus diesem Projekt nachschlagen
+Jahrhunderts"](/rism-ch/cataloging/repertorium.html). Falls Sie Quellen aus diesem Projekt nachschlagen
 möchten, können Sie nach dem Stichwort RepertoriumSchweiz suchen.
 
+### An wen wende ich mich bei Unklarheiten?
 
-An wen wende ich mich bei Unklarheiten?
-
- {.faq-answer}
 Bei Fragen zu bestimmten Quellen nehmen Sie bitte Kontakt mit der
 besitzenden Institution auf. Dies gilt auch für organisatorische Belange
 wie Besuchsanmeldung, Kopieraufträge etc. Für alle anderen Unklarheiten
 können Sie sich gerne an RISM Schweiz wenden. Die Kontaktdetails finden
-Sie auf unserer [Kontaktpage].
-
-
-  [„Repertorium Schweizer Komponisten des 19. Jahrhunderts"]: cataloging/repertorium.html
-  [Kontaktpage]: /contact.html
+Sie auf unserer [Kontaktpage](/contact.html).
