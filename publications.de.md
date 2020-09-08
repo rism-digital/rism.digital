@@ -1,6 +1,6 @@
 ---
 title: publications
-layout: default
+layout: publications
 show_posts: false
 lang: de
 permalink: /publications.html

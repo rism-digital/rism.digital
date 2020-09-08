@@ -1,0 +1,30 @@
+- label:
+    de: "Publikationen"
+    en: "Publications"
+    fr: "Publications"
+    it: "Publicazione"
+  items:
+    - name:
+        de: "RISM Digital Library"
+        en: "RISM Digital Library"
+        fr: "RISM Digital Library"
+        it: "RISM Digital Library"
+      link: /publications/d-lib.html
+    - name:
+        de: "Historical Music Inventories"
+        en: "Historical Music Inventories"
+        fr: "Historical Music Inventories"
+        it: "Historical Music Inventories"
+      link: http://inventories.rism-ch.org/
+    - name:
+        de: "Printed Sacred Music"
+        en: "Printed Sacred Music"
+        fr: "Printed Sacred Music"
+        it: "Printed Sacred Music"
+      link: http://www.printed-sacred-music.org
+    - name:
+        de: "Weitere Publikationen"
+        en: "Other publications"
+        fr: "Autres publications"
+        it: "Altre pubblicazioni"
+      link: /publications/publication-list.html
