@@ -1,29 +1,30 @@
 ---
 title: cd-marenzio
-layout: rism-ch
+layout: cds
 show_posts: false
 lang: it
 permalink: /rism-ch/cds/cd-marenzio.html
 ---
 
-### Il Pasto Fido -- Luca Marenzio
+# Il Pasto Fido -- Luca Marenzio
 
- {.hidden-xs style="float: right; margin: 0px 0px 10px 30px;"}
-![][1]
-
-[Libretto del CD da scaricare (PDF)]
-
-{% include common/cd-marenzio-awards.html %}
-
+<div style="float: right; margin: 0px 0px 0px 30px;" class="is-hidden-mobile">
+    <img src="/images/rism_ch/cd_marenzio.jpg">
+    <p align="center">
+        <a href="http://docs.rism-ch.org/press/CD_1814_booklet.pdf" target="_blank">Libretto del CD da scaricare (PDF)</a> 
+    </p>
+    {% include common/cd-marenzio-awards.html %}
+</div>
 
 Nell\'archivio del comune svizzero di Zuoz, in Engadina, è conservato un
 libro musicale molto prezioso. Con il sostegno di RISM Svizzera, il
-direttore Francesco Saverio Pedrini e il suo ensemble [La Pedrina] hanno
+direttore Francesco Saverio Pedrini e il suo ensemble 
+[La Pedrina]{:target="_blank"} hanno
 scelto di registrare una selezione di questa collezione per l\'etichetta
-[Claves]. La scelta è caduta sui madrigali del compositore
+[Claves]{:target="_blank"}. La scelta è caduta sui madrigali del compositore
 rinascimentale italiano Luca Marenzio. La registrazione è stata
-scientificamente accompagnata dal [Progetto Marenzio], con sede negli
-Stati Uniti. Il [CD][Claves] contiene tutte le composizioni musicali di
+scientificamente accompagnata dal [Progetto Marenzio]{:target="_blank"}, con sede negli
+Stati Uniti. Il [CD][Claves]{:target="_blank"} contiene tutte le composizioni musicali di
 Marenzio su testi della commedia pastorale Il pastor fido di Battista
 Guarini.
 
@@ -48,8 +49,6 @@ Il CD è disponibile dal luglio 2018.
 
 {% include common/cd-marenzio-press.html %}
 
-  [1]: /images/rism_ch/cd_marenzio.jpg
-  [Libretto del CD da scaricare (PDF)]: http://docs.rism-ch.org/press/CD_1814_booklet.pdf
-  [La Pedrina]: https://www.lapedrina.ch/
-  [Claves]: https://www.claves.ch/collections/rarities/products/luca-marenzio-il-pastor-fido
-  [Progetto Marenzio]: http://www.marenzio.org/
+[La Pedrina]: https://www.lapedrina.ch/
+[Claves]: https://www.claves.ch/collections/rarities/products/luca-marenzio-il-pastor-fido
+[Progetto Marenzio]: http://www.marenzio.org/

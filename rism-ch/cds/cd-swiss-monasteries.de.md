@@ -1,12 +1,16 @@
 ---
 title: cd-swiss-monasteries
-layout: rism-ch
+layout: cds
 show_posts: false
 lang: de
 permalink: /rism-ch/cds/cd-swiss-monasteries.html
 ---
 
-### CD - Musik aus Schweizer Klöstern
+# CD - Musik aus Schweizer Klöstern
+
+<div style="float: right; margin: 0px 0px 0px 30px;" class="is-hidden-mobile">
+    <img src="/images/rism_ch/cd-swiss-monasteries.png">
+</div>
 
 Die Idee, eine CD für RISM zu erstellen, stand bereits seit längerer
 Zeit im Raum. Im Jahr 2009 wurde sie nun realisiert.

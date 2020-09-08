@@ -1,18 +1,19 @@
 ---
 title: cd-cazzati
-layout: rism-ch
+layout: cds
 show_posts: false
 lang: fr
 permalink: /rism-ch/cds/cd-cazzati.html
 ---
 
-### From Bologna to Beromünster -- Cazzati: Messa e Salmi, op. 36
+# From Bologna to Beromünster -- Cazzati: Messa e Salmi, op. 36
 
- {.hidden-xs style="float: right; margin: 0px 0px 0px 30px;"}
-![][1]
-
-[Télécharger le livret du CD (PDF)]
-
+<div style="float: right; margin: 0px 0px 0px 30px;" class="is-hidden-mobile">
+    <img src="/images/rism_ch/cd_cazzati.jpg">
+    <p align="center">
+        <a href="http://docs.rism-ch.org/press/CD_1605_booklet.pdf" target="_blank">Télécharger le livret du CD (PDF)</a> 
+    </p>
+</div>
 
 La bibliothèque musicale de la Collégiale de Beromünster (CH-BM) abrite
 le Bonus Ordo Musicus, un inventaire manuscrit de 1696 qui décrit une
@@ -28,8 +29,8 @@ la ville.
 A l'occasion du 20^ème^ anniversaire de l'association du bureau suisse
 du RISM -- et du 400^ème^ anniversaire de la naissance de Cazzati -- le
 RISM Suisse a eu l'occasion de produire un CD de cette œuvre en
-collaboration avec le label [Claves Records] et l'ensemble de bâlois
-[Voces Suaves]. Le personnel du RISM a joué un rôle consultatif lors de
+collaboration avec le label [Claves Records]{:target="_blank"} et l'ensemble de bâlois
+[Voces Suaves]{:target="_blank"}. Le personnel du RISM a joué un rôle consultatif lors de
 l'enregistrement du CD et a aussi écrit des textes pour le livret. En
 outre, il a assumé de nombreuses tâches organisationnelles et
 administratives et l'association a également apporté une contribution
@@ -42,8 +43,6 @@ est disponible dans les magasins et téléchargeable en ligne.
 
 {% include common/cd-cazzati-press.html %}
 
-  [1]: /images/rism_ch/cd_cazzati.jpg
-  [Télécharger le livret du CD (PDF)]: http://docs.rism-ch.org/press/CD_1605_booklet.pdf
-  [Historical Music Inventories 1500-1800]: http://inventories.rism-ch.org/
-  [Claves Records]: http://www.claves.ch/collections/all-albums/products/from-bologna-to-beromunster-maurizio-cazzati-mass-psalms-op-36
-  [Voces Suaves]: http://www.voces-suaves.ch/
+[Historical Music Inventories 1500-1800]: http://inventories.rism-ch.org/
+[Claves Records]: http://www.claves.ch/collections/all-albums/products/from-bologna-to-beromunster-maurizio-cazzati-mass-psalms-op-36
+[Voces Suaves]: http://www.voces-suaves.ch/

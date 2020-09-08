@@ -1,0 +1,24 @@
+- label: 
+    de: "CDs"
+    en: "CDs"
+    fr: "CDs"
+    it: "CDs"
+  items:
+    - name:
+        de: "Marenzio, Il Pastor Fido"
+        en: "Marenzio, Il Pastor Fido"
+        fr: "Marenzio, Il Pastor Fido"
+        it: "Marenzio, Il Pastor Fido"
+      link: /rism-ch/cds/cd-marenzio.html
+    - name:
+        de: "Cazzati, Messa e Salmi"
+        en: "Cazzati, Messa e Salmi"
+        fr: "Cazzati, Messa e Salmi"
+        it: "Cazzati, Messa e Salmi"
+      link: /rism-ch/cds/cd-cazzati.html
+    - name:
+        de: "Schweizer Klöster"
+        en: "Swiss monasteries"
+        fr: "Monastères suisses"
+        it: "Monasteri svizzeri"
+      link: /rism-ch/cds/cd-swiss-monasteries.html
