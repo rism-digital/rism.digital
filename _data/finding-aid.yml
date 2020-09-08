@@ -1,0 +1,18 @@
+- label: 
+    de: "Schweizer Musikbestände"
+    en: "Swiss music collections"
+    fr: "Collections suisses de musique"
+    it: "Collezioni musicali svizzere"
+  items:
+    - name:
+        de: "Bestände – Personen"
+        en: "Collections – People"
+        fr: "Collections - Personnes"
+        it: "Collezioni – Persone"
+      link: /rism-ch/finding-aid/ch-people-a-e.html
+    - name:
+        de: "Bestände – Institutionen"
+        en: "Collections – Institutions"
+        fr: "Collection - Institutions"
+        it: "Collezioni – Istituzioni"
+      link: /rism-ch/finding-aid/ch-institutions.html
