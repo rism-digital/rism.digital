@@ -1,12 +1,14 @@
 ---
 title: About us
-layout: default
+layout: organization
 show_posts: false
 lang: it
-permalink: /organization/about-us.html
+permalink: /organization.html
 ---
 
-### Presentazione
+# Presentazione
+
+{% include common/about-us-logos.html %}
 
 Dalla sua fondazione nel 1956, l'Ufficio RISM-Svizzera si occupa
 dell'inventario sistematico di una grande quantità di documenti
@@ -21,12 +23,12 @@ principalmente da contributi per progetti e da mandati per inventari di
 biblioteche e archivi. L'Associazione Ufficio svizzero del RISM è stata
 fondata il 21 giugno 1996; i membri fondatori sono:
 
--   Società svizzera di musicologia ([SMG)]
--   Associazione svizzera delle collezioni musicali ([ASCM])
+-   Società svizzera di musicologia ([SMG)]{:target="_blank"})
+-   Associazione svizzera delle collezioni musicali ([ASCM]{:target="_blank"})
 -   Società svizzera per i diritti degli autori di opere musicali
-    ([SUISA])
+    ([SUISA]{:target="_blank"})
 -   Consiglio Svizzero della Musica (SMR: [versione tedesca], [versione
-    francese])
+    francese]{:target="_blank"})
 
 
 [SMG)]: http://www.smg-ssm.ch

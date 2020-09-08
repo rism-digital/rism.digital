@@ -1,12 +1,14 @@
 ---
 title: About us
-layout: default
+layout: organization
 show_posts: false
 lang: de
-permalink: /organization/about-us.html
+permalink: /organization.html
 ---
 
-### Über uns
+# Über uns
+
+{% include common/about-us-logos.html %}
 
 RISM Schweiz ist eine der zahlreichen offiziellen Arbeitsstellen
 innerhalb der internationalen RISM-Gemeinschaft, die zum Ziel hat,
@@ -16,15 +18,15 @@ ansässige Schweizer Arbeitsstelle kümmert sich dabei um sämtliche
 Dokumente, die sich in der Schweiz -- vorwiegend in Bibliotheken,
 Archiven und Klöstern -- befinden. Die Gründung der Schweizer
 Arbeitsstelle geht ins Jahr 1956 zurück. Seit 1996 ist RISM Schweiz als
-eigenständiger Verein organisiert. Folgende Gründungsmitglieder haben am
-21. Juni 1996 den Verein Arbeitsstelle Schweiz des RISM aus der Taufe
+eigenständiger Verein organisiert. Folgende Gründungsmitglieder haben am 21. 
+Juni 1996 den Verein Arbeitsstelle Schweiz des RISM aus der Taufe
 gehoben und stehen nach wie vor in engem Kontakt:
 
--   Schweizerische Musikforschende Gesellschaft ([SMG])
--   Schweizerische Vereinigung der Musiksammlungen ([ASCM])
+-   Schweizerische Musikforschende Gesellschaft ([SMG]{:target="_blank"})
+-   Schweizerische Vereinigung der Musiksammlungen ([ASCM]{:target="_blank"})
 -   Schweizerische Gesellschaft für die Rechte der Urheber musikalischer
-    Werke ([SUISA])
--   Schweizer Musikrat ([SMR])
+    Werke ([SUISA]{:target="_blank"})
+-   Schweizer Musikrat ([SMR]{:target="_blank"})
 
 RISM Schweiz pflegt daneben aber auch zu weiteren Institutionen aus den
 Bereichen der Bibliothek, der Wissenschaft und der musikalischen Kultur

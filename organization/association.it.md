@@ -1,6 +1,6 @@
 ---
 title: Association
-layout: default
+layout: organization
 show_posts: false
 lang: it
 permalink: /organization/association.html

@@ -1,12 +1,14 @@
 ---
 title: About us
-layout: default
+layout: organization
 show_posts: false
 lang: fr
-permalink: /organization/about-us.html
+permalink: /organization.html
 ---
 
-### Présentation
+# Présentation
+
+{% include common/about-us-logos.html %}
 
 Depuis sa fondation en 1956, le RISM Suisse a procédé à l\'inventaire
 systématique d\'une grande quantité de musique : plus de 10\'000
@@ -21,11 +23,11 @@ d\'inventaire de bibliothèques et d\'archives. L\'Association Bureau
 suisse du RISM a été fondée le 21 juin 1996 ; les membres fondateurs
 sont :
 
--   Société Suisse de Musicologie ([SSM])
--   Association Suisse des collections musicales ([ASCM])
+-   Société Suisse de Musicologie ([SSM]{:target="_blank"})
+-   Association Suisse des collections musicales ([ASCM]{:target="_blank"})
 -   Société Suisse pour les droits des auteurs d\'œuvres musicales
-    ([SUISA])
--   Conseil suisse de la musique ([CSM])
+    ([SUISA]{:target="_blank"})
+-   Conseil suisse de la musique ([CSM]{:target="_blank"})
 
 
 [SSM]: http://www.smg-ssm.ch

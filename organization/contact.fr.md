@@ -1,21 +1,9 @@
 ---
 title: contact
-layout: default
+layout: organization
 show_posts: false
 lang: fr
 permalink: /organization/contact.html
 ---
 
-#### Où sommes nous?
-
-Le Bureau suisse du RISM se trouve à la [Bibliothèque nationale suisse].
-
- {align="center"}
-[![][1]]
-
-
-
-
-  [Bibliothèque nationale suisse]: http://www.nb.admin.ch/slb/index.html?lang=fr
-  [1]: /images/rism_ch/map.png
-  [![][1]]: http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=Hallwylstrasse+15,+3005+Bern,+Switzerland&sll=41.260946,-117.27196&sspn=109.92994,270.527344&ie=UTF8&hq=&hnear=Hallwylstrasse+15,+3005+Bern,+Switzerland&ll=46.947919,7.45388&spn=0.020508,0.036478&z=14&iwloc=A
+ {% include contact.html %}

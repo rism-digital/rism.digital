@@ -1,12 +1,14 @@
 ---
 title: About us
-layout: default
+layout: organization
 show_posts: false
 lang: en
-permalink: /organization/about-us.html
+permalink: /organization.html
 ---
 
-### About us
+# About us
+
+{% include common/about-us-logos.html %}
 
 Since its foundation in 1956 the Swiss RISM branch has recorded
 systematically more than 10,000 prints from before 1800, collective
@@ -20,14 +22,14 @@ commissions for inventorization by libraries and archives. The following
 founding members established the Swiss RISM Association on 21st June
 1996:
 
--   Swiss Musicological Society ([SMG])
--   Association of Swiss Music Collections ([ASCM])
--   Swiss Society for the Rights of Authors of Musical Works ([SUISA])
--   Swiss Music Council (SMR: [german version], [french version])
+-   Swiss Musicological Society ([SMG]{:target="_blank"})
+-   Association of Swiss Music Collections ([ASCM]{:target="_blank"})
+-   Swiss Society for the Rights of Authors of Musical Works ([SUISA]{:target="_blank"})
+-   Swiss Music Council (SMR: [german version]{:target="_blank"}, [french version]{:target="_blank"})
 
 
 [SMG]: http://www.smg-ssm.ch
 [ASCM]: http://www.iaml.ch
 [SUISA]: http://www.suisa.ch
-[german version]: http://www.miz.ch/smr/de.aspx
-[french version]: http://www.musikrat.ch
+[german version]: http://www.musikrat.ch
+[french version]: http://www.musikrat.ch/fr
