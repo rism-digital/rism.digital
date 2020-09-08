@@ -1,5 +1,10 @@
 $rism-digital-center-primary: hsl(0, 74%, 32%); /* equivalent #8c1515 */
 $rism-digital-center-highlight: lighten($rism-digital-center-primary, 20%);
+$link: $rism-digital-center-primary;
+
 $navbar-background-color: $rism-digital-center-primary;
-$navbar-item-active-color: $rism-digital-center-highlight;
 $navbar-item-color: #fff;
+$navbar-item-hover-background-color: lighten($rism-digital-center-primary, 5%);
+$navbar-item-hover-color: #fff;
+$navbar-item-active-background-color: darken($rism-digital-center-primary, 5%);
+$navbar-item-active-color: #fff;
