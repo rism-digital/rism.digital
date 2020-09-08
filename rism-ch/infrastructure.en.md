@@ -6,7 +6,7 @@ lang: en
 permalink: /rism-ch/infrastructure.html
 ---
 
-### Infrastructure projects
+# Infrastructure projects
 
 The Swiss RISM participates in projects in partnership with other
 institutions. These projects highlight the cultural heritage of

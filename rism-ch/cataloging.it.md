@@ -6,7 +6,7 @@ lang: it
 permalink: /rism-ch/cataloging.html
 ---
 
-### Progetti di catalogazione
+# Progetti di catalogazione
 
 L'Ufficio RISM-Svizzera ha lo scopo di catalogare il maggior numero di
 fonti musicali dei secoli passati site in Svizzera e di metterle a

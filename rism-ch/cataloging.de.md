@@ -6,7 +6,7 @@ lang: de
 permalink: /rism-ch/cataloging.html
 ---
 
-### Katalogisierungsprojekte
+# Katalogisierungsprojekte
 
 RISM Schweiz hat zum Ziel, möglichst viele musikalische Quellen der
 vergangenen Jahrhunderte in der Schweiz zu katalogisieren und so einer

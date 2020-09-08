@@ -6,7 +6,7 @@ lang: fr
 permalink: /rism-ch/cataloging.html
 ---
 
-### Projets de catalogage
+# Projets de catalogage
 
 Le but du RISM Suisse est d\'inventorier le plus grand nombre de sources
 musicales et de les rendre ainsi accessibles au public. Ce travail

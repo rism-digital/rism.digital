@@ -6,7 +6,7 @@ lang: de
 permalink: /rism-ch/infrastructure.html
 ---
 
-### Infrastrukturprojekte
+# Infrastrukturprojekte
 
 Die Arbeitsstelle Schweiz des RISM lanciert und realisiert teilweise
 eigene Projekte gemeinsam mit diversen Partnerinstitutionen. Diese

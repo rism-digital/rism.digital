@@ -6,7 +6,7 @@ lang: it
 permalink: /rism-ch/infrastructure.html
 ---
 
-### Progetti di infrastruttura
+# Progetti di infrastruttura
 
 L'Ufficio RISM-Svizzera lancia e in parte realizza progetti propri in
 collaborazione con diverse istituzioni. Queste collaborazioni vertono a

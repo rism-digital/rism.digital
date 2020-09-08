@@ -6,7 +6,7 @@ lang: en
 permalink: /rism-ch/cataloging.html
 ---
 
-### Cataloging projects
+# Cataloging projects
 
 The aim of the Swiss RISM is to inventory the largest number of musical
 sources and make them accessible to the public. The work is organized
