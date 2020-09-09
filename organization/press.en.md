@@ -1,9 +1,9 @@
 ---
 title: press
-layout: rism-ch
+layout: organization
 show_posts: false
 lang: en
-permalink: /rism-ch/press.html
+permalink: /organization/press.html
 
 label:
   de: "Zeitungsartikel"
