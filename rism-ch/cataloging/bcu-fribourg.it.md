@@ -1,5 +1,5 @@
 ---
-title: bcu-fribourg
+title: "BCU Fribourg"
 layout: past-cataloging
 show_posts: false
 lang: it

@@ -1,5 +1,5 @@
 ---
-title: einsiedeln
+title: "Bibliothèque musicale de l\'abbaye d\'Einsiedeln"
 layout: past-cataloging
 show_posts: false
 lang: fr

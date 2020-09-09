@@ -1,5 +1,5 @@
 ---
-title: beromuenster
+title: "Collegiata di San Michele a Beromünster"
 layout: past-cataloging
 show_posts: false
 lang: it

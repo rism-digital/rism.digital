@@ -1,5 +1,5 @@
 ---
-title: snb
+title: "Schweizerische Nationalbibliothek"
 layout: cataloging
 show_posts: false
 lang: de

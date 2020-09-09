@@ -1,5 +1,5 @@
 ---
-title: einsiedeln
+title: "Musikbibliothek des Klosters Einsiedeln"
 layout: past-cataloging
 show_posts: false
 lang: de

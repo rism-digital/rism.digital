@@ -1,5 +1,5 @@
 ---
-title: zhb-lu
+title: "Lucerne Central and University Library"
 layout: cataloging
 show_posts: false
 lang: en

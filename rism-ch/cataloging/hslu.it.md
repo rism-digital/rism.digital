@@ -1,5 +1,5 @@
 ---
-title: hslu
+title: "Scuola universitaria di musica a Lucerna"
 layout: past-cataloging
 show_posts: false
 lang: it

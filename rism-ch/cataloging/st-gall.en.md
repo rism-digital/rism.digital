@@ -1,5 +1,5 @@
 ---
-title: st-gall
+title: "Domarchiv St. Gallen"
 layout: past-cataloging
 show_posts: false
 lang: en

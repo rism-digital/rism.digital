@@ -1,5 +1,5 @@
 ---
-title: bcu-fribourg
+title: "Collection du monastère de Montorge"
 layout: past-cataloging
 show_posts: false
 lang: fr

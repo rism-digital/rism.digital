@@ -1,5 +1,5 @@
 ---
-title: zhb-lu
+title: "Zentral- und Hochschulbibliothek Luzern"
 layout: cataloging
 show_posts: false
 lang: de

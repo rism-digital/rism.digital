@@ -1,5 +1,5 @@
 ---
-title: sarnen
+title: "Sarnen"
 layout: past-cataloging
 show_posts: false
 lang: fr

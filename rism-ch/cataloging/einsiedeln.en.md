@@ -1,5 +1,5 @@
 ---
-title: einsiedeln
+title: "Music library of Einsiedeln monastery"
 layout: past-cataloging
 show_posts: false
 lang: en

@@ -1,5 +1,5 @@
 ---
-title: hslu
+title: "Hochschule Luzern - Musik"
 layout: past-cataloging
 show_posts: false
 lang: de

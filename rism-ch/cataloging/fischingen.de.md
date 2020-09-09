@@ -1,5 +1,5 @@
 ---
-title: fischingen
+title: "Kloster Fischingen"
 layout: past-cataloging
 show_posts: false
 lang: de

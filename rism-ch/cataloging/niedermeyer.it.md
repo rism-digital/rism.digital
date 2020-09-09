@@ -1,5 +1,5 @@
 ---
-title: niedermeyer
+title: "Fondo Louis Niedermeyer"
 layout: past-cataloging
 show_posts: false
 lang: it

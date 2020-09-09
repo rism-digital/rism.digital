@@ -1,5 +1,5 @@
 ---
-title: niedermeyer
+title: "Louis Niedermeyer collection"
 layout: past-cataloging
 show_posts: false
 lang: en

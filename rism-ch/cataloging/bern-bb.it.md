@@ -1,5 +1,5 @@
 ---
-title: bern-bb
+title: "Biblioteca della Borghesia di Berna"
 layout: cataloging
 show_posts: false
 lang: it

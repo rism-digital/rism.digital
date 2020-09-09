@@ -1,5 +1,5 @@
 ---
-title: hslu
+title: "Lucerne School of Music"
 layout: past-cataloging
 show_posts: false
 lang: en

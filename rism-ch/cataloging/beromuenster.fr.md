@@ -1,5 +1,5 @@
 ---
-title: beromuenster
+title: "Collégiale de Beromünster"
 layout: past-cataloging
 show_posts: false
 lang: fr

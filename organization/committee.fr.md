@@ -1,10 +1,12 @@
 ---
-title: committee
+title: "Comité directeur"
 layout: organization
 show_posts: false
 lang: fr
 permalink: /organization/committee.html
 ---
+
+<h1>Comité directeur</h1>
 
 <div class="columns">
     <div class="column is-half-desktop">  

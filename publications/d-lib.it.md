@@ -1,5 +1,5 @@
 ---
-title: d-lib
+title: "RISM Digital Library"
 layout: publications
 show_posts: false
 lang: it

@@ -1,5 +1,5 @@
 ---
-title: munzingeriana
+title: "Zentralbibliothek Solothurn"
 layout: past-cataloging
 show_posts: false
 lang: de

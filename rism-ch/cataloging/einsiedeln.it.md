@@ -1,5 +1,5 @@
 ---
-title: einsiedeln
+title: "Biblioteca del convento di Einsiedeln"
 layout: past-cataloging
 show_posts: false
 lang: it

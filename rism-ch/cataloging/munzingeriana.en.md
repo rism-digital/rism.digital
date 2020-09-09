@@ -1,5 +1,5 @@
 ---
-title: munzingeriana
+title: "Solothurn Central Library"
 layout: past-cataloging
 show_posts: false
 lang: en

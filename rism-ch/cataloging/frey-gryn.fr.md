@@ -1,5 +1,5 @@
 ---
-title: frey-gryn
+title: "Bibliothèque de l\'Institut Frey-Gryn"
 layout: cataloging
 show_posts: false
 lang: fr

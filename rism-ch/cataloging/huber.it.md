@@ -1,5 +1,5 @@
 ---
-title: huber
+title: "Fondo Ferdinand Fürchtegott Huber"
 layout: past-cataloging
 show_posts: false
 lang: it

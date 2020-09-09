@@ -1,5 +1,5 @@
 ---
-title: bcu-lausanne
+title: "BCU Lausanne"
 layout: past-cataloging
 show_posts: false
 lang: fr

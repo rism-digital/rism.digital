@@ -1,5 +1,5 @@
 ---
-title: huber
+title: "Ferdinand Fürchtegott Huber collection"
 layout: past-cataloging
 show_posts: false
 lang: en

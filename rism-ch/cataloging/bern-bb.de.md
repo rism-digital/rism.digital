@@ -1,5 +1,5 @@
 ---
-title: bern-bb
+title: "Burgerbibliothek Bern"
 layout: cataloging
 show_posts: false
 lang: de

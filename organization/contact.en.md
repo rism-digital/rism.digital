@@ -4,6 +4,12 @@ layout: organization
 show_posts: false
 lang: en
 permalink: /organization/contact.html
+
+label:
+  de: "Kontakt"
+  en: "Contact"
+  fr: "Contact"
+  it: "Contatti"
 ---
 
 <h1>

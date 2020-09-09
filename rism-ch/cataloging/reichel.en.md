@@ -1,5 +1,5 @@
 ---
-title: reichel
+title: "Adolf Reichel collection"
 layout: past-cataloging
 show_posts: false
 lang: en

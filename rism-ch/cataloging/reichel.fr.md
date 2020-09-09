@@ -1,5 +1,5 @@
 ---
-title: reichel
+title: "Fonds Adolf Reichel"
 layout: past-cataloging
 show_posts: false
 lang: fr

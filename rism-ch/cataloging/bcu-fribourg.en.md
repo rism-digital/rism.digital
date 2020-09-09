@@ -1,5 +1,5 @@
 ---
-title: bcu-fribourg
+title: "Collection of the Convent of Montorge"
 layout: cataloging
 show_posts: false
 lang: en

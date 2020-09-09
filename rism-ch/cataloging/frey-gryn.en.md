@@ -1,5 +1,5 @@
 ---
-title: frey-gryn
+title: "Frey-Gryn Institute library"
 layout: cataloging
 show_posts: false
 lang: en

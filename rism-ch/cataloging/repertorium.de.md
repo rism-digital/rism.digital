@@ -1,5 +1,5 @@
 ---
-title: repertorium
+title: "Repertorium"
 layout: cataloging
 show_posts: false
 lang: de

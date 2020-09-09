@@ -1,5 +1,5 @@
 ---
-title: beromuenster
+title: "Stifts St. Michael Beromünster"
 layout: past-cataloging
 show_posts: false
 lang: de

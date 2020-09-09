@@ -1,5 +1,5 @@
 ---
-title: hslu
+title: "Haute école de musique Lucerne"
 layout: past-cataloging
 show_posts: false
 lang: fr

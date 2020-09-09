@@ -1,5 +1,5 @@
 ---
-title: beromuenster
+title: "Collegiate church of Beromünster"
 layout: past-cataloging
 show_posts: false
 lang: en

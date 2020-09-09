@@ -1,5 +1,5 @@
 ---
-title: zhb-lu
+title: "BCU Lucerne"
 layout: cataloging
 show_posts: false
 lang: fr

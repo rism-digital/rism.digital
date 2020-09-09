@@ -1,5 +1,5 @@
 ---
-title: niedermeyer
+title: "Nachlass Louis Niedermeyer"
 layout: past-cataloging
 show_posts: false
 lang: de

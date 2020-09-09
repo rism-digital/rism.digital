@@ -1,5 +1,5 @@
 ---
-title: bern-bb
+title: "Bibliothèque de la Bourgeoisie de Berne"
 layout: cataloging
 show_posts: false
 lang: fr

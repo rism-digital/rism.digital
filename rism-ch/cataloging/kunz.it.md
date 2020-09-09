@@ -1,5 +1,5 @@
 ---
-title: kunz
+title: "Fondo Ernst Kunz"
 layout: past-cataloging
 show_posts: false
 lang: it

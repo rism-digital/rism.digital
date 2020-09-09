@@ -1,5 +1,5 @@
 ---
-title: kunz
+title: "Ernst Kunz collection"
 layout: past-cataloging
 show_posts: false
 lang: en

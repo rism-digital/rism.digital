@@ -1,5 +1,5 @@
 ---
-title: munzingeriana
+title: "Biblioteca centrale di Soletta"
 layout: past-cataloging
 show_posts: false
 lang: it
