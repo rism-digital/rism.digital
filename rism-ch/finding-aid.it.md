@@ -1,5 +1,5 @@
 ---
-title: finding-aid
+title: "Collezioni musicali"
 layout: rism-ch
 show_posts: false
 lang: it

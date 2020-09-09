@@ -1,12 +1,12 @@
 ---
-title: publications
+title: "Publikationen"
 layout: publications
 show_posts: false
 lang: de
 permalink: /publications.html
 ---
 
-### Publikationen
+# Publikationen
 
 In unmittelbarer Nähe zur Katalogisierungsarbeit oder durch diese
 inspiriert entstehen nicht selten neue Erkenntnisse, welche die

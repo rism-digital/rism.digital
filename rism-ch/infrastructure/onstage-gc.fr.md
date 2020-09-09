@@ -1,5 +1,5 @@
 ---
-title: onstage-gc
+title: "OnStage: Conservatoire de Musique de Genève"
 layout: infrastructure
 show_posts: false
 lang: fr

@@ -1,5 +1,5 @@
 ---
-title: onstage-lac
+title: "OnStage: HEMU -- Conservatoire de Lausanne"
 layout: infrastructure
 show_posts: false
 lang: it

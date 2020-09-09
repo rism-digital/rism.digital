@@ -1,5 +1,5 @@
 ---
-title: "Collection of the Convent of Montorge"
+title: "BCU Fribourg"
 layout: cataloging
 show_posts: false
 lang: en

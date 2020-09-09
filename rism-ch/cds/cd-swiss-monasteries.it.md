@@ -1,5 +1,5 @@
 ---
-title: cd-swiss-monasteries
+title: "Monasteri Svizzeri"
 layout: cds
 show_posts: false
 lang: it

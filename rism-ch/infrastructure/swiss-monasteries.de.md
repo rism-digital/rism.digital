@@ -1,5 +1,5 @@
 ---
-title: swiss-monasteries
+title: "Musik aus Schweizer Klöstern"
 layout: infrastructure
 show_posts: false
 lang: de

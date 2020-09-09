@@ -1,5 +1,5 @@
 ---
-title: mei
+title: "Music Encoding Initiative (MEI)"
 layout: infrastructure
 show_posts: false
 lang: fr

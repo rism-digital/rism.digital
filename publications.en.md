@@ -1,12 +1,12 @@
 ---
-title: publications
+title: "Publications"
 layout: publications
 show_posts: false
 lang: en
 permalink: /publications.html
 ---
 
-### Publications
+# Publications
 
 New knowledge frequently arises alongside the cataloguing work or is
 inspired by it. The staff of the Swiss RISM publish such insights in

@@ -1,5 +1,5 @@
 ---
-title: "Klosterbestand Montorge"
+title: "BCU Fribourg"
 layout: past-cataloging
 show_posts: false
 lang: de

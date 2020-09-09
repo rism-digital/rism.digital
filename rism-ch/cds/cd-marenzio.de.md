@@ -1,5 +1,5 @@
 ---
-title: cd-marenzio
+title: "Il Pasto Fido -- Luca Marenzio"
 layout: cds
 show_posts: false
 lang: de

@@ -1,5 +1,5 @@
 ---
-title: kapellmeisterbuch
+title: "Kapellmeisterbuch"
 layout: infrastructure
 show_posts: false
 lang: de

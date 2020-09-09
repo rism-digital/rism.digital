@@ -1,5 +1,5 @@
 ---
-title: onstage-famb
+title: "OnStage: Freunde Alter Musik Basel"
 layout: infrastructure
 show_posts: false
 lang: de

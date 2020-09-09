@@ -1,5 +1,5 @@
 ---
-title: digital-music-unica-in-switzerland
+title: "Digital Music Unica in Switzerland"
 layout: infrastructure
 show_posts: false
 lang: de

@@ -1,5 +1,5 @@
 ---
-title: informationspool
+title: "Informationspool"
 layout: infrastructure
 show_posts: false
 lang: en

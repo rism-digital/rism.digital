@@ -1,5 +1,5 @@
 ---
-title: RISM Switzerland
+title: "RISM Switzerland"
 layout: rism-ch
 show_posts: false
 lang: en

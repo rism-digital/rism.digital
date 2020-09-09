@@ -1,5 +1,5 @@
 ---
-title: psmd
+title: "Printed Sacred Music Database"
 layout: infrastructure
 show_posts: false
 lang: de
