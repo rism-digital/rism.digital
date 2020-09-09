@@ -1,5 +1,5 @@
 ---
-title: "Archives de la ville d\'Olten"
+title: "Archives de la ville d'Olten"
 layout: past-cataloging
 show_posts: false
 lang: fr

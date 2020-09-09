@@ -5,14 +5,14 @@ show_posts: false
 lang: en
 permalink: /organization/press.html
 
-label:
+titles:
   de: "Zeitungsartikel"
   en: "Press articles"
   fr: "Articles de presse"
   it: "Articoli della stampa"
 ---
 
-<h1>{{ page.label[site.active_lang] }}</h1>
+<h1>{{ page.titles[site.active_lang] }}</h1>
 
 <table class="about_us">
     <tr>

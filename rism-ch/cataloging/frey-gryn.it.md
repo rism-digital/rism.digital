@@ -1,5 +1,5 @@
 ---
-title: "Biblioteca dell\'Istituto Frey-Gryn"
+title: "Biblioteca dell'Istituto Frey-Gryn"
 layout: cataloging
 show_posts: false
 lang: it

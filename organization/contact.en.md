@@ -5,7 +5,7 @@ show_posts: false
 lang: en
 permalink: /organization/contact.html
 
-label:
+titles:
   de: "Kontakt"
   en: "Contact"
   fr: "Contact"
