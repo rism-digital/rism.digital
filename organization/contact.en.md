@@ -6,4 +6,125 @@ lang: en
 permalink: /organization/contact.html
 ---
 
- {% include contact.html %}
+<h1>
+    {{ site.data.contact.title[site.active_lang] }}
+</h1>
+
+<div class="card">
+	<header class="card-header">
+		<p class="card-header-title">
+			Card title
+		</p>
+		<a href="#collapsible-card1" data-action="collapse" class="card-header-icon is-hidden-fullscreen" aria-label="more options">
+			<span class="icon">
+				<i class="fas fa-angle-down" aria-hidden="true"></i>
+			</span>
+		</a>
+	</header>
+	<div id="collapsible-card1" class="is-collapsible is-active">
+		<div class="card-content">
+			<p class="title is-4">
+				“There are two hard things in computer science: cache invalidation, naming things, and off-by-one
+				errors.”
+			</p>
+			<p class="subtitle is-5">
+				Jeff Atwood
+			</p>
+		</div>
+		<footer class="card-footer">
+			<p class="card-footer-item">
+				<span>
+					View on <a href="https://twitter.com/codinghorror/status/506010907021828096">Twitter</a>
+				</span>
+			</p>
+			<p class="card-footer-item">
+				<span>
+					Share on <a href="#">Facebook</a>
+				</span>
+			</p>
+		</footer>
+	</div>
+</div>
+
+<div>
+    <div class="columns is-desktop">
+        <div class="column is-three-quarters-desktop">
+            <p>
+                {{ site.data.contact.office.address[site.active_lang] }}
+                <br/><br/>
+                <a href="mailto:{{ site.data.contact.office.email }}"><span class="icon"><i class="fas fa-envelope"></i></span>mailto:{{ site.data.contact.office.email }}</a>
+            </p>
+            <p class="person_name">
+                {{ site.data.contact.office.howto[site.active_lang] }}
+            </p>
+            <p>
+                {{ site.data.contact.office.nb[site.active_lang] }}
+            </p>
+        </div>
+        <div class="column is-one-quarter-desktop">
+            <div align="center">
+                <a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Hallwylstrasse+15,+3005+Bern,+Switzerland&amp;sll=41.260946,-117.27196&amp;sspn=109.92994,270.527344&amp;ie=UTF8&amp;hq=&amp;hnear=Hallwylstrasse+15,+3005+Bern,+Switzerland&amp;ll=46.947919,7.45388&amp;spn=0.020508,0.036478&amp;z=14&amp;iwloc=A" target="_blank"><img class="map img_responsive" src="/images/rism_ch/map-small.png"></a>
+            </div>
+        </div>
+    </div>  
+    {% for g in site.data.contact.groups %}
+    <h4>
+        {{ g.labels[site.active_lang] }}
+    </h4>
+        {% for p in g.person %}
+        <p class="person_name">
+            {{ p.name }}
+        </p>
+        <p class="person_data">
+            <span class="icon"><i class="fas fa-phone"></i></span>{{ p.phone }}
+            {% if p.days %}
+            {{ p.days[site.active_lang] }}
+            {% endif %}
+            <br/>
+            <a href="mailto:{{ p.email }}"><span class="icon"><i class="fas fa-envelope"></i></span>{{ p.email }}</a>
+        </p>
+        <p class="text">
+            <span class="icon"><i class="fas fa-plus"></i></span>
+            <span class="glyphicon glyphicon-plus">&nbsp;</span>
+        </p>
+        <div class="columns is-desktop">
+            <div class="column is-three-quarters-desktop">
+                <p>
+                    {{ p.text[site.active_lang] }}
+                </p>
+            </div>
+            <div class="column is-one-quarter-desktop" style="margin-top: 0px; margin-bottom: 20px;">
+                {% unless p.no-photo %}
+                <img class="img-responsive" src="/images/photos/{{ p.photo }}"/>
+                {% endunless %}
+            </div>
+         </div>
+
+        {% endfor %}
+    {% endfor %}
+</div>
+
+<script>
+
+// Return an array of bulmaCollapsible instances (empty if no DOM node found)
+const bulmaCollapsibleInstances = bulmaCollapsible.attach('.is-collapsible');
+
+// Loop into instances
+bulmaCollapsibleInstances.forEach(bulmaCollapsibleInstance => {
+    // Check if current state is collapsed or not
+    console.log(bulmaCollapsibleInstance.collapsed());
+});
+
+/*
+$('.text').click(function () {
+    next = $(this).next('div.text-content');
+    next.slideToggle();
+    $('> span', this).toggleClass('fa-plus fa-minus');
+    
+    if ( next.is(':visible') && next.is(':last-child')) {
+       $("html, body").animate({scrollTop: next.offset().top});
+    }
+}); 
+*/
+
+</script>
