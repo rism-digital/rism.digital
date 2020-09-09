@@ -6,7 +6,7 @@ lang: it
 permalink: /rism-ch/cataloging/snb.html
 ---
 
-### Fondi di compositori nella Biblioteca nazionale svizzera
+# Fondi di compositori nella Biblioteca nazionale svizzera
 
 Dal 2001, l\'Ufficio svizzero del RISM cura i fondi storici musicali
 della Biblioteca nazionale svizzera (BN). Nel 2006, l\'incarico è stato

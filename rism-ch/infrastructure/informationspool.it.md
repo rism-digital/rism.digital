@@ -6,7 +6,7 @@ lang: it
 permalink: /rism-ch/infrastructure/informationspool.html
 ---
 
-### \'Informationspool\' -- repertorio dei compositori svizzeri del XIX secolo
+# \'Informationspool\' -- repertorio dei compositori svizzeri del XIX secolo
 
 Il progetto \'Informationspool\' - repertorio dei compositori svizzeri
 del XIX secolo è stato avviato nel settembre 2008. Il progetto,

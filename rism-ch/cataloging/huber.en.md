@@ -6,7 +6,7 @@ lang: en
 permalink: /rism-ch/cataloging/huber.html
 ---
 
-### Ferdinand Fürchtegott Huber collection
+# Ferdinand Fürchtegott Huber collection
 
 The collection of the St. Gallen composer Ferdinand Fürchtegott Huber
 (1791-1863) is held at the Cantonal Library Viadana of St. Gallen.

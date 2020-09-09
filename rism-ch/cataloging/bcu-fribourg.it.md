@@ -6,7 +6,7 @@ lang: it
 permalink: /rism-ch/cataloging/bcu-fribourg.html
 ---
 
-### Collezione del Monastero di Montorge
+# Collezione del Monastero di Montorge
 
 La collezione musicale del monastero di Montorge è stata trasferita alla
 Biblioteca universitaria e cantonale di Friburgo dall\'Istituto di

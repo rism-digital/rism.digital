@@ -6,7 +6,7 @@ lang: fr
 permalink: /rism-ch/cataloging/frey-gryn.html
 ---
 
-### Fragments de musique dans les reliures de la Bibliothèque de l\'Institut Frey-Gryn
+# Fragments de musique dans les reliures de la Bibliothèque de l\'Institut Frey-Gryn
 
 Dans un projet lancé en 2012, les livres de la collection de 1747 de la
 bibliothèque Frey-Gryn à Bâle qui contiennent des fragments de musique

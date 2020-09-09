@@ -6,7 +6,7 @@ lang: de
 permalink: /rism-ch/cataloging/kunz.html
 ---
 
-### Nachlass Ernst Kunz
+# Nachlass Ernst Kunz
 
 Der Nachlass des Komponisten und Dirigenten Ernst Kunz, der in der ZB
 Solothurn untergebracht ist, wurde zwischen 2010 und 2013 bearbeitet.

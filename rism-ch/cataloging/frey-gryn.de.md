@@ -6,7 +6,7 @@ lang: de
 permalink: /rism-ch/cataloging/frey-gryn.html
 ---
 
-### Musikalische Fragmente in den Einbänden der Frey-Grynäischen Institutsbibliothek
+# Musikalische Fragmente in den Einbänden der Frey-Grynäischen Institutsbibliothek
 
 Im ursprünglichen Bestand der Frey-Grynäischen Bibliothek in Basel von
 1747 wurden in einem 2012 gestarteten Projekt diejenigen Bücher in der

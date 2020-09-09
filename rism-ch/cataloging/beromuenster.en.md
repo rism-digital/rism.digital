@@ -6,7 +6,7 @@ lang: en
 permalink: /rism-ch/cataloging/beromuenster.html
 ---
 
-### Music library of the collegiate church of Beromünster
+# Music library of the collegiate church of Beromünster
 
 Thanks to the financial support of the Albert Koechlin foundation
 (Albert Koechlin Stiftung) in Lucerne, the music sources of St. Michael

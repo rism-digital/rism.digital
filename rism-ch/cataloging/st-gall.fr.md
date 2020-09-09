@@ -6,7 +6,7 @@ lang: fr
 permalink: /rism-ch/cataloging/st-gall.html
 ---
 
-### Collection musicale du Domarchiv St. Gallen
+# Collection musicale du Domarchiv St. Gallen
 
 La collection des archives musicales de la cathédrale de St. Gall a été
 inventoriée de juin 2003 à juillet 2004 par le RISM Suisse.

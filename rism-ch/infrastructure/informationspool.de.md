@@ -6,7 +6,7 @@ lang: de
 permalink: /rism-ch/infrastructure/informationspool.html
 ---
 
-### Informationspool „Repertorium Schweizer Komponisten des 19. Jahrhunderts"
+# Informationspool „Repertorium Schweizer Komponisten des 19. Jahrhunderts"
 
 Das Projekt \"Informationspool -- Repertorium Schweizer Komponisten des
 19. Jahrhunderts\" wurde im September 2008 ins Leben gerufen. Es wurde

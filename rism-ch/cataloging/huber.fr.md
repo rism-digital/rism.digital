@@ -6,7 +6,7 @@ lang: fr
 permalink: /rism-ch/cataloging/huber.html
 ---
 
-### Fonds Ferdinand Fürchtegott Huber (1791-1863)
+# Fonds Ferdinand Fürchtegott Huber (1791-1863)
 
 Le fonds du compositeur st-gallois Ferdinand Fürchtegott Huber se trouve
 à la Bibliothèque Cantonale Viadana de St-Gall. Huber, né en 1791, était

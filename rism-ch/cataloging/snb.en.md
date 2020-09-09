@@ -6,7 +6,7 @@ lang: en
 permalink: /rism-ch/cataloging/snb.html
 ---
 
-### Unpublished works and prints of composers at the Swiss National Library
+# Unpublished works and prints of composers at the Swiss National Library
 
 Since 2001, the Swiss RISM has been in charge of the music collections
 at the Swiss National Library (NL). In 2006, the tasks were extended to

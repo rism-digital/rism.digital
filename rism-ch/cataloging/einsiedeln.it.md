@@ -6,7 +6,7 @@ lang: it
 permalink: /rism-ch/cataloging/einsiedeln.html
 ---
 
-### Compositori svizzeri dell\'Ottocento nella biblioteca del convento di Einsiedeln
+# Compositori svizzeri dell\'Ottocento nella biblioteca del convento di Einsiedeln
 
 Il progetto Compositori svizzeri dell\'Ottocento nella biblioteca
 musicale del convento di Einsiedeln è stato sviluppato da RISM-Svizzera

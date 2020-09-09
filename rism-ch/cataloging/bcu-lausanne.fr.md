@@ -6,7 +6,7 @@ lang: fr
 permalink: /rism-ch/cataloging/bcu-lausanne.html
 ---
 
-### Catalogage dans l'archive musicale de la BCU Lausanne
+# Catalogage dans l'archive musicale de la BCU Lausanne
 
 Le RISM Suisse travaillera dans le cadre d'une collaboration avec
 l'archive de musique de la BCU Lausanne sur les fonds Henri Plumhof

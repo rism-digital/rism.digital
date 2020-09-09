@@ -6,7 +6,7 @@ lang: fr
 permalink: /rism-ch/cataloging/fischingen.html
 ---
 
-### Monastère de Fischingen
+# Monastère de Fischingen
 
 Le but du projet de catalogage \"Monastère de Fischingen -- Bibliothèque
 musicale historique\" est de documenter de manière détaillée la riche

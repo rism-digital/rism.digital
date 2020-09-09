@@ -6,7 +6,7 @@ lang: it
 permalink: /rism-ch/infrastructure/digital-music-unica-in-switzerland.html
 ---
 
-### Digital Music Unica in Switzerland (D-MUS)
+# Digital Music Unica in Switzerland (D-MUS)
 
 Il progetto mira a fornire accesso pubblico a fonti musicali uniche
 custodite in biblioteche e archivi pubblici o privati di piccole

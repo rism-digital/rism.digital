@@ -6,7 +6,7 @@ lang: fr
 permalink: /rism-ch/cataloging/reichel.html
 ---
 
-### Fonds Adolf Reichel (1816-1896)
+# Fonds Adolf Reichel (1816-1896)
 
 Le fonds du compositeur Adolf Reichel -- né en Prusse occidentale
 (aujourd'hui Pologne) et mort à Berne -- est conservé à la Bibliothèque

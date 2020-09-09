@@ -6,7 +6,7 @@ lang: fr
 permalink: /rism-ch/infrastructure/swiss-monasteries.html
 ---
 
-### Musiques des monastères suisses
+# Musiques des monastères suisses
 
 En septembre 2005 le Fonds National Suisse pour la Recherche
 Scientifique a alloué un important financement au projet de recherche

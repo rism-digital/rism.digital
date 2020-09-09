@@ -6,7 +6,7 @@ lang: it
 permalink: /rism-ch/infrastructure/psmd.html
 ---
 
-### Printed Sacred Music Database
+# Printed Sacred Music Database
 
 La raccolta di informazioni esaurienti sulle edizioni a stampa di musica
 sacra è un desiderio della comunità musicologica da vari decenni. Una

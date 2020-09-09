@@ -6,7 +6,7 @@ lang: de
 permalink: /rism-ch/infrastructure/swiss-monasteries.html
 ---
 
-### Musik aus Schweizer Klöstern
+# Musik aus Schweizer Klöstern
 
 Im September 2005 hat der Schweizerische Nationalfonds zur Förderung der
 wissenschaftlichen Forschung dem Projekt Musik aus Schweizer Klöstern

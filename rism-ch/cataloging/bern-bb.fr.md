@@ -6,7 +6,7 @@ lang: fr
 permalink: /rism-ch/cataloging/bern-bb.html
 ---
 
-### (Re-)catalogage dans la Bibliothèque de la Bourgeoisie de Berne
+# (Re-)catalogage dans la Bibliothèque de la Bourgeoisie de Berne
 
 Le RISM Suisse a effectué à la Bibliothèque de la Bourgeoisie de Berne
 le re-catalogage et la correction de descriptions de sources qui étaient

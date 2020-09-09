@@ -6,7 +6,7 @@ lang: it
 permalink: /rism-ch/cataloging/niedermeyer.html
 ---
 
-### Fondo Louis Niedermeyer (1802-1861)
+# Fondo Louis Niedermeyer (1802-1861)
 
 Il fondo Louis Niedermeyer (1802-1861), custodito [dall\'Associazione
 Niedermeyer] a Nyon, comprende manoscritti ed edizioni a stampa di

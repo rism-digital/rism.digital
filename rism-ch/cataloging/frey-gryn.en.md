@@ -6,7 +6,7 @@ lang: en
 permalink: /rism-ch/cataloging/frey-gryn.html
 ---
 
-### Musical fragments in the bindings of the Frey-Gryn Institute library
+# Musical fragments in the bindings of the Frey-Gryn Institute library
 
 The original collection of the Frey-Gryn library in Basel dates from
 1747. In a project launched in 2012, the Swiss RISM inserted into its

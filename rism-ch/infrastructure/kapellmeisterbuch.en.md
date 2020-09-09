@@ -6,7 +6,7 @@ lang: en
 permalink: /rism-ch/infrastructure/kapellmeisterbuch.html
 ---
 
-### The 'Kapellmeisterbuch' of Einsiedeln
+# The 'Kapellmeisterbuch' of Einsiedeln
 
  {.hidden-xs style="float: right; margin: 0px 0px 10px 30px;"}
 ![][1]

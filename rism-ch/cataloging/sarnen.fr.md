@@ -6,7 +6,7 @@ lang: fr
 permalink: /rism-ch/cataloging/sarnen.html
 ---
 
-### La bibliothèque musicale du couvent des sœurs bénédictines de Saint-André, Sarnen
+# La bibliothèque musicale du couvent des sœurs bénédictines de Saint-André, Sarnen
 
 L'abbaye bénédictine de Saint-André à Sarnen possède l'une des plus
 importantes bibliothèques musicales historiques en Suisse. En 2003, le

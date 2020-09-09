@@ -6,7 +6,7 @@ lang: en
 permalink: /rism-ch/infrastructure/onstage-lac.html
 ---
 
-### OnStage: HEMU -- Lausanne conservatory
+# OnStage: HEMU -- Lausanne conservatory
 
 At the end of 2012, the Swiss RISM inaugurated a collaboration with the
 School of Music (HEMU) - Lausanne Conservatory for the OnStage project

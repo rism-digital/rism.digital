@@ -6,7 +6,7 @@ lang: de
 permalink: /rism-ch/cataloging/hslu.html
 ---
 
-### Musikbibliothek Hochschule Luzern - Musik
+# Musikbibliothek Hochschule Luzern - Musik
 
 Die Musikabteilung der Hochschule Luzern ist im Jahr 1999 unter dem
 Namen Musikhochschule Luzern durch den Zusammenschluss des

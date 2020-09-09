@@ -6,7 +6,7 @@ lang: de
 permalink: /rism-ch/cataloging/huber.html
 ---
 
-### Nachlass Ferdinand Fürchtegott Huber (1791-1863)
+# Nachlass Ferdinand Fürchtegott Huber (1791-1863)
 
 Der Nachlass des St. Galler Komponisten Ferdinand Fürchtegott Huber
 befindet sich in der Kantonsbibliothek St. Gallen Vadiana. Huber wurde

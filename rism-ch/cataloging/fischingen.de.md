@@ -6,7 +6,7 @@ lang: de
 permalink: /rism-ch/cataloging/fischingen.html
 ---
 
-### Kloster Fischingen
+# Kloster Fischingen
 
 Das Inventarisierungsprojekt Kloster Fischingen setzt sich zum Ziel, die
 reiche liturgisch-musikalische Tradition der Benediktinermönche im

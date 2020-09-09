@@ -6,7 +6,7 @@ lang: en
 permalink: /rism-ch/infrastructure/mei.html
 ---
 
-### Music Encoding Initiative (MEI)
+# Music Encoding Initiative (MEI)
 
  {.hidden-xs style="float: right; margin: 0px 0px 10px 30px;"}
 [![][1]]

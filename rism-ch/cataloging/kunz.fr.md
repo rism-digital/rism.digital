@@ -6,7 +6,7 @@ lang: fr
 permalink: /rism-ch/cataloging/kunz.html
 ---
 
-### Fonds Ernst Kunz
+# Fonds Ernst Kunz
 
 Le fonds du compositeur et chef d\'orchestre Ernst Kunz est conservé à
 la Bibliothèque centrale de Soleure. Entre 2010 et 2013, il a été

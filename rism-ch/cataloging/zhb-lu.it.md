@@ -6,7 +6,7 @@ lang: it
 permalink: /rism-ch/cataloging/zhb-lu.html
 ---
 
-### Biblioteca centrale e universitaria di Lucerna
+# Biblioteca centrale e universitaria di Lucerna
 
 Il fondo musicale storico della Biblioteca centrale e universitaria di
 Lucerna (BCU Lucerna) ha un\'importanza non solo a livello regionale, ma

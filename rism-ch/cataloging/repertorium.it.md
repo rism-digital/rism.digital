@@ -6,7 +6,7 @@ lang: it
 permalink: /rism-ch/cataloging/repertorium.html
 ---
 
-### Repertorio dei compositori svizzeri dell\'Ottocento
+# Repertorio dei compositori svizzeri dell\'Ottocento
 
 Con il progetto Compositori svizzeri dell\'Ottocento, RISM-Svizzera si è
 posto l\'obbiettivo di colmare le lacune inerenti la documentazione

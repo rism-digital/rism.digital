@@ -6,7 +6,7 @@ lang: it
 permalink: /rism-ch/cataloging/fischingen.html
 ---
 
-### Monastero di Fischingen
+# Monastero di Fischingen
 
 Il progetto di catalogazione nel monastero di Fischingen ha come
 obiettivo la estensiva documentazione della ricca tradizione

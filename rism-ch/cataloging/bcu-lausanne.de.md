@@ -6,7 +6,7 @@ lang: de
 permalink: /rism-ch/cataloging/bcu-lausanne.html
 ---
 
-### Katalogisierung im Musikarchiv der BCU Lausanne
+# Katalogisierung im Musikarchiv der BCU Lausanne
 
 Im Rahmen der Zusammenarbeit mit dem Musikarchiv der BCU Lausanne wird
 RISM Schweiz die Nachlässe von Henri Plumhof (1836-1914), Paul Juon

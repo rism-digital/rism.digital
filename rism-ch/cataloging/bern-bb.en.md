@@ -6,7 +6,7 @@ lang: en
 permalink: /rism-ch/cataloging/bern-bb.html
 ---
 
-### (Re-)cataloguing in the Burgerbibliothek Bern
+# (Re-)cataloguing in the Burgerbibliothek Bern
 
 RISM Switzerland was charged with the re-cataloguing and correcting of
 those source descriptions at the Burgerbibliothek Bern that were wrong

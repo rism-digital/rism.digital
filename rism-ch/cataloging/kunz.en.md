@@ -6,7 +6,7 @@ lang: en
 permalink: /rism-ch/cataloging/kunz.html
 ---
 
-### Ernst Kunz collection
+# Ernst Kunz collection
 
 The collection of the composer and conductor Ernst Kunz, which is housed
 in the Central Library in Solothurn, was taken in charge by the Swiss

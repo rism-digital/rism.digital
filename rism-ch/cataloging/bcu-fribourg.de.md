@@ -6,7 +6,7 @@ lang: de
 permalink: /rism-ch/cataloging/bcu-fribourg.html
 ---
 
-### Klosterbestand Montorge
+# Klosterbestand Montorge
 
 Der Musikbestand aus dem Kloster Montorge wurde im Jahr 2016 vom
 Musikwissenschaftlichen Institut in Freiburg der Universitäts- und
