@@ -1,0 +1,62 @@
+name: Jekyll deployment
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master, staging ]
+  pull_request:
+    branches: [ master, staging ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.6'
+    
+    # Use GitHub Actions' cache to shorten build times and decrease load on servers
+    - uses: actions/cache@v2.1.0
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+    
+    # Tun the jekyll action
+    - uses:  lemonarc/jekyll-action@1.0.0
+
+  publish:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Set server to deployment if on staging branch
+        if: endsWith(github.ref, '/staging')
+        run: |
+          echo "::set-env name=DEPLOY_SERVER::secrets.DEPLOY_STAGING_SERVER"
+          echo "::set-env name=DEPLOY_PATH::secrets.DEPLOY_STAGING_PATH"
+
+      - name: Set server to production if on master branch
+        if: endsWith(github.ref, '/master')
+        run: |
+          echo "::set-env name=DEPLOY_SERVER::secrets.DEPLOY_PRODUCTION_SERVER"
+          echo "::set-env name=DEPLOY_PATH::secrets.DEPLOY_PRODUCTION_PATH"
+
+      # Deploy to remote server
+      - name: Deploy with rsync
+        uses: burnett01/rsync-deployments@4.1
+        with:
+          switches: -avzr --delete --exclude="uploads" --exclude="fileadmin"
+          path: _site/
+          remote_path: ${{ DEPLOY_PATH }}
+          remote_host: ${{ DEPLOY_SERVER }}
+          remote_user: ${{ secrets.DEPLOY_USER }}
+          remote_key: ${{ secrets.DEPLOY_KEY }}
