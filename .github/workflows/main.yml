@@ -39,10 +39,10 @@ jobs:
       - uses:  lemonarc/jekyll-action@1.0.0
 
       - name: Upload build artifacts
-          uses: actions/upload-artifact@v2
-          with:
-            name: site-output
-            path: _site
+        uses: actions/upload-artifact@v2
+        with:
+          name: site-output
+          path: _site
 
   publish:
     runs-on: ubuntu-latest
@@ -61,9 +61,9 @@ jobs:
           echo "::set-env name=DEPLOY_PATH::${{ secrets.DEPLOY_PRODUCTION_PATH }}"
 
       - name: Download build artifacts
-          uses: actions/download-artifact@v2
-          with:
-            name: site-output
+        uses: actions/download-artifact@v2
+        with:
+          name: site-output
 
       # Deploy to remote server
       - name: Deploy with rsync
