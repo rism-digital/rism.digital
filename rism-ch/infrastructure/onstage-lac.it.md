@@ -1,12 +1,12 @@
 ---
-title: onstage-lac
+title: "OnStage: HEMU -- Conservatoire de Lausanne"
 layout: infrastructure
 show_posts: false
 lang: it
 permalink: /rism-ch/infrastructure/onstage-lac.html
 ---
 
-### OnStage: HEMU -- Conservatorio di Losanna
+# OnStage: HEMU -- Conservatorio di Losanna
 
 Alla fine del 2012, RISM Svizzera ha stabilito una collaborazione con la
 Scuola universitaria di musica (HEMU) - Conservatorio di Losanna per il

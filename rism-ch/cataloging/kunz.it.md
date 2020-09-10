@@ -1,12 +1,12 @@
 ---
-title: kunz
+title: "Fondo Ernst Kunz"
 layout: past-cataloging
 show_posts: false
 lang: it
 permalink: /rism-ch/cataloging/kunz.html
 ---
 
-### Fondo Ernst Kunz
+# Fondo Ernst Kunz
 
 Il fondo del compositore e direttore Ernst Kunz, conservato nella
 Biblioteca centrale di Soletta, è stato censito tra il 2010 e il 2013.

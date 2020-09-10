@@ -1,12 +1,12 @@
 ---
-title: sarnen
+title: "Sarnen"
 layout: past-cataloging
 show_posts: false
 lang: en
 permalink: /rism-ch/cataloging/sarnen.html
 ---
 
-### Music library of the Benedictine monastery of St Andrew, Sarnen
+# Music library of the Benedictine monastery of St Andrew, Sarnen
 
 The abbey of St Andrew of Benedictine nuns in Sarnen possesses one of
 the most remarkable historical music libraries in Switzerland. In 2003

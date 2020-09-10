@@ -1,12 +1,12 @@
 ---
-title: snb
+title: "Schweizerische Nationalbibliothek"
 layout: cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/snb.html
 ---
 
-### Komponistennachlässe der Schweizerischen Nationalbibliothek
+# Komponistennachlässe der Schweizerischen Nationalbibliothek
 
 Die Arbeitsstelle Schweiz des RISM hat 2001 die Betreuung des
 historischen Musikbestandes der Schweizerischen Nationalbibliothek (NB)

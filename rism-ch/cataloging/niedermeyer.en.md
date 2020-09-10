@@ -1,12 +1,12 @@
 ---
-title: niedermeyer
+title: "Louis Niedermeyer collection"
 layout: past-cataloging
 show_posts: false
 lang: en
 permalink: /rism-ch/cataloging/niedermeyer.html
 ---
 
-### Louis Niedermeyer (1802-1861) collection
+# Louis Niedermeyer (1802-1861) collection
 
 The Louis Niedermeyer (1802-1861) collection, preserved by the
 [Association Niedermeyer] in Nyon, includes manuscripts and printed

@@ -1,12 +1,12 @@
 ---
-title: munzingeriana
+title: "Biblioteca centrale di Soletta"
 layout: past-cataloging
 show_posts: false
 lang: it
 permalink: /rism-ch/cataloging/munzingeriana.html
 ---
 
-#### Biblioteca centrale di Soletta / Archivio della città di Olten
+## Biblioteca centrale di Soletta / Archivio della città di Olten
 
 Nel 2013, i fondi musicali conservati nell\'Archivio della città di
 Olten sono stati trasferiti nella Biblioteca centrale di Soletta, e in

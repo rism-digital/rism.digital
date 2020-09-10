@@ -1,5 +1,5 @@
 ---
-title: About us
+title: "About us"
 layout: organization
 show_posts: false
 lang: de

@@ -22,3 +22,9 @@
         fr: "Contact"
         it: "Contatti"
       link: /organization/contact.html
+    - name:
+        de: "Zeitungsartikel"
+        en: "Press articles"
+        fr: "Articles de presses"
+        it: "Articoli della stampa"
+      link: /organization/press.html

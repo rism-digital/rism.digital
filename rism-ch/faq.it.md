@@ -1,5 +1,5 @@
 ---
-title: faq
+title: "FAQ"
 layout: rism-ch
 show_posts: false
 lang: it

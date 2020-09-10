@@ -1,10 +1,12 @@
 ---
-title: committee
+title: "Steering committee"
 layout: organization
 show_posts: false
 lang: en
 permalink: /organization/committee.html
 ---
+
+<h1>Steering committee</h1>
 
 <div class="columns">
     <div class="column is-half-desktop">  

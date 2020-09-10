@@ -1,12 +1,12 @@
 ---
-title: onstage-gc
+title: "OnStage: Conservatoire de Musique de Genève"
 layout: infrastructure
 show_posts: false
 lang: fr
 permalink: /rism-ch/infrastructure/onstage-gc.html
 ---
 
-### OnStage: Conservatoire de Musique de Genève
+# OnStage: Conservatoire de Musique de Genève
 
 Le projet OnStage réalisé entre 2012 et 2013 par la Haute Ecole de
 Musique (HEMU) -- Conservatoire Lausanne en collaboration avec le RISM

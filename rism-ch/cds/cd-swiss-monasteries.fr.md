@@ -1,5 +1,5 @@
 ---
-title: cd-swiss-monasteries
+title: "Musiques des Monastères Suisses"
 layout: cds
 show_posts: false
 lang: fr

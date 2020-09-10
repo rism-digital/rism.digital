@@ -1,10 +1,12 @@
 ---
-title: committee
+title: "Comitato"
 layout: organization
 show_posts: false
 lang: it
 permalink: /organization/committee.html
 ---
+
+<h1>Comitato</h1>
 
 <div class="columns">
     <div class="column is-half-desktop">  

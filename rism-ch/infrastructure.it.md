@@ -1,5 +1,5 @@
 ---
-title: infrastructure
+title: "Progetti di infrastruttura"
 layout: rism-ch
 show_posts: false
 lang: it

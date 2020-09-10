@@ -1,12 +1,12 @@
 ---
-title: zhb-lu
+title: "BCU Lucerne"
 layout: cataloging
 show_posts: false
 lang: fr
 permalink: /rism-ch/cataloging/zhb-lu.html
 ---
 
-### Bibliothèque centrale et universitaire de Lucerne
+# Bibliothèque centrale et universitaire de Lucerne
 
 La collection historique de musique de la Bibliothèuqe centrale et
 universitaire de Lucerne (ZHB Luzern) présente, en plus de son

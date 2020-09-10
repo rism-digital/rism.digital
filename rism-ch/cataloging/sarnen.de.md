@@ -1,12 +1,12 @@
 ---
-title: sarnen
+title: "Sarnen"
 layout: past-cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/sarnen.html
 ---
 
-### Musikbibliothek der Benediktinerinnen-Abtei St. Andreas, Sarnen
+# Musikbibliothek der Benediktinerinnen-Abtei St. Andreas, Sarnen
 
 Die Benediktinerinnen-Abtei St. Andreas in Sarnen besitzt eine der
 bedeutendsten historischen Musikbibliotheken der Schweiz. Bereits im

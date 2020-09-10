@@ -1,12 +1,12 @@
 ---
-title: frey-gryn
+title: "Biblioteca dell'Istituto Frey-Gryn"
 layout: cataloging
 show_posts: false
 lang: it
 permalink: /rism-ch/cataloging/frey-gryn.html
 ---
 
-### Frammenti musicali nelle rilegature della biblioteca dell\'Istituto Frey-Gryn
+# Frammenti musicali nelle rilegature della biblioteca dell\'Istituto Frey-Gryn
 
 Nella originaria collezione della biblioteca Frey-Gryn a Basilea,
 risalente al 1747, sono stati utilizzati come rilegature dei frammenti

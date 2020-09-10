@@ -1,12 +1,12 @@
 ---
-title: einsiedeln
+title: "Musikbibliothek des Klosters Einsiedeln"
 layout: past-cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/einsiedeln.html
 ---
 
-### Schweizer Komponisten des 19. Jahrhunderts in der Musikbibliothek des Klosters Einsiedeln
+# Schweizer Komponisten des 19. Jahrhunderts in der Musikbibliothek des Klosters Einsiedeln
 
 Das Projekt Schweizer Komponisten des 19. Jahrhunderts in der
 Musikbibliothek des Klosters Einsiedeln ist aus der

@@ -1,12 +1,12 @@
 ---
-title: st-gall
+title: "Domarchiv St. Gallen"
 layout: past-cataloging
 show_posts: false
 lang: en
 permalink: /rism-ch/cataloging/st-gall.html
 ---
 
-### Musical sources of the Domarchiv St. Gallen
+# Musical sources of the Domarchiv St. Gallen
 
 The collection of the archives of the cathedral of St. Gallen was
 catalogued between June 2003 and July 2004 by the Swiss RISM Office. The

@@ -1,12 +1,12 @@
 ---
-title: reichel
+title: "Adolf Reichel collection"
 layout: past-cataloging
 show_posts: false
 lang: en
 permalink: /rism-ch/cataloging/reichel.html
 ---
 
-### Adolf Reichel (1816-1896) collection
+# Adolf Reichel (1816-1896) collection
 
 The collection of the composer Adolf Reichel---born in West Prussia (now
 Poland) and died in Bern---is kept in the Music Library of the

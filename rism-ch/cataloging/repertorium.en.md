@@ -1,12 +1,12 @@
 ---
-title: repertorium
+title: "Repertorium"
 layout: cataloging
 show_posts: false
 lang: en
 permalink: /rism-ch/cataloging/repertorium.html
 ---
 
-### Repertory of 19th century Swiss composers
+# Repertory of 19th century Swiss composers
 
 By initiating the project \"Repertory of 19th century Swiss composers\",
 the Swiss RISM branch set itself the goal of filling a serious gap

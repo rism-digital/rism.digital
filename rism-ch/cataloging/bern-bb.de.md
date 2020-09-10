@@ -1,12 +1,12 @@
 ---
-title: bern-bb
+title: "Burgerbibliothek Bern"
 layout: cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/bern-bb.html
 ---
 
-### Re- und Neukatalogisierung in der Burgerbibliothek Bern
+# Re- und Neukatalogisierung in der Burgerbibliothek Bern
 
 Im Zuge der Rekatalogisierung bzw. Verbesserung bestehender, jedoch
 qualitativ ungenügend erfasster Daten aus der Burgerbibliothek Bern in

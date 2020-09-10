@@ -1,12 +1,12 @@
 ---
-title: sarnen
+title: "Sarnen"
 layout: past-cataloging
 show_posts: false
 lang: it
 permalink: /rism-ch/cataloging/sarnen.html
 ---
 
-### La biblioteca musicale del convento di suore benedettine di S. Andrea, Sarnen
+# La biblioteca musicale del convento di suore benedettine di S. Andrea, Sarnen
 
 L'abbazia di suore benedettine di S. Andrea a Sarnen possiede una delle
 più significative biblioteche musicali storiche della Svizzera. Già nel

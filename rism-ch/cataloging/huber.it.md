@@ -1,12 +1,12 @@
 ---
-title: huber
+title: "Fondo Ferdinand Fürchtegott Huber"
 layout: past-cataloging
 show_posts: false
 lang: it
 permalink: /rism-ch/cataloging/huber.html
 ---
 
-### Fondo Ferdinand Fürchtegott Huber (1791-1863)
+# Fondo Ferdinand Fürchtegott Huber (1791-1863)
 
 Il lascito del compositore sangallese Ferdinand Fürchtegott Huber si
 trova nella Biblioteca cantonale Vadiana a S. Gallo. Huber nacque a S.

@@ -1,12 +1,12 @@
 ---
-title: zhb-lu
+title: "Lucerne Central and University Library"
 layout: cataloging
 show_posts: false
 lang: en
 permalink: /rism-ch/cataloging/zhb-lu.html
 ---
 
-### Lucerne Central and University Library
+# Lucerne Central and University Library
 
 In addition to its regional importance, the historical music collection
 of Lucerne Central and University Library (ZHB Luzern) is highly

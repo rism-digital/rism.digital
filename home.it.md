@@ -1,5 +1,5 @@
 ---
-title: RISM Digital Center
+title: "Homepage"
 layout: default
 show_posts: false
 lang: it

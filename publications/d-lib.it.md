@@ -1,12 +1,12 @@
 ---
-title: d-lib
-layout: default
+title: "RISM Digital Library"
+layout: publications
 show_posts: false
 lang: it
 permalink: /publications/d-lib.html
 ---
 
-### RISM Digital Library
+# RISM Digital Library
 
 La serie \'RISM Digital Library\' (d-lib) riunisce la pubblicazione di
 documenti d\'archivio di interesse per la storia della musica in
@@ -37,20 +37,17 @@ dover fare la difficile scelta di adottare uno solo di questi approcci.
 
 Un codice ISSN permette di fare riferimento facilmente alla serie,
 mentre ciascun volume della collana è individuato da un indirizzo
-permanente ([purl.org]). La serie è organizzata in modo tale che altre
+permanente ([purl.org]{:target="_blank"}). La serie è organizzata in modo tale che altre
 edizioni di documenti rilevanti per la storia della musica in Svizzera
 in età moderna vi possono essere integrati facilmente. Trascrizione e
-indicizzazione utilizzano lo standard TEI ([Text Encoding Initiative]).
+indicizzazione utilizzano lo standard TEI ([Text Encoding Initiative]{:target="_blank"}).
 
-#### Volumi pubblicati
+## Volumi pubblicati
 
-[OnStage]
-
-[Kapellmeisterbuch]
+* [OnStage](http://d-lib.rism-ch.org/onstage)
+* [Kapellmeisterbuch](http://d-lib.rism-ch.org/kapellmeisterbuch)
 
 RISM digital library (d-lib), ISSN 2297-573X
 
-  [purl.org]: http://purl.org
-  [Text Encoding Initiative]: http://www.tei-c.org
-  [OnStage]: http://d-lib.rism-ch.org/onstage
-  [Kapellmeisterbuch]: http://d-lib.rism-ch.org/kapellmeisterbuch
+[purl.org]: http://purl.org
+[Text Encoding Initiative]: http://www.tei-c.org

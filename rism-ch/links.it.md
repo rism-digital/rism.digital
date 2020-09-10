@@ -1,5 +1,5 @@
 ---
-title: links
+title: "Links"
 layout: rism-ch
 show_posts: false
 lang: it

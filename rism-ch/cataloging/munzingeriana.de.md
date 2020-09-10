@@ -1,12 +1,12 @@
 ---
-title: munzingeriana
+title: "Zentralbibliothek Solothurn"
 layout: past-cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/munzingeriana.html
 ---
 
-### Zentralbibliothek Solothurn / Stadtarchiv Olten
+# Zentralbibliothek Solothurn / Stadtarchiv Olten
 
 2013 wurden die im Stadtarchiv Olten gelagerten musikalischen Bestände
 in die Zentralbibliothek Solothurn übersiedelt und aus diesem Anlass zur

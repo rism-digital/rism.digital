@@ -1,12 +1,12 @@
 ---
-title: onstage-famb
+title: "OnStage: Freunde Alter Musik Basel"
 layout: infrastructure
 show_posts: false
 lang: de
 permalink: /rism-ch/infrastructure/onstage-famb.html
 ---
 
-### OnStage: Freunde Alter Musik Basel
+# OnStage: Freunde Alter Musik Basel
 
 Die Programmheftdatenbank [On Stage] (in der Publikationenreihe [RISM
 digital library]) wird mit dem vorliegenden Projekt um eine dritte

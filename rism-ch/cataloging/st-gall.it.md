@@ -1,12 +1,12 @@
 ---
-title: st-gall
+title: "Domarchiv St. Gallen"
 layout: past-cataloging
 show_posts: false
 lang: it
 permalink: /rism-ch/cataloging/st-gall.html
 ---
 
-### Fonti musicali presso il Domarchiv St. Gallen
+# Fonti musicali presso il Domarchiv St. Gallen
 
 I fondi dell\'archivio musicale della cattedrale di San Gallo sono stati
 catalogati fra il giugno 2003 e il luglio 2004 da RISM-Svizzera.

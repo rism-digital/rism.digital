@@ -1,11 +1,12 @@
 ---
-title: Association
+title: "Association"
 layout: organization
 show_posts: false
 lang: en
 permalink: /organization/association.html
 ---
-### Association
+
+# Association
 
 The Swiss RISM Association is open to all interested persons and
 institutions. The benefits of membership are free information and
@@ -16,7 +17,8 @@ are invited. The annual meeting of the Association provides information
 to members and also enables the election of the board of directors to be
 held. A cultural event is linked to this meeting which allows members to
 create or maintain contacts.
-#### Cost of membership
+
+## Cost of membership
 
 -   Individuals min. CHF 50.\--
 -   Institutions min. CHF 100.\--;

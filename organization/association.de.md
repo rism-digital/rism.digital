@@ -1,11 +1,12 @@
 ---
-title: Association
+title: "Verein"
 layout: organization
 show_posts: false
 lang: de
 permalink: /organization/association.html
 ---
-### Verein
+
+# Verein
 
 Der Verein Arbeitsstelle Schweiz des RISM steht allen interessierten
 Personen und Institutionen offen und heisst diese herzlich willkommen.
@@ -18,7 +19,8 @@ Information über das Geschäftsjahr der Arbeitsstelle und der Wahl des
 Vorstandes. Dieser Anlass wird mit einem kulturellen Teil verknüpft und
 kann für die Pflege interessanter Kontakte unter den Mitgliedern genutzt
 werden.
-#### Mitgliederbeitrag
+
+## Mitgliederbeitrag
 
 -   Einzelpersonen min. CHF 50.\--
 -   Institutionen / juristische Personen min. CHF 100.\--

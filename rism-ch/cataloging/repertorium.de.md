@@ -1,12 +1,12 @@
 ---
-title: repertorium
+title: "Repertorium"
 layout: cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/repertorium.html
 ---
 
-### Repertorium Schweizer Komponisten des 19. Jahrhunderts
+# Repertorium Schweizer Komponisten des 19. Jahrhunderts
 
 Mit dem Projekt Repertorium Schweizer Komponisten des 19. Jahrhunderts
 setzt sich RISM-Schweiz zum Ziel, eine empfindliche Lücke im Bereich der

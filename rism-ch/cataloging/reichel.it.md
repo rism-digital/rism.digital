@@ -1,12 +1,12 @@
 ---
-title: reichel
+title: "Fondo Adolf Reichel"
 layout: past-cataloging
 show_posts: false
 lang: it
 permalink: /rism-ch/cataloging/reichel.html
 ---
 
-### La collezione Adolf Reichel (1816-1896)
+# La collezione Adolf Reichel (1816-1896)
 
 Il lascito del compositore Adolf Reichel -- nato nella Prussia
 Occidentale (oggi Polonia) e morto a Berna -- è conservato nella
