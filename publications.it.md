@@ -1,12 +1,12 @@
 ---
-title: publications
-layout: default
+title: "Pubblicazioni"
+layout: publications
 show_posts: false
 lang: it
 permalink: /publications.html
 ---
 
-### Pubblicazioni
+# Pubblicazioni
 
 Le conoscenze che RISM Svizzera acquisisce durante il proprio lavoro di
 catalogazione o all\'interno dei progetti a questo correlati vengono

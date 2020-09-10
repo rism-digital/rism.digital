@@ -1,12 +1,12 @@
 ---
-title: niedermeyer
+title: "Fonds Louis Niedermeyer"
 layout: past-cataloging
 show_posts: false
 lang: fr
 permalink: /rism-ch/cataloging/niedermeyer.html
 ---
 
-### Fonds Louis Niedermeyer (1802-1861)
+# Fonds Louis Niedermeyer (1802-1861)
 
 Le fonds de Louis Niedermeyer (1802-1861) réuni par [l\'Association
 Niedermeyer] à Nyon regroupe des manuscrits et des imprimés aussi bien

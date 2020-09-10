@@ -1,12 +1,12 @@
 ---
-title: reichel
+title: "Nachlass Adolf Reichel"
 layout: past-cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/reichel.html
 ---
 
-### Nachlass Adolf Reichel (1816-1896)
+# Nachlass Adolf Reichel (1816-1896)
 
 Der Nachlass des in Westpreussen (heute Polen) geborenen und in Bern
 verstorbenen Komponisten Adolf Reichel (1816-1896) wird in der

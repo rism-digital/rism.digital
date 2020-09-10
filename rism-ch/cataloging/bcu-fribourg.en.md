@@ -1,12 +1,12 @@
 ---
-title: bcu-fribourg
+title: "BCU Fribourg"
 layout: cataloging
 show_posts: false
 lang: en
 permalink: /rism-ch/cataloging/bcu-fribourg.html
 ---
 
-### Collection of the Convent of Montorge
+# Collection of the Convent of Montorge
 
 The music collection of the Convent of Montorge was transferred to the
 University and Cantonal Library of Fribourg by the Institute of

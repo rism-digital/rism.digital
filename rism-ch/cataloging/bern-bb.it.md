@@ -1,12 +1,12 @@
 ---
-title: bern-bb
+title: "Biblioteca della Borghesia di Berna"
 layout: cataloging
 show_posts: false
 lang: it
 permalink: /rism-ch/cataloging/bern-bb.html
 ---
 
-### Catalogazione e ricatalogazione nella Biblioteca della Borghesia di Berna
+# Catalogazione e ricatalogazione nella Biblioteca della Borghesia di Berna
 
 Nel corso di un lavoro di ricatalogazione, ossia della correzione di
 dati sulla Biblioteca della Borghesia di Berna già esistenti nel

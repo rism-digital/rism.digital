@@ -1,12 +1,12 @@
 ---
-title: swiss-monasteries
+title: "Music from the monasteries in Switzerland"
 layout: infrastructure
 show_posts: false
 lang: en
 permalink: /rism-ch/infrastructure/swiss-monasteries.html
 ---
 
-### Music from the monasteries in Switzerland
+# Music from the monasteries in Switzerland
 
 In September 2005 the Swiss National Science approved the project
 \"Music from the monasteries in Switzerland\" submitted by Luca Zoppelli

@@ -1,12 +1,12 @@
 ---
-title: informationspool
+title: "Informationspool"
 layout: infrastructure
 show_posts: false
 lang: fr
 permalink: /rism-ch/infrastructure/informationspool.html
 ---
 
-### « Informationspool » -- Répertoire des compositeurs suisses du 19^ème^ siècle
+# « Informationspool » -- Répertoire des compositeurs suisses du 19^ème^ siècle
 
 Le projet « Informationspool » -- Répertoire des compositeurs suisses du
 19^ème^ siècle a été établi en septembre 2008. Ce projet élaboré en

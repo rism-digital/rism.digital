@@ -1,12 +1,12 @@
 ---
-title: beromuenster
+title: "Stifts St. Michael Beromünster"
 layout: past-cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/beromuenster.html
 ---
 
-### Musikbibliothek des Stifts St. Michael Beromünster
+# Musikbibliothek des Stifts St. Michael Beromünster
 
 Dank der finanziellen Unterstützung durch die Albert Koechlin Stiftung
 AKS (Luzern) wurden die Musikalien der Stiftsbibliothek Beromünster in

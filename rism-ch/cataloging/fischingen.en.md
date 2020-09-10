@@ -1,12 +1,12 @@
 ---
-title: fischingen
+title: "Fischingen monastery"
 layout: past-cataloging
 show_posts: false
 lang: en
 permalink: /rism-ch/cataloging/fischingen.html
 ---
 
-### Fischingen monastery
+# Fischingen monastery
 
 The aim of the inventory project at Fischingen monastery is to document
 comprehensively the rich liturgical and musical tradition of Benedictine

@@ -1,12 +1,12 @@
 ---
-title: beromuenster
+title: "Collegiata di San Michele a Beromünster"
 layout: past-cataloging
 show_posts: false
 lang: it
 permalink: /rism-ch/cataloging/beromuenster.html
 ---
 
-### Biblioteca musicale della collegiata di San Michele a Beromünster
+# Biblioteca musicale della collegiata di San Michele a Beromünster
 
 Grazie al sostegno della fondazione Albert Koechlin di Lucerna,
 RISM-Svizzera ha catalogato l\'insieme dei documenti musicali della

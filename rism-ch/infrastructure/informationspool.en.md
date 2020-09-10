@@ -1,12 +1,12 @@
 ---
-title: informationspool
+title: "Informationspool"
 layout: infrastructure
 show_posts: false
 lang: en
 permalink: /rism-ch/infrastructure/informationspool.html
 ---
 
-### Informationspool \"Repertory of Swiss composers of the 19th century\"
+# Informationspool \"Repertory of Swiss composers of the 19th century\"
 
 The project Informationspool -- \"Repertory of Swiss composers of the
 19th century\" was begun in September 2008. The project, conducted in

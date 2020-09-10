@@ -1,12 +1,12 @@
 ---
-title: einsiedeln
+title: "Bibliothèque musicale de l'abbaye d'Einsiedeln"
 layout: past-cataloging
 show_posts: false
 lang: fr
 permalink: /rism-ch/cataloging/einsiedeln.html
 ---
 
-### Compositeurs suisses du 19^ème^ siècle à la bibliothèque musicale de l\'abbaye d\'Einsiedeln
+# Compositeurs suisses du 19^ème^ siècle à la bibliothèque musicale de l\'abbaye d\'Einsiedeln
 
 Ce projet a été lancé par le RISM Suisse dans le cadre des travaux pour
 le [Répertoire des compositeurs suisses du 19^ème^ siècle] à la

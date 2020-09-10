@@ -1,12 +1,12 @@
 ---
-title: hslu
+title: "Scuola universitaria di musica a Lucerna"
 layout: past-cataloging
 show_posts: false
 lang: it
 permalink: /rism-ch/cataloging/hslu.html
 ---
 
-### Biblioteca musicale della Scuola universitaria di musica a Lucerna
+# Biblioteca musicale della Scuola universitaria di musica a Lucerna
 
 La sezione musicale della Scuola universitaria di Lucerna è nata nel
 1999 come \"Musikhochschule Luzern\" dalla fusione del conservatorio,

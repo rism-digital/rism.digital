@@ -1,12 +1,12 @@
 ---
-title: bcu-lausanne
+title: "BCU Lausanne"
 layout: past-cataloging
 show_posts: false
 lang: en
 permalink: /rism-ch/cataloging/bcu-lausanne.html
 ---
 
-### Cataloging in the music archive of the BCU Lausanne
+# Cataloging in the music archive of the BCU Lausanne
 
 Within the framework of the cooperation with the music archive of the
 BCU Lausanne, RISM Switzerland will catalogue the collections of Henri

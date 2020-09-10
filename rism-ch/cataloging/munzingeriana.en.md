@@ -1,12 +1,12 @@
 ---
-title: munzingeriana
+title: "Solothurn Central Library"
 layout: past-cataloging
 show_posts: false
 lang: en
 permalink: /rism-ch/cataloging/munzingeriana.html
 ---
 
-### Solothurn Central Library / Olten City Archive
+# Solothurn Central Library / Olten City Archive
 
 In 2013, the musical holdings of Olten City Archive were moved to the
 Central Library in Solothurn and on this occasion temporarily handed

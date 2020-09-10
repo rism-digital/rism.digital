@@ -1,12 +1,12 @@
 ---
-title: bcu-lausanne
+title: "BCU Lausanne"
 layout: past-cataloging
 show_posts: false
 lang: it
 permalink: /rism-ch/cataloging/bcu-lausanne.html
 ---
 
-### Catalogazione nell\'archivio musicale della BCU Lausanne
+# Catalogazione nell\'archivio musicale della BCU Lausanne
 
 All\'interno della collaborazione con l\'archivio musicale della BCU
 Lausanne, RISM Schweiz catalogherà i fondi Henri Plumhof (1836-1914),

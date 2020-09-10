@@ -1,12 +1,12 @@
 ---
-title: hslu
+title: "Haute école de musique Lucerne"
 layout: past-cataloging
 show_posts: false
 lang: fr
 permalink: /rism-ch/cataloging/hslu.html
 ---
 
-### Haute école de musique Lucerne
+# Haute école de musique Lucerne
 
 Le département de musique de la Haute école de Lucerne est issu de la
 fusion en 1999 du Conservatoire, de l\'Académie pour la musique d\'école

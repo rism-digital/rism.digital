@@ -1,12 +1,12 @@
 ---
-title: zhb-lu
+title: "Zentral- und Hochschulbibliothek Luzern"
 layout: cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/zhb-lu.html
 ---
 
-### Zentral- und Hochschulbibliothek Luzern
+# Zentral- und Hochschulbibliothek Luzern
 
 Die historischen Musikalienbestände der Zentral- und Hochschulbibliothek
 Luzern (ZHB Luzern) besitzen neben ihrer regionalen Bedeutung auch im

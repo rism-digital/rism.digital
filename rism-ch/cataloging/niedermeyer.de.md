@@ -1,12 +1,12 @@
 ---
-title: niedermeyer
+title: "Nachlass Louis Niedermeyer"
 layout: past-cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/niedermeyer.html
 ---
 
-### Nachlass Louis Niedermeyer (1802-1861)
+# Nachlass Louis Niedermeyer (1802-1861)
 
 Der Nachlass von Louis Niedermeyer (1802-1861), welcher im [Verein
 Niedermeyer] in Nyon aufbewahrt wird, beinhaltet sowohl Manuskripte als

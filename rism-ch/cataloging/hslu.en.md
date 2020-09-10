@@ -1,12 +1,12 @@
 ---
-title: hslu
+title: "Lucerne School of Music"
 layout: past-cataloging
 show_posts: false
 lang: en
 permalink: /rism-ch/cataloging/hslu.html
 ---
 
-### Library of the Lucerne School of Music
+# Library of the Lucerne School of Music
 
 The Music Department of the University of Lucerne resulted from the
 merger of the Conservatory, the Academy for School and Church Music and

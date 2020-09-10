@@ -1,12 +1,12 @@
 ---
-title: bcu-fribourg
+title: "BCU Fribourg"
 layout: past-cataloging
 show_posts: false
 lang: fr
 permalink: /rism-ch/cataloging/bcu-fribourg.html
 ---
 
-### Collection du monastère de Montorge
+# Collection du monastère de Montorge
 
 La collection de musique du monastère de Montorge a été cédée à la
 Bibliothèque universitaire et cantonale de Fribourg par l\'Institut de

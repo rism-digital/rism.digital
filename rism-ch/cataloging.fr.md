@@ -1,5 +1,5 @@
 ---
-title: cataloging
+title: "Projets de catalogage"
 layout: rism-ch
 show_posts: false
 lang: fr

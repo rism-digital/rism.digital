@@ -1,12 +1,12 @@
 ---
-title: einsiedeln
+title: "Music library of Einsiedeln monastery"
 layout: past-cataloging
 show_posts: false
 lang: en
 permalink: /rism-ch/cataloging/einsiedeln.html
 ---
 
-### Swiss composers of the 19th century in the music library of Einsiedeln monastery
+# Swiss composers of the 19th century in the music library of Einsiedeln monastery
 
 The project on Swiss composers of the 19th century in the music library
 of Einsiedeln monastery originated subsequent to the inventory project

@@ -1,12 +1,12 @@
 ---
-title: beromuenster
+title: "Collégiale de Beromünster"
 layout: past-cataloging
 show_posts: false
 lang: fr
 permalink: /rism-ch/cataloging/beromuenster.html
 ---
 
-### Bibliothèque musicale des chanoines de la collégiale de Beromünster
+# Bibliothèque musicale des chanoines de la collégiale de Beromünster
 
 Grâce au soutien financier de la fondation Albert Koechlin AKS
 (Lucerne), les documents musicaux de la collégiale de Beromünster ont

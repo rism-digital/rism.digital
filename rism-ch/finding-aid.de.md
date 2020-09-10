@@ -1,5 +1,5 @@
 ---
-title: finding-aid
+title: "Musikbestände"
 layout: rism-ch
 show_posts: false
 lang: de

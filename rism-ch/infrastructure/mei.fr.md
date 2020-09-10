@@ -1,12 +1,12 @@
 ---
-title: mei
+title: "Music Encoding Initiative (MEI)"
 layout: infrastructure
 show_posts: false
 lang: fr
 permalink: /rism-ch/infrastructure/mei.html
 ---
 
-### Music Encoding Initiative (MEI)
+# Music Encoding Initiative (MEI)
 
  {.hidden-xs style="float: right; margin: 0px 0px 10px 30px;"}
 [![][1]]

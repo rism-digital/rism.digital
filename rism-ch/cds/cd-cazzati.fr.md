@@ -1,5 +1,5 @@
 ---
-title: cd-cazzati
+title: "Cazzati: Messa e Salmi"
 layout: cds
 show_posts: false
 lang: fr

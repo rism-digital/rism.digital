@@ -1,12 +1,12 @@
 ---
-title: munzingeriana
+title: "Archives de la ville d'Olten"
 layout: past-cataloging
 show_posts: false
 lang: fr
 permalink: /rism-ch/cataloging/munzingeriana.html
 ---
 
-#### Archives de la ville d\'Olten -- Bibliothèque cantonale de Soleure
+# Archives de la ville d\'Olten -- Bibliothèque cantonale de Soleure
 
 En 2013, les sources musicales conservées dans les Archives de la ville
 de Olten ont été transférées à la Bibliothèque centrale de Soleure et, à

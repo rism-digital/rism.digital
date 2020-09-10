@@ -1,12 +1,12 @@
 ---
-title: st-gall
+title: "Domarchiv St. Gallen"
 layout: past-cataloging
 show_posts: false
 lang: de
 permalink: /rism-ch/cataloging/st-gall.html
 ---
 
-### Musikalische Quellen im Domarchiv St. Gallen
+# Musikalische Quellen im Domarchiv St. Gallen
 
 Der Bestand des Archivs der Dommusik St. Gallen wurde vom Juni 2003 bis
 Juli 2004 durch RISM-Schweiz erfasst. Das Inventar umfasst 1328 Titel -

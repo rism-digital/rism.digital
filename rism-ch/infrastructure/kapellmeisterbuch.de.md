@@ -1,12 +1,12 @@
 ---
-title: kapellmeisterbuch
+title: "Kapellmeisterbuch"
 layout: infrastructure
 show_posts: false
 lang: de
 permalink: /rism-ch/infrastructure/kapellmeisterbuch.html
 ---
 
-### Das Einsiedler 'Kapellmeisterbuch'
+# Das Einsiedler 'Kapellmeisterbuch'
 
  {.hidden-xs style="float: right; margin: 0px 0px 10px 30px;"}
 ![][1]
