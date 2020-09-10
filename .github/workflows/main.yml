@@ -17,22 +17,25 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-    - uses: actions/setup-ruby@v1
-      with:
-        ruby-version: '2.6'
-    
-    # Use GitHub Actions' cache to shorten build times and decrease load on servers
-    - uses: actions/cache@v2.1.0
-      with:
-        path: vendor/bundle
-        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-gems-
-    
-    # Tun the jekyll action
-    - uses:  lemonarc/jekyll-action@1.0.0
+      - name: Configure staging build
+        run: sed -i 's/https:\/\/rism\.digital/https:\/\/stage\.rism\.digital/g' _config.yml
+        if: endsWith(github.ref, '/staging')
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.6'
+
+      # Use GitHub Actions' cache to shorten build times and decrease load on servers
+      - uses: actions/cache@v2.1.0
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      # Tun the jekyll action
+      - uses:  lemonarc/jekyll-action@1.0.0
 
   publish:
     runs-on: ubuntu-latest
@@ -41,14 +44,14 @@ jobs:
       - name: Set server to deployment if on staging branch
         if: endsWith(github.ref, '/staging')
         run: |
-          echo "::set-env name=DEPLOY_SERVER::secrets.DEPLOY_STAGING_SERVER"
-          echo "::set-env name=DEPLOY_PATH::secrets.DEPLOY_STAGING_PATH"
+          echo "::set-env name=DEPLOY_SERVER::${{ secrets.DEPLOY_STAGING_SERVER }}"
+          echo "::set-env name=DEPLOY_PATH::${{ secrets.DEPLOY_STAGING_PATH }}"
 
       - name: Set server to production if on master branch
         if: endsWith(github.ref, '/master')
         run: |
-          echo "::set-env name=DEPLOY_SERVER::secrets.DEPLOY_PRODUCTION_SERVER"
-          echo "::set-env name=DEPLOY_PATH::secrets.DEPLOY_PRODUCTION_PATH"
+          echo "::set-env name=DEPLOY_SERVER::${{ secrets.DEPLOY_PRODUCTION_SERVER }}"
+          echo "::set-env name=DEPLOY_PATH::${{ secrets.DEPLOY_PRODUCTION_PATH }}"
 
       # Deploy to remote server
       - name: Deploy with rsync
