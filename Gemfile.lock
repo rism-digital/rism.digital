@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/rism-digital/rism-theme
-  revision: fdb768bd64b20dde5b922a865a0ba5c568b1b1a2
+  revision: 7ee19285cc196d83cdb90a2b5c2eafb4015e627f
   specs:
-    rism-theme (0.1.19)
+    rism-theme (0.1.28)
       jekyll (~> 4.1)
 
 GEM
@@ -64,7 +64,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.4)
-    rouge (3.22.0)
+    rouge (3.23.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
