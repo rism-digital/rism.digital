@@ -1,9 +1,6 @@
 ---
 title: "RISM Svizzera"
-layout: default
-hero_height: is-small
-nav: /rism-ch.html
-show_posts: true
+layout: rism-ch-home
 lang: it
 permalink: /rism-ch.html
 ---
