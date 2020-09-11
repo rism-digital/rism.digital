@@ -16,42 +16,6 @@ titles:
     {{ site.data.contact.title[site.active_lang] }}
 </h1>
 
-<div class="card">
-	<header class="card-header">
-		<p class="card-header-title">
-			Card title
-		</p>
-		<a href="#collapsible-card1" data-action="collapse" class="card-header-icon is-hidden-fullscreen" aria-label="more options">
-			<span class="icon">
-				<i class="fas fa-angle-down" aria-hidden="true"></i>
-			</span>
-		</a>
-	</header>
-	<div id="collapsible-card1" class="is-collapsible is-active">
-		<div class="card-content">
-			<p class="title is-4">
-				“There are two hard things in computer science: cache invalidation, naming things, and off-by-one
-				errors.”
-			</p>
-			<p class="subtitle is-5">
-				Jeff Atwood
-			</p>
-		</div>
-		<footer class="card-footer">
-			<p class="card-footer-item">
-				<span>
-					View on <a href="https://twitter.com/codinghorror/status/506010907021828096">Twitter</a>
-				</span>
-			</p>
-			<p class="card-footer-item">
-				<span>
-					Share on <a href="#">Facebook</a>
-				</span>
-			</p>
-		</footer>
-	</div>
-</div>
-
 <div>
     <div class="columns is-desktop">
         <div class="column is-three-quarters-desktop">
@@ -90,21 +54,25 @@ titles:
             <a href="mailto:{{ p.email }}"><span class="icon"><i class="fas fa-envelope"></i></span>{{ p.email }}</a>
         </p>
         <p class="text">
-            <span class="icon"><i class="fas fa-plus"></i></span>
-            <span class="glyphicon glyphicon-plus">&nbsp;</span>
+        	<a href="#{{ p.id }}" data-action="collapse">
+                <span class="icon"><i class="fas fa-plus"></i></span>
+            </a>
         </p>
-        <div class="columns is-desktop">
-            <div class="column is-three-quarters-desktop">
-                <p>
-                    {{ p.text[site.active_lang] }}
-                </p>
-            </div>
-            <div class="column is-one-quarter-desktop" style="margin-top: 0px; margin-bottom: 20px;">
-                {% unless p.no-photo %}
-                <img class="img-responsive" src="/images/photos/{{ p.photo }}"/>
-                {% endunless %}
+        <div id="{{ p.id }}" class="is-collapsible">
+            <div class="columns is-desktop">
+                <div class="column is-three-quarters-desktop">
+                    <p>
+                        {{ p.text[site.active_lang] }}
+                    </p>
+                </div>
+                <div class="column is-one-quarter-desktop" style="margin-top: 0px; margin-bottom: 20px;">
+                    {% unless p.no-photo %}
+                    <img class="img-responsive" src="/images/photos/{{ p.photo }}"/>
+                    {% endunless %}
+                </div>
             </div>
          </div>
+         <hr class="mt-0"/>
 
         {% endfor %}
     {% endfor %}

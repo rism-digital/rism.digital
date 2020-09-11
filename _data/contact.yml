@@ -29,7 +29,8 @@ groups:
         fr: "Co-directeurs"
         it: "Co-direzione"
       person:
-        - name: "Dr. Cédric Güggi"
+        - id: GG
+          name: "Dr. Cédric Güggi"
           phone: "+41(0)58 464 49 34"
           days:
             en: "(Monday and Tuesday)"
@@ -43,7 +44,8 @@ groups:
               de: "Cédric Güggi studierte Musikwissenschaften sowie deutsche Sprachwissenschaften und ältere deutsche Literatur an der Universität Zürich. Nach einer ersten Anstellung als wissenschaftlicher Mitarbeiter bei der Arbeitsstelle Schweiz des RISM (2006-2008) und einem Engagement in der Musikabteilung der Zentralbibliothek Zürich (2008-2009) übernahm er im September 2009 die Co-Leitung von RISM Schweiz. Dort ist er seither verantwortlich für administrative Belange sowie die Inventarisierungsprojekte." 
               fr: "Cédric Güggi a étudié la musicologie, la linguistique allemande et la littérature allemande ancienne à l'Université de Zurich. Après un premier engagement comme collaborateur scientifique au Bureau suisse du RISM (2006-2008) et un engagement au département de musique de la Bibliothèque centrale de Zurich (2008-2009), il a repris la co-direction du RISM Suisse en septembre 2009. Depuis, il est chargé des questions administratives et des projets d'inventaire."
               it: "Cédric Güggi ha studiato musicologia e linguistica tedesca e letteratura tedesca antica presso l'Università di Zurigo. Dopo un primo impiego come ricercatore presso l'Ufficio svizzero del RISM (2006-2008) e una collaborazione con il dipartimento di musica della Biblioteca Centrale di Zurigo (2008-2009), ha assunto la co-direzione di RISM Svizzera nel settembre 2009. Da allora è responsabile per le questioni amministrative e per i progetti di inventariazione."
-        - name: "PD Dr. Laurent Pugin"
+        - id: LP
+          name: "PD Dr. Laurent Pugin"
           phone: "+41(0)58 463 80 16"
           email: "laurent.pugin@rism-ch.org"
           photo: "laurent.pugin.jpg"
@@ -58,7 +60,8 @@ groups:
         fr: "Collaborateurs scientifiques"
         it: "Collaboratori scientifici"
       person:
-        - name: "Dr. Claudio Bacciagaluppi"
+        - id: CB
+          name: "Dr. Claudio Bacciagaluppi"
           phone: "+41(0)58 465 03 59"
           email: "claudio.bacciagaluppi@rism-ch.org"
           photo: "claudio.bacciagaluppi.jpg"
@@ -67,7 +70,8 @@ groups:
               de: "Claudio Bacciagaluppi studierte Musikwissenschaft in Zürich und promovierte über die Rezeption der neapolitanischen Messe bei Luca Zoppelli in Freiburg i.Ue. Er war an verschiedenen SNF-Projekten an der Universität Freiburg beteiligt (2009-2013) und ist als Forscher an der Hochschule der Künste Bern tätig (2006-2009 und seit 2015). Für die Arbeitsstelle Schweiz des RISM arbeitet Claudio Bacciagaluppi seit 2011, wo er Digitalisierungs- sowie weitere Sonderprojekte betreut und ausserdem für Übersetzungen zuständig ist."
               fr: "Claudio Bacciagaluppi a étudié la musicologie à l'Université de Zurich et a obtenu son doctorat sur la réception de la messe napolitaine sous la direction de Luca Zoppelli à Fribourg. Il a été collaborateur dans des projets FNS à l'Université de Fribourg (2009-2013). Il est chercheur à la Hochschule der Künste Bern (2006-2009 et depuis 2015). Il travaille depuis 2011 pour le RISM Suisse. Il est responsable de la numérisation et d'autres projets spéciaux et s'occupe des traductions."
               it: "Claudio Bacciagaluppi ha studiato musicologia a Zurigo e ha conseguito il dottorato sulla ricezione della messa napoletana con Luca Zoppelli a Friburgo (Svizzera). Ha collaborato a progetti FNS presso l'Università di Friburgo (2009-2013). Svolge attività di ricerca presso la Hochschule der Künste di Berna (2006-2009 e dal 2015). Lavora per RISM Svizzera dal 2011. È responsabile della digitalizzazione e di altri progetti speciali e si occupa delle traduzioni."
-        - name: "Dr. Andrew Hankinson"
+        - id: AH
+          name: "Dr. Andrew Hankinson"
           phone: "+41(0)58 465 03 59"
           email: "andrew.hankinson@rism.digital"
           no-photo: true
@@ -77,7 +81,8 @@ groups:
               fr: "Andrew Hankinson est titulaire d'un Bachelor en histoire et théorie de la musique (Université Acadia), d'une maîtrise en bibliothéconomie et sciences de l'information (Université McGill) et d'un doctorat en Music Information Retrieval (Université McGill). Il a été chercheur postdoctoral à l'Université d'Oxford, travaillant sur le projet Digital Image Archive of Medieval Music (DIAMM) (2015-2016), et a été ingénieur logiciel principal pour le développement de la Digital Collections Discovery de la bibliothèque Bodleian (2017-2020). Andrew a occupé des postes au sein du groupe technique et du comité directeur de la Music Encoding Initiative, ainsi qu'au sein de l'exécutif du consortium IIIF. Andrew est spécialisé dans les technologies web pour le développement de systèmes de recherche évolutifs et conviviaux, et dirige actuellement le développement de l'application Muscat+."
               it: "Andrew Hankinson is a digital humanist, librarian, academic, and coder. He completed a dissertation on large-scale optical music recognition. His research focuses primarily on large-scale music document digitization, recognition, search, and retrieval. He was senior software engineer at the Bodleian Libraries in the University of Oxford, where he led the developments of the Digital Bodleian. He previously developed the DIAMM web application. He was Chair of the MEI Board, and has longstanding experience with IIIF and is a member of the IIIF A/V working group. He currently leads the development of Muscat+."
   
-        - name: "Yvonne Peters, M. A."
+        - id: YP
+          name: "Yvonne Peters, M. A."
           phone: "+41(0)58 465 73 25"
           email: "yvonne.peters@rism-ch.org"
           photo: "yvonne.peters.jpg"
@@ -86,7 +91,8 @@ groups:
               de: "Yvonne Peters studierte Musikwissenschaft sowie Kunstgeschichte an der Jagiellonen-Universität Krakau. Nach einer Anstellung im Polnischen Musikverlag PWM in Krakau (1983-1985) und im Kunstgeschichtlichen Institut der Polnischen Akademie der Wissenschaften IS PAN in Warschau (1985-1988) war sie für die RISM-Zentralredaktion in Frankfurt am Main tätig (1990-2008). Im Juni 2008 wechselte sie in die Arbeitsstelle Schweiz des RISM und ist seither für die Erfassung der Musiknachlässe aus der Schweizerischen Nationalbibliothek in Bern verantwortlich. 2011/2013 absolvierte sie einen CAS-Weiterbildungsstudiengang in Bibliotheks- und Informationswissenschaften der Universität Zürich."
               fr: "Yvonne Peters a étudié la musicologie et l'histoire de l'art à l'Université Jagellonne en Pologne. Après un emploi à la maison d'édition musicale polonaise PWM à Cracovie (1983-1985) et à l'Institut d'histoire de l'art de l'Académie polonaise des sciences IS PAN à Varsovie (1985-1988), elle a travaillé pour la Rédaction centrale du RISM à Francfort (1990-2008). Elle est collaboratrice du RISM Suisse depuis juin 2008 où elle est responsable du catalogages des collections de musique de la Bibliothèque nationale suisse à Berne. De 2011 à 2013 elle a complété une formation de troisième cycle CAS en bibliothéconomie et sciences de l'information à l'Université de Zurich."
               it: "Yvonne Peters ha studiato musicologia e storia dell'arte presso l'Università Jagellonica. Dopo un impiego presso l'editore musicale polacco PWM a Cracovia (1983-1985) e presso l'Istituto di Storia dell'Arte dell'Accademia polacca delle scienze IS PAN di Varsavia (1985-1988), ha lavorato per la Redazione centrale di RISM a Francoforte (1990-2008). Nel giugno 2008 ha iniziato il lavoro presso RISM Svizzera e da allora è stata responsabile per la catalogazione delle collezioni musicali dalla Biblioteca nazionale svizzera di Berna. Nel 2011-2013 ha completato un corso post-laurea CAS in biblioteconomia e scienza dell'informazione presso l'Università di Zurigo."
-        - name: "Florence Sidler, M. A."
+        - id: FS
+          name: "Florence Sidler, M. A."
           phone: "+41(0)58 465 73 25"
           email: "florence.sidler@rism-ch.org"
           photo: "florence.sidler.jpg"
@@ -95,7 +101,8 @@ groups:
               de: "Florence Sidler studierte Musikwissenschaft und Geschichte an der Universität Bern. Zeitgleich mit der Anstellung in der Geschäftsstelle des Vereins ForumMusikDiversität (2011-2013) hat sie ein wissenschaftliches Praktikum bei der Arbeitsstelle Schweiz des RISM absolviert, das im April 2012 in einer Festanstellung als Wissenschaftliche Mitarbeiterin mündete. Seither ist sie für Inventarisierungsprojekte zuständig und unterstützt die Leitung im administrativen Bereich sowie bei der Weiterentwicklung und Pflege der Datenbank."
               fr: "Florence Sidler a étudié la musicologie et l'histoire à l'Université de Berne. Parallèlement à un travail pour le bureau de l'Association ForumMusikDiversität (2011-2013), elle a effectué un stage scientifique au Bureau suisse du RISM qui a conduit à un poste permanent en tant que collaboratrice scientifique en avril 2012. Depuis, elle est responsable des projets d'inventaire et soutient la direction dans l'administration et dans le développement et la maintenance de la base de données."
               it: "Florence Sidler ha studiato musicologia e storia all'Università di Berna. In concomitanza con un lavoro presso l'Associazione ForumMusikDiversität (2011-2013) ha svolto un tirocinio scientifico presso RISM Svizzera, che ha portato ad una assunzione permanente come collaboratrice scientifica nell'aprile 2012. Da allora è responsabile per i progetti di inventariazione e il supporto della direzione nello sviluppo e manutenzione del database."
-        - name: "Rodolfo Zitellini, M. A."
+        - id: RZ
+          name: "Rodolfo Zitellini, M. A."
           phone: "+41(0)58 465 03 59"
           email: "rodolfo.zitellini@rism-ch.org"
           photo: "rodolfo.zitellini.jpg"
