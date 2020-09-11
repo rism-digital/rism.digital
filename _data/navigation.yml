@@ -5,23 +5,29 @@
     it: "Home"
   link: /index.html
 - name:
-    en: "Organization"
-    de: "Organisation"
-    fr: "Organisation"
-    it: "Organizzazione"
+    en: "About us"
+    de: "About us"
+    fr: "About us"
+    it: "About us"
   link: /organization.html
 - name:
-    en: "TOOLS"
-    de: "TOOLS"
-    fr: "TOOLS"
-    it: "TOOLS"
+    en: "Tools and Services"
+    de: "Tools and Services"
+    fr: "Tools and Services"
+    it: "Tools and Services"
   link: /tools.html
 - name:
-    en: "Publications"
-    de: "Publikationen"
-    fr: "Publications"
-    it: "Pubblicazioni"
+    en: "Data and Publications"
+    de: "Data und Publikationen"
+    fr: "Donées et Publications"
+    it: "Dati e Pubblicazioni"
   link: /publications.html
+- name:
+    en: "RISM Editorial Center"
+    de: "RISM Zentralredaktion"
+    fr: "RISM Editorial Center"
+    it: "RISM Editorial Center"
+  link: http://www.rism.info
 - name:
     en: "RISM Switzerland"
     de: "RISM Schweiz"
