@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/rism-digital/rism-theme
-  revision: 7ee19285cc196d83cdb90a2b5c2eafb4015e627f
+  revision: 6f2e93b2942aed1110107060aedc1d4080b8ac91
   specs:
-    rism-theme (0.1.28)
+    rism-theme (0.1.30)
       jekyll (~> 4.1)
 
 GEM
