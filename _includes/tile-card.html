@@ -2,9 +2,11 @@
 
 <div class="tile is-child card">
     <a href="{{ tile.link }}">
+        {% if tile.image %}
         <div class="card-image">
             <img src="/images/tiles/{{ tile.image }}">
         </div>
+        {% endif %}
         <div class="card-content">
             <h1>{{ tile.titles[site.active_lang] }}</h1>
             <p>

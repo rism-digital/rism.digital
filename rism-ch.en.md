@@ -1,10 +1,14 @@
 ---
 title: "RISM Switzerland"
-layout: rism-ch
-show_posts: false
+layout: default
+hero_height: is-small
+nav: /rism-ch.html
+show_posts: true
 lang: en
 permalink: /rism-ch.html
 ---
+
+# RISM Switzerland
 
 The Swiss RISM records music manuscripts and printed musical sources in
 Swiss libraries and archives according to international scientific
@@ -14,3 +18,7 @@ are accessible to musical performers as well as to musicological
 research worldwide via internet. The Swiss RISM also has a leading role
 in the development of [Muscat], the web-application of the project
 designed for the cataloguing and the publication of the sources.
+
+<hr/>
+
+{% include submenu_as_list.html submenubar="rism-ch" %}

@@ -1,10 +1,14 @@
 ---
 title: "RISM Suisse"
-layout: rism-ch
-show_posts: false
+layout: default
+hero_height: is-small
+nav: /rism-ch.html
+show_posts: true
 lang: fr
 permalink: /rism-ch.html
 ---
+
+# RISM Suisse
 
 Le RISM Suisse inventorie les partitions manuscrites et imprimées et les
 écrits sur la musique conservés dans les bibliothèques et archives
@@ -15,3 +19,7 @@ disposition des chercheurs et des interprètes du monde entier grâce à un
 accès par Internet. Le RISM Suisse est aussi responsable du
 développement de [Muscat], l\'application développée spécifiquement pour
 le catalogage et la publication des sources.
+
+<hr/>
+
+{% include submenu_as_list.html submenubar="rism-ch" %}

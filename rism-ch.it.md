@@ -1,10 +1,14 @@
 ---
 title: "RISM Svizzera"
-layout: rism-ch
-show_posts: false
+layout: default
+hero_height: is-small
+nav: /rism-ch.html
+show_posts: true
 lang: it
 permalink: /rism-ch.html
 ---
+
+# RISM Svizzera
 
 RISM Svizzera cataloga le partiture e gli scritti sulla musica
 (manoscritti e a stampa) conservati nelle biblioteche e negli archivi
@@ -16,3 +20,7 @@ musicale in tutto il mondo attraverso una banca dati accessibile
 on-line. RISM Svizzera è anche responsabile dello sviluppo di [Muscat],
 l\'applicazione sviluppata appositamente per la catalogazione e la
 pubblicazione delle fonti.
+
+<hr/>
+
+{% include submenu_as_list.html submenubar="rism-ch" %}
