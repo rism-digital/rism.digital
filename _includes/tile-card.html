@@ -1,0 +1,15 @@
+{% assign tile = include.tile %}
+
+<div class="tile is-child card">
+    <a href="{{ tile.link }}">
+        <div class="card-image">
+            <img src="/images/tiles/{{ tile.image }}">
+        </div>
+        <div class="card-content">
+            <h1>{{ tile.titles[site.active_lang] }}</h1>
+            <p>
+                {{ tile.texts[site.active_lang] }}
+            </p>
+        </div>
+    </a>
+</div>
