@@ -25,7 +25,7 @@ tiles:
         image: psalm-2.jpg
         link: /rism-ch.html
         titles:
-            en: "RISM Swizerland"
+            en: "RISM Switzerland"
             de: "RISM Schweiz"
             fr: "RISM Suisse"
             it: "RISM Svizerra"
