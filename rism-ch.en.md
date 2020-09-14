@@ -16,6 +16,4 @@ research worldwide via internet. The Swiss RISM also has a leading role
 in the development of [Muscat], the web-application of the project
 designed for the cataloguing and the publication of the sources.
 
-<hr/>
-
-{% include submenu_as_list.html submenubar="rism-ch" %}
+{% include submenu_as_tiles.html submenubar="rism-ch" %}

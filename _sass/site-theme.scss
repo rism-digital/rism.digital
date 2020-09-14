@@ -31,6 +31,13 @@ $navbar-item-active-color: #fff;
                 //filter: grayscale(80%);
             }
         }
+        .card-image.is-menu {
+            height: 70px;
+            max-height: 70px;   
+        }
+        .card-content.is-menu h3 {
+            margin-bottom: 0px;   
+        }
     }
 
     a:hover > .card-image > img {

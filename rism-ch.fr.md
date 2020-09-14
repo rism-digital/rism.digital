@@ -17,6 +17,4 @@ accès par Internet. Le RISM Suisse est aussi responsable du
 développement de [Muscat], l\'application développée spécifiquement pour
 le catalogage et la publication des sources.
 
-<hr/>
-
-{% include submenu_as_list.html submenubar="rism-ch" %}
+{% include submenu_as_tiles.html submenubar="rism-ch" %}

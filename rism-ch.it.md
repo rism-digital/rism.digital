@@ -18,6 +18,4 @@ on-line. RISM Svizzera è anche responsabile dello sviluppo di [Muscat],
 l\'applicazione sviluppata appositamente per la catalogazione e la
 pubblicazione delle fonti.
 
-<hr/>
-
-{% include submenu_as_list.html submenubar="rism-ch" %}
+{% include submenu_as_tiles.html submenubar="rism-ch" %}

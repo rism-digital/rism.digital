@@ -18,6 +18,4 @@ RISM-Schweiz nimmt auch eine führende Rolle bei der Entwicklung von
 [Muscat] ein, der Web-Applikation zur Katalogisierung und Publikation
 der Quellen.
 
-<hr/>
-
-{% include submenu_as_list.html submenubar="rism-ch" %}
+{% include submenu_as_tiles.html submenubar="rism-ch" %}

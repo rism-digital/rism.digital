@@ -10,33 +10,39 @@
         fr: "Projets de catalogage"
         it: "Progetti di catalogazione"
       link: /rism-ch/cataloging.html
+      image: cataloging.png
     - name:
         en: "Infrastructure projects"
         de: "Infrastrukturprojekte"
         fr: "Projets d'infrastructure"
         it: "Progetti di infrastruttura"
       link: /rism-ch/infrastructure.html
+      image: projects.png
     - name:
         en: "Links"
         de: "Links"
         fr: "Liens"
         it: "Links"
       link: /rism-ch/links.html
+      image: segno.png
     - name:
         en: "Swiss music collections"
         de: "Schweizer Musikbestände"
         fr: "Collections suisses de musique"
         it: "Collezioni musicali svizzere"
       link: /rism-ch/finding-aid.html
+      image: collections.png
     - name:
         en: "CDs"
         de: "CDs"
         fr: "CDs"
         it: "CDs"
       link: /rism-ch/cds.html
+      image: cds-2.png
     - name:
         en: "FAQ"
         de: "FAQ"
         fr: "FAQ"
         it: "FAQ"
       link: /rism-ch/faq.html
+      image: faq.png
