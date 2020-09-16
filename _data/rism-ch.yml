@@ -12,11 +12,11 @@
       link: /rism-ch/cataloging.html
       image: cataloging.png
     - name:
-        en: "Infrastructure projects"
-        de: "Infrastrukturprojekte"
-        fr: "Projets d'infrastructure"
-        it: "Progetti di infrastruttura"
-      link: /rism-ch/infrastructure.html
+        en: "Projects on music sources"
+        de: "Musikquellenprojekte"
+        fr: "Projets liés aux sources musicales"
+        it: "Progetti sulle fonti musicali"
+      link: /rism-ch/projects.html
       image: projects.png
     - name:
         en: "Links"

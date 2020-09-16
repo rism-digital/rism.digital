@@ -3,7 +3,7 @@ title: "Progetti di infrastruttura"
 layout: rism-ch
 show_posts: false
 lang: it
-permalink: /rism-ch/infrastructure.html
+permalink: /rism-ch/projects.html
 ---
 
 # Progetti di infrastruttura
@@ -19,4 +19,4 @@ l'università di Friburgo ([Musica dei monasteri svizzeri]).
 
 <hr/>
 
-{% include submenu_as_list.html submenubar="infrastructure" %}
+{% include submenu_as_list.html submenubar="projects" %}

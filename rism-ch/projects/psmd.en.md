@@ -1,0 +1,34 @@
+---
+title: "Printed Sacred Music Database"
+layout: projects
+show_posts: false
+lang: en
+permalink: /rism-ch/projects/psmd.html
+---
+
+# Printed Sacred Music Database
+
+Gathering extensive information on prints of sacred music has been a
+desire of the musicological community for many decades. Such information
+is of paramount importance for the bibliography of music in general,
+especially in the 17th century, when the printing press produced its
+greatest output in the sacred domain. The scope of the present database
+is to cover all sacred music printed in Europe between 1500 and 1800. It
+comprises the data collected in the \'Bibliografia della musica sacra
+pubblicata in Italia fra il 1500 e il 1725 circa\' (Venice, Fondazione
+Cini). The editions now preserved with Catholic music published in
+Switzerland up to 1800, and the editions with comparable repertoire
+circulated in the Alpine region, were inserted in the database in the
+course of a research project begun in 2010 by the Institute of
+Musicology of Fribourg University and the Swiss RISM, with the support
+of the Swiss National Science Foundation. The data is compared to
+existing bibliographical tools, e.g., RISM A/I and B/I. The database is
+compliant with the RISM cataloguing scheme based on the MarcXML metadata
+format. It also contains text incipits and music incipits (in DARMS
+code) of the printed works. In addition to the bibliographical
+information, it includes preliminary and concluding textual material of
+the documents (i.e., title pages, dedications, laudatory poems, advice
+to users, imprimatur, indices, and colophons). The additional
+information helps to reveal the network of sponsorships and market
+strategies that connected dedicatees, printers and booksellers, and to
+cross-check this data with the circulation of the musical repertoire.

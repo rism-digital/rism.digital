@@ -3,7 +3,7 @@ title: "Projets d'infrastructure"
 layout: rism-ch
 show_posts: false
 lang: fr
-permalink: /rism-ch/infrastructure.html
+permalink: /rism-ch/projects.html
 ---
 
 # Projets d\'infrastructure
@@ -20,4 +20,4 @@ suisses]).
 
 <hr/>
 
-{% include submenu_as_list.html submenubar="infrastructure" %}
+{% include submenu_as_list.html submenubar="projects" %}

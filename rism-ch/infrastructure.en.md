@@ -3,7 +3,7 @@ title: "Infrastructure projects"
 layout: rism-ch
 show_posts: false
 lang: en
-permalink: /rism-ch/infrastructure.html
+permalink: /rism-ch/projects.html
 ---
 
 # Infrastructure projects
@@ -19,4 +19,4 @@ monasteries]).
 
 <hr/>
 
-{% include submenu_as_list.html submenubar="infrastructure" %}
+{% include submenu_as_list.html submenubar="projects" %}
