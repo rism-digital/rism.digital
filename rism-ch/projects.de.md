@@ -1,12 +1,12 @@
 ---
-title: "Infrastrukturprojekte"
+title: "Projekte zu Musikquellen"
 layout: rism-ch
 show_posts: false
 lang: de
 permalink: /rism-ch/projects.html
 ---
 
-# Infrastrukturprojekte
+# Projekte zu Musikquellen
 
 Die Arbeitsstelle Schweiz des RISM lanciert und realisiert teilweise
 eigene Projekte gemeinsam mit diversen Partnerinstitutionen. Diese

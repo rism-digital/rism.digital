@@ -13,7 +13,7 @@
       image: cataloging.png
     - name:
         en: "Projects on music sources"
-        de: "Musikquellenprojekte"
+        de: "Projekte zu Musikquellen"
         fr: "Projets liés aux sources musicales"
         it: "Progetti sulle fonti musicali"
       link: /rism-ch/projects.html

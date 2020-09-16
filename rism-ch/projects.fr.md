@@ -1,12 +1,12 @@
 ---
-title: "Projets d'infrastructure"
+title: "Projets liés aux sources musicales"
 layout: rism-ch
 show_posts: false
 lang: fr
 permalink: /rism-ch/projects.html
 ---
 
-# Projets d\'infrastructure
+# Projets liés aux sources musicales
 
 Le RISM Suisse participe à des projets en partenariat avec d\'autres
 institutions. Ces projets permettent de mettre en valeur le patrimoine

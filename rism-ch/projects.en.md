@@ -1,12 +1,12 @@
 ---
-title: "Infrastructure projects"
+title: "Projects on music sources"
 layout: rism-ch
 show_posts: false
 lang: en
 permalink: /rism-ch/projects.html
 ---
 
-# Infrastructure projects
+# Projects on music sources
 
 The Swiss RISM participates in projects in partnership with other
 institutions. These projects highlight the cultural heritage of

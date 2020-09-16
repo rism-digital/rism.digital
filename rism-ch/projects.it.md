@@ -1,12 +1,12 @@
 ---
-title: "Progetti di infrastruttura"
+title: "Progetti sulle fonti musicali"
 layout: rism-ch
 show_posts: false
 lang: it
 permalink: /rism-ch/projects.html
 ---
 
-# Progetti di infrastruttura
+# Progetti sulle fonti musicali
 
 L'Ufficio RISM-Svizzera lancia e in parte realizza progetti propri in
 collaborazione con diverse istituzioni. Queste collaborazioni vertono a
