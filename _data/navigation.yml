@@ -23,6 +23,12 @@
     it: "Dati e Pubblicazioni"
   link: /publications.html
 - name:
+    en: "News"
+    de: "News"
+    fr: "Actualités"
+    it: "News"
+  link: http://website-test.rism.digital/news-archive/rism_a_z/
+- name:
     en: "RISM Editorial Center"
     de: "RISM Zentralredaktion"
     fr: "RISM Editorial Center"
