@@ -1,20 +1,20 @@
 $rism-digital-center-primary: hsl(0, 74%, 32%); /* equivalent #8c1515 */
-$rism-digital-center-highlight: lighten($rism-digital-center-primary, 20%);
 $link: $rism-digital-center-primary;
+$rism-digital-center-white: #fff;
 
 // colored navbar
-//$navbar-background-color: $rism-digital-center-primary;
-//$navbar-item-color: #fff;
-//$navbar-item-hover-background-color: lighten($rism-digital-center-primary, 5%);
-//$navbar-item-hover-color: #fff;
-//$navbar-item-active-background-color: darken($rism-digital-center-primary, 5%);
-//$navbar-item-active-color: #fff;
+$navbar-background-color: $rism-digital-center-primary;
+$navbar-item-color: $rism-digital-center-white;
+$navbar-item-hover-background-color: lighten($rism-digital-center-primary, 5%);
+$navbar-item-hover-color: $rism-digital-center-white;
+$navbar-item-active-background-color: darken($rism-digital-center-primary, 5%);
+$navbar-item-active-color: $rism-digital-center-white;
 
 // white navbar
-$navbar-item-hover-background-color: $rism-digital-center-primary;
-$navbar-item-hover-color: #fff;
-$navbar-item-active-background-color: darken($rism-digital-center-primary, 5%);
-$navbar-item-active-color: #fff;
+//$navbar-item-hover-background-color: $rism-digital-center-primary;
+//$navbar-item-hover-color: $rism-digital-center-white;
+//$navbar-item-active-background-color: darken($rism-digital-center-primary, 5%);
+//$navbar-item-active-color: $rism-digital-center-white;
 
 .card { 
     a {
