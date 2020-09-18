@@ -40,8 +40,14 @@ $navbar-item-active-color: $rism-digital-center-white;
         }
     }
 
-    a:hover > .card-image > img {
-        transition: filter 0.2s ease-in-out;
-        filter: brightness(105%);
+    a:hover {
+        h1, h2, h3 {
+            transition: color 0.2s ease-in-out;
+            color: darken($content-heading-color, 20%);
+        }
+        .card-image > img {
+            transition: filter 0.2s ease-in-out;
+            filter: brightness(105%);
+        }
     }
 }
