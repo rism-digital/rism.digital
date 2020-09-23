@@ -58,14 +58,14 @@ titles:
                 <span class="icon"><i class="fas fa-plus"></i></span>
             </a>
         </p>
-        <div id="{{ p.id }}" class="is-collapsible">
-            <div class="columns is-desktop">
+        <div id="{{ p.id }}" class="is-collapsible mb-3">
+            <div class="columns is-desktop is-gapless">
                 <div class="column is-three-quarters-desktop">
                     <p>
                         {{ p.text[site.active_lang] }}
                     </p>
                 </div>
-                <div class="column is-one-quarter-desktop" style="margin-top: 0px; margin-bottom: 20px;">
+                <div class="column is-desktop ml-5">
                     {% unless p.no-photo %}
                     <img class="img-responsive" src="/images/photos/{{ p.photo }}"/>
                     {% endunless %}
