@@ -14,8 +14,6 @@ fornisce pertanto un contributo importante alla salvaguardia del
 patrimonio culturale musicale svizzero. I dati raccolti da RISM-Svizzera
 sono messi a disposizione della ricerca musicologica e della prassi
 musicale in tutto il mondo attraverso una banca dati accessibile
-on-line. RISM Svizzera è anche responsabile dello sviluppo di [Muscat],
-l\'applicazione sviluppata appositamente per la catalogazione e la
-pubblicazione delle fonti.
+on-line. 
 
 {% include submenu_as_tiles.html submenubar="rism-ch" %}
