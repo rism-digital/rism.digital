@@ -14,8 +14,6 @@ RISM-Schweiz leistet einen wesentlichen Beitrag zur Sicherung des
 musikalischen Kulturgutes der Schweiz. Über Internet werden die
 inventarisierten Bestände der musikalischen Praxis und der
 musikwissenschaftlichen Forschung weltweit zugänglich gemacht.
-RISM-Schweiz nimmt auch eine führende Rolle bei der Entwicklung von
-[Muscat] ein, der Web-Applikation zur Katalogisierung und Publikation
-der Quellen.
+
 
 {% include submenu_as_tiles.html submenubar="rism-ch" %}
