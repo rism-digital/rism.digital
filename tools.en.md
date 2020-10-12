@@ -6,6 +6,8 @@ lang: en
 permalink: /tools.html
 ---
 
+# Tools and Services
+
 The RISM Digital Center has contributed to the digital infrastructure of the RISM project for many years. It leads the development of Muscat, the open-source web application used by the RISM community for inventorying sources and curating data worldwide. It is responsible for its installation and administration. 
 It is also actively involved in the development of the Music Encoding Initiative ([MEI](https://music-encoding.org/)), as expert for the definition of the standard, as user, and also as promoter in research projects. The MEI schema includes encoding of the music notation but also very rich metadata header that can, for example, be imported directly from the RISM catalogue records. 
 The RISM Digital Center also created and maintains [Verovio](https://www.verovio.org/), an open-source software library for rendering MEI scores. 
