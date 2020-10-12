@@ -81,10 +81,10 @@ tiles:
         image: data.png
         link: /publications.html
         titles:
-            en: "Data and publications"
-            de: "Data and publications"
-            fr: "Data and publications"
-            it: "Dati e pubblicazioni"
+            en: "Publications"
+            de: "Publikationen"
+            fr: "Publications"
+            it: "Pubblicazioni"
         texts:
             en: "Explore the various publications realised by the RISM Digital Center alongside its other activities. These include online publications of archival documents, databases of musical interest, and scientific publications."
             de: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam."
