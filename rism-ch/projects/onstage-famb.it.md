@@ -28,13 +28,11 @@ Dapprima, l'intera collezione è digitalizzata, in seguito i dati sono
 indicizzati e il testo viene letto automaticamente utilizzando una
 tecnologia OCR per permettere una ricerca full-text. La homepage
 garantisce tanto una presentazione distinta delle diverse collezioni,
-quanto una funzionalità di ricerca ottimale sull'intero corpus.e.
-
-Il progetto durerà fino alla fine del 2016.
+quanto una funzionalità di ricerca ottimale sull'intero corpus.
 
 Contatto: [Claudio Bacciagaluppi]
 
-  [On Stage]: http://d-lib.rism-ch.org/onstage/
+  [On Stage]: http://onstage.rism-ch.org/
   [RISM digital library]: http://rism-ch.org/d-lib.html?locale=it
   [l'Associazione FAMB]: http://www.scb-basel.ch/index/112965,?_LANGUAGE=en
   [Claudio Bacciagaluppi]: /contact.html
