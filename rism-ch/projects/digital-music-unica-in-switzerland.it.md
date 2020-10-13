@@ -43,7 +43,7 @@ tutte online.
 
 Il progetto è iniziato con una fase pilota nel 2017 (comprendente fonti
 della Biblioteca nazionale di Berna e la biblioteca della Hochschule der
-Künste Bern). È programmato il suo completamento entro il 2020.
+Künste Bern). 
 
 Contatto: [Claudio Bacciagaluppi]
 
