@@ -31,12 +31,9 @@ page d\'accueil de la base de données garantit à la fois une
 présentation des différentes collections ainsi que des fonctionnalités
 de recherche optimale.
 
-Le projet a débuté en avril 2016 et se terminera à la fin de l'année
-2016.
-
 Contact: [Claudio Bacciagaluppi]
 
-  [On Stage]: http://d-lib.rism-ch.org/onstage/
+  [On Stage]: http://onstage.rism-ch.org/
   [RISM digital library]: http://rism-ch.org/d-lib.html?locale=fr
   [l\'association FAMB]: http://www.scb-basel.ch/index/112965,?_LANGUAGE=en
   [Claudio Bacciagaluppi]: /contact.html
