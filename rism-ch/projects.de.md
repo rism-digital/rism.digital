@@ -14,9 +14,9 @@ dienen der allgemeinen Verbreitung des musikalischen Kulturguts der
 Schweiz und sollen insbesondere die Musikwissenschaft als auch die
 musikalische Praxis zur Auseinandersetzung mit zum Teil vergessener
 Musik animieren. Dazu gehören Projekte mit der Fonoteca Nazionale
-Svizzera und der McGill University Montreal ([Informationspool]) sowie
+Svizzera und der McGill University Montreal ([Informationspool](/rism-ch/projects/informationspool.html)) sowie
 dem Freiburger Lehrstuhl für Musikwissenschaft ([Musik aus Schweizer
-Klöstern]).
+Klöstern](/rism-ch/projects/swiss-monasteries.html)).
 
 <hr/>
 
