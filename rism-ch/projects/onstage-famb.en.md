@@ -28,13 +28,11 @@ First, the entire collection is digitized, whereupon the data is indexed
 and the text is automatically read using OCR technology to enable a
 full-text search. The homepage guarantees both a clear presentation of
 the different collections as well as optimal search functionality over
-the entire corpus
-
-The project will be terminated a the end of 2016.
+the entire corpus.
 
 Contact: [Claudio Bacciagaluppi]
 
-  [On Stage]: http://d-lib.rism-ch.org/onstage/
+  [On Stage]: http://onstage.rism-ch.org/
   [RISM digital library]: http://rism-ch.org/d-lib.html?locale=en
   [Association FAMB]: http://www.scb-basel.ch/index/112965,?_LANGUAGE=en
   [Claudio Bacciagaluppi]: /contact.html
