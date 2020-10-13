@@ -43,7 +43,7 @@ de les numériser et de les publier en ligne.
 
 Le projet a démarré avec une phase pilote en 2017 (comprenant des
 sources de la Bibliothèque nationale à Berne et de la bibliothèque de la
-Hochschule der Künste Bern). Il est prévu d\'être achevé en 2020.
+Hochschule der Künste Bern). 
 
 Contact: [Claudio Bacciagaluppi]
 
