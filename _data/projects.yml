@@ -10,6 +10,18 @@
         fr: "Digital music unica in Switzerland"
         it: "Digital music unica in Switzerland"
       link: /rism-ch/projects/digital-music-unica-in-switzerland.html
+     - name:
+        de: "Disjecta membra"
+        en: "Disjecta membra"
+        fr: "Disjecta membra"
+        it: "Disjecta membra"
+      link: /rism-ch/projects/disjecta-membra.html
+    - name:
+        de: "Onstage - Genf La Musicale"
+        en: "Onstage - Geneva La Musicale"
+        fr: "Onstage - Genève La Musicale"
+        it: "Onstage - Ginevra La Musicale"
+      link: /rism-ch/projects/onstage-gmu.html
 - label: 
     en: "Past projects"
     de: "Abgeschlossene projekte"
@@ -23,10 +35,10 @@
         it: "OnStage – Freunde alter Musik Basel"
       link: /rism-ch/projects/onstage-famb.html
     - name:
-        de: "OnStage – Genf"
-        en: "OnStage – Geneva"
-        fr: "OnStage – Genève"
-        it: "OnStage – Ginevra"
+        de: "OnStage – Genf Conservatoire"
+        en: "OnStage – Geneva Conservatoire"
+        fr: "OnStage – Genève Conservatoire"
+        it: "OnStage – Ginevra Conservatoire"
       link: /rism-ch/projects/onstage-gc.html
     - name:
         de: "OnStage: HEMU – Conservatoire de Lausanne"

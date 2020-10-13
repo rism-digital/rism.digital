@@ -1,0 +1,30 @@
+- label:
+    de: "Tools and services"
+    en: "Tools and services"
+    fr: "Tools and services"
+    it: "Tools and services"
+  items:
+    - name:
+        de: "Muscat"
+        en: "Muscat"
+        fr: "Muscat"
+        it: "Muscat"
+      link: /tools/muscat.html
+    - name:
+        de: "Verovio"
+        en: "Verovio"
+        fr: "Verovio"
+        it: "Verovio"
+      link: /tools/verovio.html
+    - name:
+        de: "Data management"
+        en: "Data management"
+        fr: "Data management"
+        it: "Data management"
+      link: /tools/data.html
+    - name:
+        de: "Diva.js"
+        en: "Diva.js"
+        fr: "Diva.js"
+        it: "Diva.js"
+      link: https://ddmal.music.mcgill.ca/diva.js/

@@ -10,6 +10,8 @@ permalink: /organization.html
 
 {% include common/about-us-logos.html %}
 
+The Répertoire International des Sources Musicales (RISM) is an international organisation funded in 1952 whose aim is to inventory music sources worldwide and make them accessible. As the most comprehensive resource for historical music sources in the world, it is the cornerstone of countless musicological research projects. The RISM network comprises the RISM Editorial Center in Germany and working groups in over 30 countries. The RISM Digital Center is part of this network and its mission is twofold. Firstly, it leads the development of a digital infrastructure for the RISM and for music source-related musicology projects. Secondly, it fulfils the role of a Swiss RISM working group by inventorying music sources in Switzerland.
+
 Since its foundation in 1956 the Swiss RISM branch has recorded
 systematically more than 10,000 prints from before 1800, collective
 prints from the 16th, 17th and 18th centuries and other works about
@@ -27,7 +29,7 @@ founding members established the Swiss RISM Association on 21st June
 -   Swiss Society for the Rights of Authors of Musical Works ([SUISA]{:target="_blank"})
 -   Swiss Music Council (SMR: [german version]{:target="_blank"}, [french version]{:target="_blank"})
 
-In the 2000s, RISM Switzerland has become an increasingly important centre for information technology issues. To reflect this development, in 2021 the name of the association changes in RISM Digital Center. The Swiss RISM office with its competence centre for historical music sources in Switzerland and its cataloguing activities continues to exist under the name "RISM Switzerland" within the framework of the "RISM Digital Center".
+In the 2000s, the RISM Switzerland has become an increasingly important centre for information technology issues. To reflect this development, in 2021 the name of the association changes in RISM Digital Center. 
 
 [SMG]: http://www.smg-ssm.ch
 [ASCM]: http://www.iaml.ch

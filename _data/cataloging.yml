@@ -23,23 +23,11 @@
         it: "ZHB Lucerna"
       link: /rism-ch/cataloging/zhb-lu.html
     - name:
-        de: "Frey-Grynäum"
-        en: "Frey-Gryn Library"
-        fr: "Bibiothèque Frey-Gryn"
-        it: "Biblioteca Frey-Gryn"
-      link: /rism-ch/cataloging/frey-gryn.html
-    - name:
         de: "Repertorium"
         en: "Repertorium"
         fr: "Repertorium"
         it: "Repertorium"
       link: /rism-ch/cataloging/repertorium.html
-    - name:
-        de: "Burgerbibliothek Bern"
-        en: "Burgerbibliothek Bern"
-        fr: "Bibliothèque de la bourgeoisie de Berne"
-        it: "Biblioteca della Borghesia di Berna"
-      link: /rism-ch/cataloging/bern-bb.html
     - name:
         de: "Abgeschlossene Projekte"
         en: "Past projects"

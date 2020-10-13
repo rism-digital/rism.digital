@@ -8,10 +8,10 @@ permalink: /organization/association.html
 
 # Association
 
-The Swiss RISM Association is open to all interested persons and
+The RISM Digital Center Association is open to all interested persons and
 institutions. The benefits of membership are free information and
 professional advice on manuscripts and printed music collections held in
-Swiss institutions. The RISM periodically organizes cultural events such
+Swiss institutions. The RISM Digital Center periodically organizes cultural events such
 as concerts, CD recordings or catalogue presentations, to which members
 are invited. The annual meeting of the Association provides information
 to members and also enables the election of the board of directors to be
