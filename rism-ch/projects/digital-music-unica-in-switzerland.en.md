@@ -38,7 +38,7 @@ digitise and publish them all online.
 
 The project started with a pilot phase in 2017 (comprising sources from
 the National Library in Bern and the library of the Hochschule der
-Künste Bern). It is planned to be accomplished by 2020.
+Künste Bern). 
 
 Contact: [Claudio Bacciagaluppi]
 
