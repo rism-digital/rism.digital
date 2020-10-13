@@ -42,7 +42,7 @@ veröffentlicht.
 
 Das Projekt begann im Jahr 2017 mit einer Pilotphase (mit Quellen der
 Nationalbibliothek Bern und der Bibliothek der Hochschule der Künste
-Bern) und wird voraussichtlich im Jahr 2020 abgeschlossen werden.
+Bern).
 
 Kontakt: [Claudio Bacciagaluppi]
 
