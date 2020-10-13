@@ -14,4 +14,6 @@ material linked to works, sound recordings, handwritten texts, printed
 texts, correspondence, photographs and other personal or business
 documents.
 
+The list Libraries and Archives with Musical Holdings contains an alphanbetical list of all Swiss libraries and archives with music holdings.
+
 {% include submenu_as_list.html submenubar="finding-aid" %}
