@@ -5,6 +5,18 @@
     it: "Progetti di catalogazione"
   items:
     - name:
+        de: "Burgerbibliothek Bern"
+        en: "Burgerbibliothek Bern"
+        fr: "Bibliothèque de la bourgeoisie de Berne"
+        it: "Biblioteca della Borghesia di Berna"
+      link: /rism-ch/cataloging/bern-bb.html
+    - name:
+        de: "Frey-Grynäum"
+        en: "Frey-Gryn Library"
+        fr: "Bibiothèque Frey-Gryn"
+        it: "Biblioteca Frey-Gryn"
+      link: /rism-ch/cataloging/frey-gryn.html
+    - name:
         de: "Adolf Reichel"
         en: "Adolf Reichel"
         fr: "Adolf Reichel"
