@@ -13,9 +13,8 @@ institutions. These projects highlight the cultural heritage of
 Switzerland, and, through musicological studies and music practice,
 encourage the revival of forgotten repertoires. Among these projects, we
 may mention the collaboration with the Swiss National Sound Archives and
-McGill University in Montreal ([Informationspool]), and the project in
-partnership with the chair of Musicology in Fribourg ([Switzerland Music
-monasteries]).
+McGill University in Montreal ([Informationspool](/rism-ch/projects/informationspool.html)), and the project in
+partnership with the chair of Musicology in Fribourg ([Music from Swiss monasteries](/rism-ch/projects/swiss-monasteries.html)).
 
 <hr/>
 
