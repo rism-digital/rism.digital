@@ -13,10 +13,7 @@ der Haute Ecole de Musique (HEMU) -- Conservatoire Lausanne
 durchgeführt, hat grosses Interesse bei Institutionen mit ähnlichen
 Quellen geweckt. Tatsächlich ist die Digitalisierung von historischen
 und teilweise unbekannten Konzertprogrammen insofern relevant, als sie
-für die Forschung neue Einblicke in die Aufführungsgeschichte geben. Aus
-diesem Grund bereitet RISM Schweiz eine Verlängerung des
-OnStage-Projekts mit entsprechenden Dokumenten aus der Bibliothek des
-Conservatoire de Musique de Genève vor.
+für die Forschung neue Einblicke in die Aufführungsgeschichte geben. 
 
 Der Ablauf folgt dem gleichen Ansatz wie bei den Quellen des Lausanner
 Konservatoriums. Zuerst wird die gesamte Sammlung digitalisiert, worauf
@@ -30,10 +27,9 @@ finden, die sowohl eine übersichtliche Darstellung der einzelnen
 Sammlungen als auch optimale Suchfunktionen garantiert.
 
 Die Finanzierung des Projekts wird vom Genfer Konservatorium in
-Partnerschaft mit RISM Schweiz getragen. Sowohl die Digitalisierung als
-auch die Indexierung haben 2014 begonnen, wobei die Indexierung durch
+Partnerschaft mit RISM Schweiz getragen. Die Indexierung wurde durch
 einen Mitarbeiter der Bibliothek unter der Aufsicht von RISM Schweiz und
-dem Bibliotheksleiter vorgenommen wurde.
+dem Bibliotheksleiter vorgenommen.
 
 Kontakt: [Claudio Bacciagaluppi]
 
