@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: Concert d’anniversaire de l’association du Bureau suisse du RISM le 14 juin 2016 à Berne
 date: 2016-05-26

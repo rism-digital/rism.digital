@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: 75 Years Freunde Alter Musik Basel
 date: 2017-05-10
@@ -12,5 +12,5 @@ For its 75th anniversary (1942-2017), the association Freunde Alter Musik Basel 
 
 The collection comprises are more than 300 documents, for a total amount of ca. 3000 images. The indexing and digitisation took place in the Swiss National Library in 2016, the programmes are online since March 2017.
 
-See the [project page](/infrastructure/onstage-famb.html) for more information about the project.
+See the [project page](/rism-ch/projects/onstage-famb.html) for more information about the project.
 

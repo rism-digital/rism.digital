@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: Engelsstimmen. Bewahren und vermitteln – Das Freiburger Kulturerbe
 date: 2020-03-11
 post: true
 lang: de
-image: http://rism-ch.org/images/news/vs-2020.png
+image: /images/news/vs-2020.png
 ---
 
 Referat und Konzert, 1. April 2020 im Bürgerspital, Freiburg

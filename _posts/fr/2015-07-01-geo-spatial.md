@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: Visualisation spatio-temporelle pour les imprimés musicaux
 date: 2015-07-01
@@ -12,5 +12,5 @@ Dans de nombreux domaines, les techniques de visualisation se sont montrées ext
 
 Avec la publication en ligne de données du RISM, a large spectre d'opportunités nouvelles s'offre à la musicologie. Cependant, manipuler et analyser des ensembles de données de plusieurs milliers de références bibliographiques engendre de nouveaux défis pour la recherche musicologique.
 
-Nous présentons [ici](/infrastructure/visualisation.html) une approche innovante pour visualiser les données sur les imprimés de la Série A/I du RISM pour les sources avant 1730. Cette approche non seulement fournit aux chercheurs de nouvelles façons d'appréhender ces données, mais aussi offre de nouvelles possibilités de sélectionner et de manipuler les données pour pouvoir ensuite les travailler et les analyser.
+Nous présentons [ici](/rism-ch/projects/visualisation.html) une approche innovante pour visualiser les données sur les imprimés de la Série A/I du RISM pour les sources avant 1730. Cette approche non seulement fournit aux chercheurs de nouvelles façons d'appréhender ces données, mais aussi offre de nouvelles possibilités de sélectionner et de manipuler les données pour pouvoir ensuite les travailler et les analyser.
 

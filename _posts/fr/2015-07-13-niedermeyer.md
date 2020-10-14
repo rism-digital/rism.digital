@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: Fin du catalogage du fonds Louis Niedermeyer
 date: 2015-07-13
@@ -12,5 +12,5 @@ Le catalogage du fonds Louis Niedermeyer (1802-1861) dans le Centre de Documenta
 
 Ce fonds, réunissant quasiment l’ensemble de l’œuvre de Niedermeyer transmise sous forme de manuscrits et d’imprimés, est une source d’information particulièrement intéressante pour ce qui concerne la diffusion de la musique et les pratiques d’édition au 19<sup>ème</sup> siècle.
 
-Pour plus d'informations à propos du projet à Nyon, veuillez consulter la [page du projet](/cataloging/niedermeyer.html).
+Pour plus d'informations à propos du projet à Nyon, veuillez consulter la [page du projet](/rism-ch/cataloging/niedermeyer.html).
 

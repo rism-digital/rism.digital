@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: 'Informationspool: Neue Möglichkeiten der Nutzung'
 date: 2017-11-29
@@ -12,5 +12,5 @@ Dank den neuesten Verbesserungen in der RISM-Software, erstrahlt das Projekt Inf
 
 Es ist nun möglich, in der Suchmaske die Quellen nach Digitalisaten zu filtern. Ebenso wurden die Links zu verschiedenen externen Seiten verbessert. Die Katalogisate mit den digitalisierten Quellen wurden – soweit vorhanden – mit den Katalogeinträgen von Tonaufnahmen des entsprechenden Musikstücks aus der [Fonoteca nazionale](http://www.fonoteca.ch/index_de.htm) verlinkt. Nach Möglichkeit besteht zudem eine Verlinkung zu weiterführenden biographischen Angaben aus dem [Historischen Lexikon der Schweiz](http://www.hls-dhs-dss.ch/).
 
-Mehr Informationen zum Projekt gibt es auf der [Projektseite](/infrastructure/informationspool.html).
+Mehr Informationen zum Projekt gibt es auf der [Projektseite](/rism-ch/projects/informationspool.html).
 

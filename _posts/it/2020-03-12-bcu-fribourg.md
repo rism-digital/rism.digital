@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: Voci angeliche. Conservare e comunicare - Il patrimonio culturale di Friborgo
 date: 2020-03-11
 post: true
 lang: it
-image: http://rism-ch.org/images/news/vs-2020.png
+image: /images/news/vs-2020.png
 ---
 
 Conferenza e concerto, 1° aprile 2020 all’Ancien Hôpital des Bourgeois di Friborgo

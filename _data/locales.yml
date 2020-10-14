@@ -15,6 +15,7 @@
     en: "continue ..."
     de: "weiterlesen ..."
     fr: "lire plus..."
+    it: "leggi tutto ..."
 - id: newer
   name:
     en: "Newer"

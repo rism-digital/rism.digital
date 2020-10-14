@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: Jubiläumskonzert des Vereins Arbeitsstelle Schweiz des RISM am 14. Juni 2016 in Bern
 date: 2016-05-26

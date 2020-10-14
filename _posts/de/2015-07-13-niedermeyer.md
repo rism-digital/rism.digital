@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: Abschluss der Katalogisierung des Nachlasses von Louis Niedermeyer
 date: 2015-07-13
@@ -12,5 +12,5 @@ Mitte Januar 2016 wurde die Erschliessung des Nachlasses von Louis Niedermeyer (
 
 Der Nachlass, der nahezu das gesamte Œuvre Niedermeyers in Form von Manuskripten und Drucken umfasst, ist überdies eine interessante Quelle im Hinblick auf die Verbreitung von Musik und das Musikeditionswesen im 19. Jahrhundert.
 
-Mehr Informationen zur Katalogisierung in Nyon gibt es auf der [Projektseite](/cataloging/niedermeyer.html).
+Mehr Informationen zur Katalogisierung in Nyon gibt es auf der [Projektseite](/rism-ch/cataloging/niedermeyer.html).
 

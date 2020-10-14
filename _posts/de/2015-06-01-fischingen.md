@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: Abschluss der Katalogisierung in Fischingen
 date: 2015-06-01
@@ -14,5 +14,5 @@ Die überlieferten Musikalien aus dem Kloster Fischingen datieren vom 17. bis fr
 
 Der Musikbestand stellt wahrscheinlich den jüngsten Teil einer bisher kaum bekannten Musikbibliothek dar. Da keine Musikalien in den Inventaren der Klosterbibliothek auftauchen, muss es sich um einen gesonderten Bestand handeln. Aus den überlieferten Drucken wird ebenfalls ersichtlich, dass ein enger Austausch mit den Klöstern Einsiedeln, St. Gallen (heute St. Johann) sowie mit dem hochadeligen Stift Kempten stattgefunden haben muss.
 
-Mehr Informationen zu Fischingen sind auf der [Projektseite](/cataloging/fischingen.html) zu lesen.
+Mehr Informationen zu Fischingen sind auf der [Projektseite](/rism-ch/cataloging/fischingen.html) zu lesen.
 

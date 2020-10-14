@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: Concerto per l’anniversario dell’Associazione RISM Svizzera il 14 giugno 2016
 date: 2016-05-26

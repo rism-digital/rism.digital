@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: 'Informationspool: Improved user experience'
 date: 2017-11-29
@@ -12,5 +12,5 @@ Thanks to the latest developments in the RISM software, the user experience of t
 
 Now it is possible to filter search results by digitised images. Also, the links to different external sites are improved. Catalog records with digitised sources are linked with the catalog records of the corresponding sound recording (if extant) in the [Swiss National Sound Archives](http://www.fonoteca.ch/index_de.htm). Wherever possible, a link was also included to a biographical article in the [Swiss historical dictionary](http://www.hls-dhs-dss.ch/).
 
-See the [project page](/infrastructure/informationspool.html) for more information about the project.
+See the [project page](/rism-ch/projects/informationspool.html) for more information about the project.
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: Jubilee concert of the Swiss RISM Association on 14 June 2016 in Berne
 date: 2016-05-26

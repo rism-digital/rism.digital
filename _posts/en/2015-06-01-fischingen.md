@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: End of the cataloguing at Fischingen
 date: 2015-06-01
@@ -14,5 +14,5 @@ The music sources from Fischingen monastery date from the 17th to the early 19th
 
 The music collection is probably the youngest part of a previously almost unknown music library. The catalogues of the monastery library do not list music items: this means that they were preserved as a separate collection. The surviving titles also suggest a close connection with the monasteries of Einsiedeln, St Gallen (today St Johann) and Kempten.
 
-See the [project page](/cataloging/fischingen.html) for more information about the project in Fischingen.
+See the [project page](/rism-ch/cataloging/fischingen.html) for more information about the project in Fischingen.
 

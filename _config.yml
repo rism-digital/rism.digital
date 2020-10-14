@@ -39,7 +39,7 @@ theme: rism-theme
 pagination:
 
   # Site-wide kill switch, disabled here it doesn't run at all
-  enabled: false
+  enabled: true
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
   debug: false
@@ -48,7 +48,7 @@ pagination:
   collection: 'posts'
 
   # How many objects per paginated page, used to be `paginate` (default: 0, means all)
-  per_page: 10
+  per_page: 5
 
   # The permalink structure for the paginated pages (this can be any level deep)
   permalink: '/page/:num/' # Pages are index.html inside this folder (default)

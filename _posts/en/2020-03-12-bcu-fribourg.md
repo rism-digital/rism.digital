@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: Angelic voicees. Preserve and communicate - Fribourg's cultural heritage
 date: 2020-03-11
 post: true
 lang: en
-image: http://rism-ch.org/images/news/vs-2020.png
+image: /images/news/vs-2020.png
 ---
 
 Lecture and concert, 1 April 2020 at the Ancien Hôpital des Bourgeois, Fribourg

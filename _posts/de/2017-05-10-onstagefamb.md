@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: 75 Jahre Freunde Alter Musik Basel
 date: 2017-05-10
@@ -12,5 +12,5 @@ Zu seinem 75. Jubiläum (1942-2017) hat der Verein Freunde Alter Musik Basel bes
 
 Die Sammlung beinhaltet mehr als 300 Dokumente mit insgesamt etwa 3000 Bildern. Die Erfassung und Digitalisierung wurde 2016 in der Nationalbibliothek vorgenommen, die Aufschaltung erfolgte im März 2017.
 
-Mehr Informationen zum Projekt gibt es auf der [Projektseite](/infrastructure/onstage-famb.html).
+Mehr Informationen zum Projekt gibt es auf der [Projektseite](/rism-ch/projects/onstage-famb.html).
 

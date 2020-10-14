@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: La voix des anges. Conserver et valoriser le patrimoine fribourgeois
 date: 2020-03-11
 post: true
 lang: fr
-image: http://rism-ch.org/images/news/vs-2020.png
+image: /images/news/vs-2020.png
 ---
 
 Conférence et concert, 1 avril 2020 à l’Ancien Hôpital des Bourgeois, Fribourg

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: 'Informationspool: Nouvelles possibilités pour les utilisateurs'
 date: 2017-11-29
@@ -12,5 +12,5 @@ Les utilisateurs du projet « Informationspool » – Répertoire des compositeu
 
 Dans la page de recherche, il est désormais possible de filtrer les résultats par source numérisée. Les liens vers des ressources externes sont améliorés. Le cas échéant, les entrées des sources numérisées sont liées aux entrées des enregistrements sonores conservés à la [Phonotèque nationale](http://www.fonoteca.ch/index_de.htm). Dans la mesure du possible, les entrées sont aussi liées aux informations biographiques contenues dans le [Dictionnaire historique de la Suisse](http://www.hls-dhs-dss.ch/).
 
-Pour plus d'informations à propos ce projet, veuillez consulter la [page du projet](/infrastructure/informationspool.html).
+Pour plus d'informations à propos ce projet, veuillez consulter la [page du projet](/rism-ch/projects/informationspool.html).
 

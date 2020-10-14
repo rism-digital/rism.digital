@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: 'Informationspool: Nuove possibilità per l’utente'
 date: 2017-11-29
@@ -12,5 +12,5 @@ Grazie agli ultimi miglioramenti nel software RISM, il progetto 'Informationspoo
 
 Nella maschera di ricerca è ora possibile filtrare i risultati per fonti digitalizzate. Anche i collegamenti verso pagine esterne sono migliorati. Le schede con le fonti digitalizzate sono collegate con le schede per le registrazioni sonore (dove presenti) conservate presso la [Fonoteca nazionale](http://www.fonoteca.ch/index_de.htm). Dove possibile, le schede sono anche collegate alle informazioni biografiche contenute nel [Dizionario storico della Svizzera](http://www.hls-dhs-dss.ch/).
 
-Si veda la [pagina del progetto](/infrastructure/informationspool.html) per ulteriori informazioni sul progetto.
+Si veda la [pagina del progetto](/rism-ch/projects/informationspool.html) per ulteriori informazioni sul progetto.
 

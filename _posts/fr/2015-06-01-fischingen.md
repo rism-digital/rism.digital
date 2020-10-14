@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: rism-ch-post
 search: true
 title: Fin du catalogage à Fischingen
 date: 2015-06-01
@@ -14,5 +14,5 @@ Les sources musicales du monastère de Fischingen datent du 17<sup>ème</sup> au
 
 La collection représente probablement la partie plus récente d'une bibliothèque musicale quasiment inconnue jusqu'à présent. Puisque les inventaires de la bibliothèque du couvent ne contiennent pas de titres musicaux il s'agit d'une collection qui était conservée séparemment. Les imprimés conservés suggèrent aussi des échanges étroits avec les monastères de Einsiedeln, St. Gall (aujourd'hui St. Johann) et Kempten.
 
-Pour plus d'informations à propos du projet de Fischingen, veuillez consulter la [page du projet](/cataloging/fischingen.html).
+Pour plus d'informations à propos du projet de Fischingen, veuillez consulter la [page du projet](/rism-ch/cataloging/fischingen.html).
 
