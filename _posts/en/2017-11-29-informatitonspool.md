@@ -5,9 +5,8 @@ title: 'Informationspool: Improved user experience'
 date: 2017-11-29
 post: true
 lang: en
+image: "/images/news/informationspool.png"
 ---
-
- ![](/images/news/informationspool.png)
 
 Thanks to the latest developments in the RISM software, the user experience of the project "Repertory of Swiss composers of the 19th century" was improved. The project aimed at digitising and publishing online ca. 250 sources of importance for Swiss musical output, mostly from the 19th century. They are kept in ca. thirteen different Swiss libraries.
 

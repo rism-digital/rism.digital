@@ -5,9 +5,8 @@ title: Fine della catalogazione a Fischingen
 date: 2015-06-01
 post: true
 lang: it
+image: "/images/news/fischingen.jpg"
 ---
-
- ![](/images/news/fischingen.jpg)
 
 All'inizio di giugno 2015 è stato completato il catalogo della collezione di Fischingen nell'archivio di Stato a Frauenfeld. La catalogazione delle fonti manoscritte e a stampa ha apportato alla banca dati 1039 nuovi titoli.
 

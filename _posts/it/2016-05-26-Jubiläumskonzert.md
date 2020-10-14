@@ -5,9 +5,8 @@ title: Concerto per l’anniversario dell’Associazione RISM Svizzera il 14 giu
 date: 2016-05-26
 post: true
 lang: it
+image: "/images/news/franzoesische-kirche.png"
 ---
-
- ![](/images/news/franzoesische-kirche.png)
 
 L’associazione “Ufficio svizzero del Répertoire International des Sources Musicales (RISM)” celebra il suo 20° anniversario il 14 giugno 2016 con un concerto pubblico. Il programma prevede l’esecuzione di un’ampia scelta dalla “Messa e Salmi”, op. 36 di Maurizio Cazzati con l’ensemble vocale di Basilea Voces Suaves. Per l’occasione, la ex consigliera agli Stati Christine Egerszegi-Obrist terrà un discorso sul tema ”Musica (cultura) - politica - scienza”. Il concerto nella Chiesa francese di Berna avrà inizio alle 19.30. L'ingresso è libero (colletta all’uscita).
 

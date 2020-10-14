@@ -5,9 +5,8 @@ title: Raum-Zeit-Visualisierung für Musikdrucke
 date: 2015-07-01
 post: true
 lang: de
+image: "/images/news/geo-spatial.png"
 ---
-
- ![](/images/news/geo-spatial.png)
 
 In vielen Bereichen haben sich Visualisierungstechniken als äusserst nützlich erwiesen, um grosse Mengen an komplexen Daten zu analysieren und besser zu verstehen. Wir haben vor kurzem Experimente durchgeführt, um Raum-Zeit-Visualisierungstechniken an musikbibliographischen Ressourcen anzuwenden.
 

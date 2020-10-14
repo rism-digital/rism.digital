@@ -5,9 +5,8 @@ title: Abschluss der Katalogisierung des Nachlasses von Louis Niedermeyer
 date: 2015-07-13
 post: true
 lang: de
+image: "/images/news/niedermeyer.png"
 ---
-
- ![](/images/news/niedermeyer.png)
 
 Mitte Januar 2016 wurde die Erschliessung des Nachlasses von Louis Niedermeyer (1802-1861), durch die Arbeitsstelle Schweiz des RISM im Dokumentationszentrum in Nyon abgeschlossen. Insgesamt bringt die Inventarisierung der handschriftlichen sowie gedruckten Musikquellen der Datenbank 315 neue Einträge.
 

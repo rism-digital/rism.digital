@@ -5,9 +5,8 @@ title: Aufschaltung unserer neuen Website
 date: 2015-06-18
 post: true
 lang: de
+image: "/images/news/site-small.jpg"
 ---
-
- ![](/images/news/site-small.jpg)
 
 Es freut uns, Ihnen die Aufschaltung unserer neuen Website ankündigen zu können! Die Website beinhaltet wie gehabt sowohl Informationsseiten zu unseren verschiedenen Projekten als auch einen Zugang zu unserer Datenbank. Beide wurden neu konzipiert und umgestaltet und sowohl für Desktoplösungen als auch für mobile Geräte optimiert.
 

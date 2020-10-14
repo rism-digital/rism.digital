@@ -5,9 +5,8 @@ title: End of the cataloguing at Fischingen
 date: 2015-06-01
 post: true
 lang: en
+image: "/images/news/fischingen.jpg"
 ---
-
- ![](/images/news/fischingen.jpg)
 
 The cataloguing of the Fischingen collection in Frauenfeld State archive was completed by the Swiss RISM office at the beginning of June 2015. The cataloguing of the manuscript and printed sources has increased the database by 1,039 new entries.
 

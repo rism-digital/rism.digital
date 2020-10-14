@@ -5,9 +5,8 @@ title: Jubiläumskonzert des Vereins Arbeitsstelle Schweiz des RISM am 14. Juni 
 date: 2016-05-26
 post: true
 lang: de
+image: "/images/news/franzoesische-kirche.png"
 ---
-
- ![](/images/news/franzoesische-kirche.png)
 
 Der Verein Arbeitsstelle Schweiz des Répertoire International des Sources Musicales (RISM) feiert am 14. Juni 2016 sein 20jähriges Bestehen mit einem öffentlichen Konzert. Aufgeführt wird ein grösserer Ausschnitt aus Maurizio Cazzatis Messa e Salmi, op. 36 durch das Basler Vokalensemble Voces Suaves. Für die Festansprache zum Thema „Musik (Kultur) – Politik – Wissenschaft“ konnte die ehemalige Ständerätin Christine Egerszegi-Obrist gewonnen werden. Das Konzert in der Französischen Kirche Bern beginnt um 19.30 Uhr. Der Eintritt ist frei (Kollekte).
 

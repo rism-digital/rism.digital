@@ -5,9 +5,8 @@ title: Fine della catalogazione del fondo Louis Niedermeyer
 date: 2015-07-13
 post: true
 lang: it
+image: "/images/news/niedermeyer.png"
 ---
-
- ![](/images/news/niedermeyer.png)
 
 Alla metà di gennaio 2016 è stato completato il catalogo del fondo Louis Niedermeyer (1802-1861), conservato dall'Associazione Niedermeyer a Nyon.La catalogazione delle fonti manoscritte e a stampa ha apportato alla banca dati 315 nuovi titoli.
 

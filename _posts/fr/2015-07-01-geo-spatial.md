@@ -5,9 +5,8 @@ title: Visualisation spatio-temporelle pour les imprimés musicaux
 date: 2015-07-01
 post: true
 lang: fr
+image: "/images/news/geo-spatial.png"
 ---
-
- ![](/images/news/geo-spatial.png)
 
 Dans de nombreux domaines, les techniques de visualisation se sont montrées extrêmement utiles pour analyser et mieux comprendre de grandes quantités de données complexes. Nous avons récemment effectué des recherches pour appliquer aux ressources bibliographiques musicales des techniques de visualisation spatio-temporelles.
 

@@ -5,9 +5,8 @@ title: Il nostro nuovo sito è online
 date: 2015-06-18
 post: true
 lang: it
+image: "/images/news/site-small.jpg"
 ---
-
- ![](/images/news/site-small.jpg)
 
 Abbiamo il piacere di annunciare il lancio del nostro nuovo sito! Come prima, il sito include pagine informative sui nostri diversi progetti e un punto d'accesso alla banca-dati. In questa nuova versione sono state ripensate e ridisegnate. Tanto le pagine d'informazione che l'accesso alla banca-dati sono pienamente ottimizzati sia per schermi desktop che per apparecchi mobili.
 

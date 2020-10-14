@@ -5,9 +5,8 @@ title: 75 Jahre Freunde Alter Musik Basel
 date: 2017-05-10
 post: true
 lang: de
+image: "/images/news/onstage-famb.jpeg"
 ---
-
- ![](/images/news/onstage-famb.jpeg)
 
 Zu seinem 75. Jubiläum (1942-2017) hat der Verein Freunde Alter Musik Basel beschlossen, seine Programmhefte auf der OnStage-Plattform von RISM Schweiz zu veröffentlichen. Die fast vollständige Sammlung aller Konzert- und Saisonprogramme wurde digitalisiert und nach Datum, Komponisten und Interpreten indexiert. Darüber hinaus ist eine Volltextsuche möglich.
 

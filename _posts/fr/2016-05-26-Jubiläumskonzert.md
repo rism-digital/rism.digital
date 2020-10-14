@@ -5,9 +5,8 @@ title: Concert d’anniversaire de l’association du Bureau suisse du RISM le 1
 date: 2016-05-26
 post: true
 lang: fr
+image: "/images/news/franzoesische-kirche.png"
 ---
-
- ![](/images/news/franzoesische-kirche.png)
 
 L’association du Bureau suisse du Répertoire International des Sources Musicales (RISM) célèbre le 14 juin 2016 son 20<sup>ème</sup> anniversaire avec un concert public. L’ensemble vocal de bâlois Voces Suaves exécutera un extrait de la «&nbsp;Messa e Salmi&nbsp;», op. 36 de Maurizio Cazzati. Un discours sur le thème «&nbsp;musique (culture) - politique – science&nbsp;» sera prononcé par l’ancienne conseillère aux Etats Christine Egerszegi-Obrist. Le concert à l’église française de Berne commencera à 19h 30. L’entrée est libre (collecte).
 

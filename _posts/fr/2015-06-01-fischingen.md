@@ -5,9 +5,8 @@ title: Fin du catalogage à Fischingen
 date: 2015-06-01
 post: true
 lang: fr
+image: "/images/news/fischingen.jpg"
 ---
-
- ![](/images/news/fischingen.jpg)
 
 Le catalogage de la collection de Fischingen dans les archives d'état de Frauenfeld a été achevé par le bureau suisse du RISM début juin 2015. Le catalogage des sources manuscrites et imprimées correspond à 1'039 nouveau titres dans notre base de données.
 

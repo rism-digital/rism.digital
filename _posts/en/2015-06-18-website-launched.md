@@ -5,9 +5,8 @@ title: Launch of our new website
 date: 2015-06-18
 post: true
 lang: en
+image: "/images/news/site-small.jpg"
 ---
-
- ![](/images/news/site-small.jpg)
 
 We are pleased to announce the launch of our new website! As before, the website includes information pages about our different projects and a front-end to our database. In this new version they have been completely rethought and redesigned. Both the information pages and the database front-end are now fully optimized for desktop and mobile devices.
 

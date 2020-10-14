@@ -5,9 +5,8 @@ title: Visualizzazione spazio-temporale per le stampe musicali
 date: 2015-07-01
 post: true
 lang: it
+image: "/images/news/geo-spatial.png"
 ---
-
- ![](/images/news/geo-spatial.png)
 
 In molti campi, le tecniche di visualizzazione di dati hanno dimostrato di essere estremamente utili per analizzare e meglio comprendere delle ingenti quantità di dati complessi. Recentemente, abbiamo condotto degli esperimenti sull'applicazione di tecniche di visualizzazione spazio-temporale a risorse bibliografico-musicali.
 

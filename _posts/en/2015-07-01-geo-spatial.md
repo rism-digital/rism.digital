@@ -5,9 +5,8 @@ title: Geo-spatial visualization for music prints
 date: 2015-07-01
 post: true
 lang: en
+image: "/images/news/geo-spatial.png"
 ---
-
- ![](/images/news/geo-spatial.png)
 
 In many domains, data visualization techniques have proven to be extremely useful for analyzing and better understanding large and complex datasets. We recently conducted experiments on how geo-visualization techniques may be applied to music bibliographical resources.
 

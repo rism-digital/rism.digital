@@ -5,9 +5,8 @@ title: Jubilee concert of the Swiss RISM Association on 14 June 2016 in Berne
 date: 2016-05-26
 post: true
 lang: en
+image: "/images/news/franzoesische-kirche.png"
 ---
-
- ![](/images/news/franzoesische-kirche.png)
 
 The association “Swiss Office of the Répertoire International des Sources Musicales (RISM)” celebrates its 20th anniversary on 14 June 2016 with a public concert. An ample choice from Maurizio Cazzati’s “Messa e Salmi”, op. 36, will be performed by the Basel vocal ensemble Voces Suaves. On this occasion, a speech on the topic “Music (Culture) - Politics - Science” will be delivered by the former Councillor Christine Egerszegi-Obrist. The concert in the French Church in Berne starts at 7.30 p.m. Admission is free (donations welcome at the exit).
 

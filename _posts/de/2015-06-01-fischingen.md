@@ -5,9 +5,8 @@ title: Abschluss der Katalogisierung in Fischingen
 date: 2015-06-01
 post: true
 lang: de
+image: "/images/news/fischingen.jpg"
 ---
-
- ![](/images/news/fischingen.jpg)
 
 Anfang Juni 2015 wurde die Erschliessung der Fischinger Bestände durch die Arbeitsstelle Schweiz des RISM im Staatsarchiv in Frauenfeld abgeschlossen. Insgesamt bringt die Inventarisierung der handschriftlichen sowie gedruckten Musikquellen der Datenbank 1039 neue Einträge.
 

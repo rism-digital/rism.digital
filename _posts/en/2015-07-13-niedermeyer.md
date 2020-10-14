@@ -5,9 +5,8 @@ title: End of the cataloguing of the Louis Niedermeyer collection
 date: 2015-07-13
 post: true
 lang: en
+image: "/images/news/niedermeyer.png"
 ---
-
- ![](/images/news/niedermeyer.png)
 
 The cataloguing of the Louis Niedermeyer (1802-1861) collection, preserved by the Niedermeyer Foundation in Nyon, was completed by the Swiss RISM office at mid-January 2016. The cataloguing of the manuscript and printed sources has increased the database by 315 entries.
 

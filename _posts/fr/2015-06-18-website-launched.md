@@ -5,9 +5,8 @@ title: Mise en ligne de notre nouveau site
 date: 2015-06-18
 post: true
 lang: fr
+image: "/images/news/site-small.jpg"
 ---
-
- ![](/images/news/site-small.jpg)
 
 Nous avons le plaisir d'annoncer la mise en ligne de notre nouveau site web! Comme auparavant, le site inclut des pages d'information à propos de nos différents projets ainsi qu'un accès à la base de données. Dans cette nouvelle version, les deux parties du site ont été complètement repensées. Les pages d'information et l'accès à la base de données sont optimisés tant pour les ordinateurs de bureau que pour les appareils mobiles.
 

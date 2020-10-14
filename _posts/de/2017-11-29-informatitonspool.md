@@ -5,9 +5,8 @@ title: 'Informationspool: Neue Möglichkeiten der Nutzung'
 date: 2017-11-29
 post: true
 lang: de
+image: "/images/news/informationspool.png"
 ---
-
- ![](/images/news/informationspool.png)
 
 Dank den neuesten Verbesserungen in der RISM-Software, erstrahlt das Projekt Informationspool „Repertorium Schweizer Komponisten des 19. Jahrhunderts“ in neuem Glanz. Dabei wurden rund 250 für die musikalische Produktion in der Schweiz bedeutende Quellen, vorwiegend aus dem 19. Jahrhundert, digitalisiert und im Internet veröffentlicht. Sie stammen aus dreizehn verschiedenen Schweizer Bibliotheken.
 

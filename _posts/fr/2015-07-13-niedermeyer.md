@@ -5,9 +5,8 @@ title: Fin du catalogage du fonds Louis Niedermeyer
 date: 2015-07-13
 post: true
 lang: fr
+image: "/images/news/niedermeyer.png"
 ---
-
- ![](/images/news/niedermeyer.png)
 
 Le catalogage du fonds Louis Niedermeyer (1802-1861) dans le Centre de Documentation à Nyon a été achevé par le bureau suisse du RISM mi-janvier 2016. Le catalogage des sources manuscrites et imprimées correspond à 315 nouveaux titres dans notre base de données.
 

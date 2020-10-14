@@ -5,9 +5,8 @@ title: 'Informationspool: Nouvelles possibilités pour les utilisateurs'
 date: 2017-11-29
 post: true
 lang: fr
+image: "/images/news/informationspool.png"
 ---
-
- ![](/images/news/informationspool.png)
 
 Les utilisateurs du projet « Informationspool » – Répertoire des compositeurs suisses du 19ème siècle profitent des récents développements. Dans le cadre de ce projet d’environ 250 sources musicales ayant une importance particulière pour la production musicale Suisse, en priorité du 19ème siècle, ont été numérisées et publiées en ligne. Les sources sont conservées dans treize différentes bibliothèques suisses.
 
