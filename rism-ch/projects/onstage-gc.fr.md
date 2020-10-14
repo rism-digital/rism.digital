@@ -15,9 +15,6 @@ qui possèdent des fonds similaires. En effet, ces collections de
 programmes de concert sont des sources présentant un intérêt historique
 non négligeable et relativement peu connu, et leur mise en ligne offre
 de nouvelles perspectives pour l'étude de l'histoire de la performance.
-Une extension du projet OnStage est donc actuellement en préparation
-avec les programmes de concerts de la Bibliothèque du Conservatoire de
-Musique de Genève.
 
 Ce projet suit la même approche que pour l'institution Lausannoise, à
 savoir la numérisation de la collection, l'indexation des données ainsi
@@ -32,8 +29,7 @@ collection.
 
 Le financement du projet est pris en charge par la Bibliothèque du
 Conservatoire de Musique de Genève avec un partenariat avec le RISM
-Suisse. L'indexation et la numérisation ont commencé en 2014.
-L'indexation a été effectuée par un collaborateur du Conservatoire sous
+Suisse. L'indexation a été effectuée par un collaborateur du Conservatoire sous
 la supervision du responsable de la Bibliothèque et du RISM Suisse.
 
 Contact: [Claudio Bacciagaluppi]

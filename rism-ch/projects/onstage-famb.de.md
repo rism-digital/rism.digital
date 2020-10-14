@@ -30,11 +30,9 @@ Volltextsuche automatisch eingelesen werden. Die Einstiegsseite
 garantiert sowohl eine übersichtliche Darstellung der einzelnen
 Sammlungen als auch optimale Suchfunktionen über den gesamten Korpus.
 
-Das Projekt wird bis Ende 2016 dauern.
-
 Kontakt: [Claudio Bacciagaluppi]
 
-  [On Stage]: http://d-lib.rism-ch.org/onstage/
+  [On Stage]: http://onstage.rism-ch.org/
   [RISM digital library]: http://rism-ch.org/d-lib.html
   [Verein FAMB]: http://www.scb-basel.ch/index/112965
   [Claudio Bacciagaluppi]: /contact.html

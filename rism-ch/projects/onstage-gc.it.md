@@ -14,9 +14,7 @@ Svizzera ha suscitato grande interesse da parte di diverse istituzioni
 che hanno fondi simili. Infatti, queste collezioni di programmi di
 concerti sono fonti con un notevole interesse storico e relativamente
 sconosciute, e la loro pubblicazione online offre nuove prospettive per
-lo studio della storia dell\'esecuzione musicale. Un\'estensione del
-progetto OnStage è pertanto in preparazione con i programmi dei concerti
-della Biblioteca del Conservatorio di Ginevra.
+lo studio della storia dell\'esecuzione musicale. 
 
 Questo progetto segue lo stesso approccio che per l\'istituzione
 losannese, vale a dire la digitalizzazione della collezione,
@@ -30,8 +28,7 @@ mantenendo una presentazione distinta di ciascuna collezione.
 
 Il progetto è sostenuto finanziariamente dalla Biblioteca del
 Conservatorio di musica di Ginevra in collaborazione con RISM Svizzera.
-L\'indicizzazione e la scansione sono iniziate nel 2014. Gli indici sono
-stati compilati da un dipendente del Conservatorio sotto la supervisione
+Gli indici sono stati compilati da un dipendente del Conservatorio sotto la supervisione
 del direttore della Biblioteca e di RISM Svizzera.
 
 Contatto: [Claudio Bacciagaluppi]

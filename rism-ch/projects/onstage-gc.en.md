@@ -14,9 +14,7 @@ Switzerland has aroused great interest on the part of several
 institutions that have similar collections. Indeed, these concert
 program collections are sources with a significant historical interest
 and relatively unknown, and their online publication offers new
-perspectives for the study of the history of performance. An extension
-of the OnStage project is being prepared with the concert programmes of
-the Library of the Geneva Conservatory of Music.
+perspectives for the study of the history of performance. 
 
 This project follows the same approach as for the Lausanne institution,
 namely digitizing the collection, indexing the data and implementing
@@ -29,8 +27,7 @@ optimizes an integrated research while keeping a distinct presentation
 of each collection.
 
 Funding for the project is provided by the Library of Geneva Music
-Conservatory in partnership with RISM Switzerland. The indexing and
-scanning began in 2014. The index was realized by an employee of the
+Conservatory in partnership with RISM Switzerland. The index was realized by an employee of the
 Conservatory under the supervision of the head of the Library and of
 RISM Switzerland.
 

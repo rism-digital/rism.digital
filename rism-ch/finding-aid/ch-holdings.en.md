@@ -1,8 +1,9 @@
 ---
 layout: finding-aid
 lang: en
+---
 
-# Alphabetical list of all libraries and archives with documented music holdings
+# Alphabetical list of all libraries and archives with documented musical holdings
 
 References: RISM-OPAC and printed volumes, RISM survey 1990, Handbuch der historischen Buchbestände, Fonoteca survey 2000, Swissbib (as of July 2018). 
 
