@@ -30,7 +30,7 @@ tiles:
             fr: "RISM Suisse"
             it: "RISM Svizzera"
         texts:
-            en: "RISM Switzerland is the Swiss national branch of RISM. It is based at the National library in Bern and has been recording music manuscripts and printed musical sources in Swiss libraries and archives since 1956. Learn more about its activities and its resources to find and use Swiss music sources."
+            en: "The RISM Digital Center is the home of the RISM Switzerland, the Swiss national branch of RISM. It is based at the National library in Bern and has been recording music manuscripts and printed musical sources in Swiss libraries and archives since 1956. Learn more about its activities and its resources to find and use Swiss music sources."
             de: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam."
             fr: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam."
             it: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam."
