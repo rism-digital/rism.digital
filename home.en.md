@@ -37,7 +37,7 @@ tiles:
 
     news:
         image: news.png
-        link: http://website-test.rism.digital/news-archive/rism_a_z/
+        link: http://website-test.rism.digital/news-archive/rism_digital_center/
         titles:
             en: "News"
             de: "News"
