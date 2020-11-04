@@ -1,0 +1,18 @@
+# Documentazione
+
+* [Statuti dell'Associazione](http://docs.rism-ch.org/STATUTS_FRAN.pdf)
+* [Relazione annuale 2005](http://docs.rism-ch.org/Rapportannuel_2005.pdf)
+* [Relazione annuale 2006](http://docs.rism-ch.org/Rapportannuel_2006.pdf)
+* [Relazione annuale 2007](http://docs.rism-ch.org/Rapportannuel_2007.pdf)
+* [Relazione annuale 2008](http://docs.rism-ch.org/Rapport_annuel_2008.pdf)
+* [Relazione annuale 2009](http://docs.rism-ch.org/Jahresbericht-2009-f-web.pdf)
+* [Relazione annuale 2010](http://docs.rism-ch.org/Jahresbericht-2010-f-web.pdf)
+* [Relazione annuale 2011](http://docs.rism-ch.org/Jahresbericht-2011-f-web.pdf)
+* [Relazione annuale 2012](http://docs.rism-ch.org/Jahresbericht-2012-f-web.pdf)
+* [Relazione annuale 2013](http://docs.rism-ch.org/Jahresbericht-2013-f-web.pdf)
+* [Relazione annuale 2014](http://docs.rism-ch.org/Jahresbericht-2014-f-web.pdf)
+* [Relazione annuale 2015](http://docs.rism-ch.org/Jahresbericht-2015-f-web.pdf)
+* [Relazione annuale 2016](http://docs.rism-ch.org/Jahresbericht-2016-f-web.pdf)
+* [Relazione annuale 2017](http://docs.rism-ch.org/Jahresbericht-2017-f-web.pdf)
+* [Relazione annuale 2018](http://docs.rism-ch.org/Jahresbericht-2018-f-web.pdf)
+* [Relazione annuale 2019](http://docs.rism-ch.org/Jahresbericht-2019-f-web.pdf)
