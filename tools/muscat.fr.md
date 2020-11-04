@@ -8,7 +8,7 @@ permalink: /tools/muscat.html
 
 # Logiciel de catalogage Muscat
 
-{% include image file="/images/rism_ch/muscat-sm.png" pos="right" %}
+{% include image file="/images/tools/muscat/logo.png" pos="right" %}
 
 Muscat est une plateforme open-source pour le catalogage de sources musicales (manuscrites et imprimées). Le projet a été initié en 2002 par
 le groupe de travail [Royaume-Uni du RISM](http://www.rism.org.uk) et développé ultérieurement par le RISM Digital Center. Depuis le début de 2014, Muscat est développé en collaboration avec le RISM Editorial Center à Francfort grâce à la décision du RISM-UK et du RISM Digital Center (à l'époque le RISM Suisse) de le rendre open-source.

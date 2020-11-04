@@ -1,4 +1,4 @@
-# Documents
+# Dokumente
 
 * [Statuten des Vereins](http://docs.rism-ch.org/Statuten_DEUTSCH.pdf)
 * [Jahresbericht 2005](http://docs.rism-ch.org/Jahresbericht_2005.pdf)
