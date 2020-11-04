@@ -19,12 +19,12 @@ Depuis 2015, le RISM Editorial Center et RISM Digital Center collaborent selon u
 
 La Rédaction centrale du RISM est responsable de:
 
-- La gestion des données et de l'assistance au utilisateurs
+- La gestion des données et de l'assistance aux utilisateurs
 - La supervision de la rédaction des règles de catalogage
 
 Le RISM Suisse est responsable de:
 
-- Le gestion du dévelopement, du code source et de la publications des nouvelles versions
+- Le gestion du dévelopement, du code source et de la publications des nouvelles versions de Muscat
 - La gestion de l'installation de Muscat sur le serveur de la *Staatsbibliothek zu Berlin*
 
 Pour en savoir plus sur les détails techniques de Muscat, consultez son [site web dédié](http://muscat-project.org).
