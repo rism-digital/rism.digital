@@ -1,6 +1,6 @@
 ---
 title: "Tools and Services"
-layout: tools
+layout: tools-index
 show_posts: false
 lang: fr
 permalink: /tools.html
