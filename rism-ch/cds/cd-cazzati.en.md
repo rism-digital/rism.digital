@@ -26,7 +26,7 @@ San Petronio in Bologna held a distinguished position within the musical
 life of the city.
 
 On the occasion of the 20th anniversary of the RISM Switzerland
-Association -- and the 400th birthday of Cazzati -- RISM Switzerland had
+Association -- and the 400th birthday of Cazzati -- the RISM Switzerland had
 the opportunity to produce a CD of this work in cooperation with the
 music label [Claves Records]{:target="_blank"} and the Basel ensemble 
 [Voces Suaves]{:target="_blank"}. RISM
