@@ -8,10 +8,10 @@ permalink: /organization/association.html
 
 # Associazione
 
-L'Associazione Ufficio RISM-Svizzera è aperta a tutte le persone e
+L'Associazione RISM Digital Center è aperta a tutte le persone e
 istituzioni interessate che sono pertanto benvenute. I membri godono di
 servizi gratuiti di informazione per quanto riguarda i fondi musicali
-storici siti in Svizzera. Inoltre RISM-Svizzera organizza sporadicamente
+storici siti in Svizzera. Inoltre il RISM Digital Center organizza sporadicamente
 eventi culturali quali concerti, produzioni di CD o presentazioni di
 cataloghi. A tutte queste manifestazioni i membri sono invitati.
 L'assemblea annuale dell'associazione ha lo scopo di informare i membri
