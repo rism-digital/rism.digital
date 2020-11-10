@@ -11,7 +11,7 @@ permalink: /rism-ch/cataloging/beromuenster.html
 Thanks to the financial support of the Albert Koechlin foundation
 (Albert Koechlin Stiftung) in Lucerne, the music sources of St. Michael
 in Beromünster were comprehensively catalogued during the years 2004,
-2005 and 2006 by the Swiss RISM Office. By the end of the cataloguing,
+2005 and 2006 by the RISM Switzerland. By the end of the cataloguing,
 823 music manuscripts from the 17th, 18th and 19th centuries, 1,087
 printed music books from the 17th and 18th centuries, and 3,656 printed
 editions from the 19th century had been made accessible for
