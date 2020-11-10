@@ -32,7 +32,7 @@ returned there to compose during his life.
 
 So far, the work of Louis Niedermeyer has not been appreciated at its
 true value by research. By inventorying the collection preserved by the
-Association Niedermeyer, the Swiss RISM contributes to the recognition
+Association Niedermeyer, the RISM Switzerland contributes to the recognition
 and dissemination of the work of this fascinating and unjustly forgotten
 Swiss composer. The project started on 13 July 2015 and its completion
 is planned for the end of the year.
