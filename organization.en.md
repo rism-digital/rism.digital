@@ -10,7 +10,7 @@ permalink: /organization.html
 
 {% include common/about-us-logos.html %}
 
-The Répertoire International des Sources Musicales (RISM) is an international organisation funded in 1952 whose aim is to inventory music sources worldwide and make them accessible. As the most comprehensive resource for historical music sources in the world, it is the cornerstone of countless musicological research projects. The RISM network comprises the RISM Editorial Center in Germany and working groups in over 30 countries. The RISM Digital Center is part of this network and its mission is twofold. Firstly, it leads the development of a digital infrastructure for the RISM and for music source-related musicology projects. Secondly, it fulfils the role of a Swiss RISM working group by inventorying music sources in Switzerland.
+The Répertoire International des Sources Musicales (RISM) is an international organisation founded in 1952 whose aim is to inventory music sources worldwide and make them accessible. As the most comprehensive resource for historical music sources in the world, it is the cornerstone of countless musicological research projects. The RISM network comprises the RISM Editorial Center in Germany and working groups in over 30 countries. The RISM Digital Center is part of this network and its mission is twofold. Firstly, it leads the development of a digital infrastructure for the RISM and for music source-related musicology projects. Secondly, it fulfils the role of a Swiss RISM working group by inventorying music sources in Switzerland.
 
 Since its foundation in 1956 the RISM Switzerland has recorded
 systematically more than 10,000 prints from before 1800, collective
