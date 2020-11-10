@@ -39,7 +39,9 @@ founding members established the Association RISM Switzerland on 21st June
 -   Swiss Society for the Rights of Authors of Musical Works ([SUISA]{:target="_blank"})
 -   Swiss Music Council (SMR: [german version]{:target="_blank"}, [french version]{:target="_blank"})
 
-In the 2000s, the RISM Switzerland has become an increasingly important centre for information technology issues. To reflect this development, in 2021 the name of the association changes in RISM Digital Center. 
+In the 2000s, the RISM Switzerland has become an increasingly important 
+centre for information technology issues. To reflect this development, 
+in 2021 the name of the association changes in RISM Digital Center. 
 
 [SMG]: http://www.smg-ssm.ch
 [ASCM]: http://www.iaml.ch
