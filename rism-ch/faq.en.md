@@ -8,7 +8,7 @@ permalink: /rism-ch/faq.html
 
 # Search tips for performing musicians
 
-An important goal of RISM Switzerland is that its source database be
+An important goal of the RISM Switzerland is that its source database be
 used increasingly by performing musicians, in addition to scholars and
 musicologists. In fact, the database contains a number of exciting music
 sources, far off the standard concert repertoire, which await to be
@@ -18,13 +18,13 @@ Some general questions are answered below.
 
 ### Is access to the RISM database open?
 
-The database of RISM Switzerland is provided free of charge and no login
+The database of the RISM Switzerland is provided free of charge and no login
 is required to search for sources. Costs may however arise with the
 libraries, particularly when requesting copies.
 
 ### Where are the sources listed in the database?
 
-RISM Switzerland itself is not in possession of any musical sources.
+The RISM Switzerland itself is not in possession of any musical sources.
 These are located in different institutions. Please contact directly the
 library that owns the source and make an appointment. Contact details
 can be found under the heading Library sigla.
@@ -38,13 +38,13 @@ check the copyright situation of the works concerned.
 
 ### Is it possible to download digital copies of the sources?
 
-A few sources were digitized and published online by RISM Switzerland in
+A few sources were digitized and published online by the RISM Switzerland in
 the course of specific projects. Some of these can also be downloaded.
-However, it is not the task of RISM to digitize all sources.
+However, it is not the task of the RISM to digitize all sources.
 
 ### What types of material are there in the sources?
 
-RISM Switzerland catalogues all types of materials. Most often, these
+The RISM Switzerland catalogues all types of materials. Most often, these
 are Manuscripts or Prints; manuscripts are further divided in
 Autographs, questionable autographs (Probably autograph) and copies
 (Manuscript). The appropriate term is found under the heading Source
@@ -87,7 +87,7 @@ number of filters are offered. These allow filtering of results by genre
 (e.g., CH-E = Einsiedeln monastery library), text authors (e.g., Staub,
 Joseph), and of course general keywords (e.g., Sängerverein).
 
-A special project in which RISM Switzerland has been engaged for some
+A special project in which the RISM Switzerland has been engaged for some
 time already is the [\"Repertoire of Swiss Composers of the 19th
 Century\"](/rism-ch/cataloging/repertorium.html). If you wish to look up sources in this project, you can
 filter them by typing the keyword RepertoriumSchweiz.
@@ -97,5 +97,5 @@ filter them by typing the keyword RepertoriumSchweiz.
 For questions about specific sources, please contact the owner
 institution. This also applies to organizational issues such as
 notifiying the library in advance of a visit, ordering a reproduction of
-the source, etc. For any other questions feel free to contact RISM
+the source, etc. For any other questions feel free to contact the RISM
 Switzerland. You will find our [contact](/contact.html) details on our website.
