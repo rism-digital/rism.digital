@@ -52,7 +52,7 @@ the pianist Jean-Jacques Hauser. (Note that the audio file is
 transmitted directly from the Fonoteca in Lugano, which means that users
 must visit the dedicated listening stations).
 
-For this project, the Swiss RISM has established a collaboration with
+For this project, the RISM Switzerland has established a collaboration with
 the Distributed Digital Music Archives and Libraries (DDMAL) laboratory
 led by Prof. Ichiro Fujinaga at McGill University in Montreal.
 
