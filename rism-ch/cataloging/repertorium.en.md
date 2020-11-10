@@ -9,7 +9,7 @@ permalink: /rism-ch/cataloging/repertorium.html
 # Repertory of 19th century Swiss composers
 
 By initiating the project \"Repertory of 19th century Swiss composers\",
-the Swiss RISM branch set itself the goal of filling a serious gap
+the RISM Switzerland set itself the goal of filling a serious gap
 within Switzerland\'s documentation of music. At the beginning of this
 project we established the following facts:
 
