@@ -8,7 +8,7 @@ permalink: /organization/association.html
 
 # Association
 
-L\'Association Bureau suisse du RISM est ouverte à toutes les personnes
+L\'Association RISM Digital Center est ouverte à toutes les personnes
 et institutions intéressées. Les avantages pour les membres sont des
 renseignements gratuits et des conseils qualifiés sur les fonds musicaux
 manuscrits et imprimés conservés en Suisse. Régulièrement, le RISM
