@@ -8,7 +8,7 @@ permalink: /rism-ch/cataloging.html
 
 # Cataloging projects
 
-The aim of the Swiss RISM is to inventory the largest number of musical
+The aim of the RISM Switzerland is to inventory the largest number of musical
 sources and make them accessible to the public. The work is organized
 according to specific projects. In the projects, the sources are
 documented and if necessary transferred into non-acid boxes.
