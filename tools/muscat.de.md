@@ -6,25 +6,24 @@ lang: de
 permalink: /tools/muscat.html
 ---
 
-# Cataloguing software Muscat
+# Katalogisierungs-Software Muscat
 
 {% include image file="/images/tools/muscat/logo.png" pos="right" %}
 
-Muscat is an open-source framework for cataloging music documents (handwritten and printed music scores). The project was initiated in 2002 by the [RISM United Kingdom](http://www.rism.org.uk) working group and then developed further by the RISM Digital Center. In November 2013, Muscat was selected by the RISM International Board as the data management solution for the entire RISM project. Since early 2014, Muscat has been developed in collaboration with the RISM Editorial Center in Frankfurt thanks to the decision of the RISM-UK and the RISM Digital Center (at the time the RISM Switzerland) to make it open-source. The entire RISM dataset was migrated into Muscat in 2016 with the release of Muscat 3.0. Muscat is hosted on servers at the Staatsbibliothek zu Berlin - Preußischer Kulturbesitz. There are currently (2020) more than 300 registered users in Muscat, around half of whom are regular and active contributors. 
+Muscat ist ein Open-Source-Framework zur Katalogisierung von Musikdokumenten (handgeschriebene und gedruckte Partituren). Das Projekt wurde 2002 von der Arbeitsgruppe [RISM United Kingdom](http://www.rism.org.uk) initiiert und dann vom RISM Digital Center weiterentwickelt. Im November 2013 wurde Muscat vom RISM International Board als Datenverwaltungslösung für das gesamte RISM-Projekt ausgewählt. Seit Anfang 2014 wird Muscat in Zusammenarbeit mit dem RISM Editorial Center in Frankfurt entwickelt, dank der Entscheidung des RISM-UK und des RISM Digital Center (damals RISM Schweiz), Muscat als Open-Source-Lösung verfügbar zu machen. Der gesamte RISM-Datensatz wurde 2016 mit der Veröffentlichung von Muscat 3.0 nach Muscat migriert. Muscat wird auf Servern der Staatsbibliothek zu Berlin - Preußischer Kulturbesitz gehostet. Derzeit (2020) gibt es mehr als 300 registrierte Benutzer in Muscat, von denen etwa die Hälfte regelmäßige und aktive Mitwirkende sind.
 
-## Collaboration with the RISM Editorial Center
+## Zusammenarbeit mit dem RISM Editorial Center
 
-Since 2015, the RISM Editorial Center and the RISM Digital Center have an
-agreement for the development and the management of Muscat.
+Seit 2015 haben die RISM Zentralredaktion und das RISM Digital Center Vereinbarung über die Entwicklung und Verwaltung von Muscat.
 
-The RISM Editorial Center is responsible for:
+Die RISM Zentralredaktion ist verantwortlich für:
 
-- The management of data and the assistance to the users
-- The supervision of the redaction of the cataloguing guidelines
+- Die Verwaltung der Daten und die Unterstützung der Benutzer
+- Die Aufsicht über die Redaktion der Katalogisierungsrichtlinien
 
-The RISM Digital Center is responsible for:
+Das RISM Digital Center ist verantwortlich für:
 
-- The management of the developments, of the source code and of the releases of Muscat
-- The management of the installation of Muscat on the server at the *Staatsbibliothek zu Berlin*
+- Die Verwaltung der Entwicklungen, des Quellcodes und der Veröffentlichungen von Muscat
+- Die Verwaltung der Installation von Muscat auf dem Server der *Staatsbibliothek zu Berlin*
 
-Learn more about the technical details of Muscat on its [dedicated website](http://muscat-project.org).
+Erfahren Sie mehr über die technischen Details von Muscat auf seiner [eigenen Website](http://muscat-project.org).
