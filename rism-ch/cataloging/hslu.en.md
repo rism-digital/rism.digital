@@ -14,7 +14,7 @@ the Jazz School in Lucerne in 1999 under the name of Lucerne School of
 Music. The various existing libraries were merged into a single music
 library with five locations. All historical sources of interest for the
 RISM, however, were removed from the subsidiary libraries and
-transferred to the main library, where they are now kept. The Swiss RISM
+transferred to the main library, where they are now kept. The RISM Switzerland
 was engaged in a project in 2013 to enter into its database this small
 manuscript collection. Most of the historical sources came to the music
 library by donation. The best-known donor is the violinist Rudolf
@@ -30,7 +30,7 @@ the Swiss composer Willy Burkhard, namely his own adaptation of the
 Sonata for solo viola (Op. 59), set for solo violin (Op. 59a). However,
 other manuscripts of composers mainly active in central Switzerland are
 in the collection, including works by Johann Baptist Hilber, Robert F.
-Denzler and Peter Josef Zwyssig. The Swiss RISM entered in its database
+Denzler and Peter Josef Zwyssig. The RISM Switzerland entered in its database
 a total amount of ca. 700 works from this library.
 
 Contact: [Cédric Güggi]
