@@ -10,17 +10,15 @@ permalink: /organization.html
 
 {% include common/about-us-logos.html %}
 
-RISM Schweiz ist eine der zahlreichen offiziellen Arbeitsstellen
-innerhalb der internationalen RISM-Gemeinschaft, die zum Ziel hat,
-weltweit möglichst vollständig sämtliche historischen Musikquellen zu
-dokumentieren und der Öffentlichkeit zugänglich zu machen. Die in Bern
-ansässige Schweizer Arbeitsstelle kümmert sich dabei um sämtliche
-Dokumente, die sich in der Schweiz -- vorwiegend in Bibliotheken,
-Archiven und Klöstern -- befinden. Die Gründung der Schweizer
-Arbeitsstelle geht ins Jahr 1956 zurück. Seit 1996 ist RISM Schweiz als
-eigenständiger Verein organisiert. Folgende Gründungsmitglieder haben am 21. 
-Juni 1996 den Verein Arbeitsstelle Schweiz des RISM aus der Taufe
-gehoben und stehen nach wie vor in engem Kontakt:
+Das Répertoire International des Sources Musicales (RISM) ist eine 1952 gegründete internationale Organisation, mit dem Ziel, Musikquellen weltweit zu inventarisieren und zugänglich zu machen. Als weltweit umfassendste Fundstelle für historische Musikquellen ist sie der Eckpfeiler unzähliger musikwissenschaftlicher Forschungsprojekte. Das RISM-Netzwerk umfasst die RISM Zentralredaktion in Deutschland sowie Arbeitsgruppen in über 30 Ländern. Das RISM Digital Center ist Teil dieses Netzwerks und hat einen doppelten Auftrag. Zum einen leitet es die Entwicklung der digitalen Infrastruktur für das RISM und für quellenbezogene musikwissenschaftliche Projekte. Zweitens erfüllt es die Rolle einer Schweizer RISM-Arbeitsgruppe, indem es Musikquellen in der Schweiz inventarisiert.
+
+Seit seiner Gründung im Jahr 1956 hat RISM-Schweiz über 10\'000 Einzeldrucke vor 1800, Sammeldrucke des 16., 17. und 18.
+Jahrhunderts und Schriften über Musik, mehr als 34\'000 Handschriften nach 1600 sowie mehr als 21\'000 gedruckte
+Noten des 19. und 20. Jahrhunderts systematisch erfasst. 
+
+Seit 1996 ist RISM Schweiz als eigenständiger Verein organisiert und wird hauptsächlich vom Schweizer
+Nationalfonds zur Förderung wissenschaftlicher Forschung (SNF) sowie durch Drittmittel aus Projektbeiträgen finanziert. 
+Folgende Gründungsmitglieder haben am 21. Juni 1996 den Verein Arbeitsstelle Schweiz des RISM aus der Taufe gehoben:
 
 -   Schweizerische Musikforschende Gesellschaft ([SMG]{:target="_blank"})
 -   Schweizerische Vereinigung der Musiksammlungen ([ASCM]{:target="_blank"})
@@ -28,22 +26,8 @@ gehoben und stehen nach wie vor in engem Kontakt:
     Werke ([SUISA]{:target="_blank"})
 -   Schweizer Musikrat ([SMR]{:target="_blank"})
 
-RISM Schweiz pflegt daneben aber auch zu weiteren Institutionen aus den
-Bereichen der Bibliothek, der Wissenschaft und der musikalischen Kultur
-einen engen Kontakt auf nationaler als auch auf internationaler Ebene.
-
-Finanziert wird RISM Schweiz derzeit hauptsächlich vom Schweizer
-Nationalfonds zur Förderung wissenschaftlicher Forschung (SNF), wo die
-Arbeitsstelle als Forschungsinfrastruktur ein hohes Ansehen geniesst.
-Daneben werden Drittmittel aus Projektbeiträgen, die aus
-Inventarisierungsaufträgen von Bibliotheken und Archiven erwirtschaftet
-werden, zur Deckung weiterführender Auslagen generiert.
-
-Seit seiner Gründung im Jahr 1956 hat RISM-Schweiz über 50\'000
-handschriftliche Noten nach 1600 (ein Viertel davon Autographe), weit
-über 10\'000 Einzeldrucke vor 1800, Sammeldrucke des 16., 17. und 18.
-Jahrhunderts und Schriften über Musik, sowie knapp 21\'000 gedruckte
-Noten des 19. und 20. Jahrhunderts systematisch erfasst.
+In den 2000er Jahren hat sich das RISM Schweiz zu einem immer wichtigeren Zentrum für Fragen der Informationstechnologie entwickelt. 
+Um dieser Entwicklung Rechnung zu tragen, wechselt im Jahr 2021 der Name des Vereins in RISM Digital Center.
 
 [SMG]: http://www.smg-ssm.ch
 [ASCM]: http://www.iaml.ch
