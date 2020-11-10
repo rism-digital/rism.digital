@@ -68,8 +68,8 @@ tiles:
         link: /tools.html
         titles:
             en: "Tools and services"
-            de: "Tools and services"
-            fr: "Tools and services"
+            de: "Werkzeuge und Dienstleistungen"
+            fr: "Outils et services"
             it: "Strumenti e servizi"
         texts:
             en: "The RISM Digital Center is active in the development of tools and services at the service of the RISM community and beyond. It leads the development of Muscat, and is responsible for its installation and administration. It also created and maintains Verovio, an open-source software library for rendering Music Encoding Initiative (MEI) scores. Discover the features and the background of Muscat, Verovio, and other exciting projects!"
