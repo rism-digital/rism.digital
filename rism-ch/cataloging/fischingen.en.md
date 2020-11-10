@@ -14,7 +14,7 @@ monks in the late Baroque era and during the Enlightenment, on the basis
 of handwritten and printed music from the late 17th to the early 19th
 century. This inventory derives its unique importance from the fact that
 the repertoire of Fischingen monastery is complementary to the
-collections already catalogued by the Swiss RISM at Beromünster,
+collections already catalogued by the RISM Switzerland at Beromünster,
 Einsiedeln, Engelberg, Disentis, St. Gallen (new St. Johann) and in the
 convent of St Andrew in Sarnen (which is nearly completed).
 
