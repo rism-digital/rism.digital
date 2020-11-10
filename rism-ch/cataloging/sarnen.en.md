@@ -10,9 +10,9 @@ permalink: /rism-ch/cataloging/sarnen.html
 
 The abbey of St Andrew of Benedictine nuns in Sarnen possesses one of
 the most remarkable historical music libraries in Switzerland. In 2003
-the staff of the Swiss RISM branch cleaned and ordered the documents and
+the staff of the RISM Switzerland cleaned and ordered the documents and
 brought them into the heritage storage room ("Kulturgüterschutzraum").
-RISM Switzerland then gave the convent a cost estimate for inventorying
+The RISM Switzerland then gave the convent a cost estimate for inventorying
 the music sources. The costs were covered by the generous contributions
 of the Artephila Foundation, the Reinle Suter Foundation (Lucerne), the
 Canton Obwalden and the convent itself.
@@ -28,7 +28,7 @@ Seftigen proceeded with dehydration (a freeze-dry process).
 The unforeseen disaster forced the inventorying to be postponed. On
 rescuing the sources, their original order was lost, and many shelfmarks
 written with a felt-tip pen were washed away. Reordering was carried
-out, including by the staff of RISM Switzerland, in the first half of
+out, including by the staff of the RISM Switzerland, in the first half of
 2007. Step by step, the prints were separated from the manuscripts,
 pages that had been loosened in the flood were assigned to the
 corresponding work, and finally every sheet was marked, numbered, and
