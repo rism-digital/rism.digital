@@ -8,7 +8,7 @@ permalink: /organization/association.html
 
 # Verein
 
-Der Verein Arbeitsstelle Schweiz des RISM steht allen interessierten
+Der Verein RISM Digital Center steht allen interessierten
 Personen und Institutionen offen und heisst diese herzlich willkommen.
 Die Mitglieder profitieren von kostenlosen Auskunftsdiensten zu den
 historischen Musikbeständen in der Schweiz. Ausserdem finden sporadisch
