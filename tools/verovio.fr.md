@@ -6,16 +6,16 @@ lang: fr
 permalink: /tools/verovio.html
 ---
 
-# The Verovio music engraving tool
+# L'outil de gravure musicale Verovio
 
-[Verovio](https://www.verovio.org/index.xhtml) is designed to be used in a wide range of applications and has been adopted by several projects or institutions. It works on desktop computers but also tablets and mobile devices. Verovio also provides basic support for other music notation formats, such as MusicXML import and MIDI output. 
+[Verovio](https://www.verovio.org/index.xhtml) est conçu pour être utilisé dans un large éventail d'applications et a été adopté par plusieurs projets ou institutions. Il fonctionne sur les ordinateurs de bureau mais aussi sur les tablettes et les appareils mobiles. Verovio est créé pour rendre les fichiers MEI mais fournit également un support de base pour d'autres formats de notation musicale, tels que l'importation MusicXML et la sortie MIDI. 
 
-Although it started simply as a component of Muscat for visualising music incipits, it became increasingly important over the years and is now being developed as a fully-fledged open-source project. The development of this unique music engraving tool is conducted in close collaboration with the MEI community. To some extent, it acts as a reference implementation for the most important core features of the MEI Schema. 
+Bien qu'il ait commencé simplement comme un composant de Muscat pour visualiser les incipits musicaux, il est devenu de plus en plus important au fil des années et est maintenant développé comme un projet open-source à part entière. Le développement de cet outil unique de gravure musicale est mené en étroite collaboration avec la communauté MEI. Dans une certaine mesure, il agit comme une mise en œuvre de référence pour les caractéristiques essentielles les plus importantes du schéma MEI. 
 
-Verovio is a software library component that is not a full software application, but instead only a software module to be used in full software applications. This modular approach meets modern software architecture design patterns and is an important reason for the wide adoption and success of Verovio. 
+Verovio est un composant de bibliothèque de logiciels qui n'est pas un logiciel complet, mais plutôt un module logiciel à utiliser dans des applications complètes. Cette approche modulaire répond aux modèles de conception de l'architecture logicielle moderne et constitue une raison importante de l'adoption et du succès de Verovio. 
 
-It is now used in dozens of projects in digital musicology, with applications ranging from digital critical editions, genetic editions, early music, audio alignment, online editing, music addressability, visualisation, performance, and even composition via artificial intelligence.
+Il est maintenant utilisé dans des dizaines de projets en musicologie numérique, avec des applications allant des éditions critiques numériques, des éditions génétiques, de la musique ancienne, de l'alignement audio, de l'édition en ligne, de l'adressabilité de la musique, de la visualisation, de l'interprétation et même de la composition au moyen de l'intelligence artificielle.
 
 ![Verovio](/images/tools/verovio/verovio-mei.png)
 
-Learn more about Verovio on its [dedicated website](https://www.verovio.org).
+Pour en savoir plus sur Verovio, consultez son [site web dédié](https://www.verovio.org).
