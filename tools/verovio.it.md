@@ -6,16 +6,16 @@ lang: it
 permalink: /tools/verovio.html
 ---
 
-# The Verovio music engraving tool
+# Lo strumento per l'incisione musicale Verovio
 
-[Verovio](https://www.verovio.org/index.xhtml) is designed to be used in a wide range of applications and has been adopted by several projects or institutions. It works on desktop computers but also tablets and mobile devices. Verovio also provides basic support for other music notation formats, such as MusicXML import and MIDI output. 
+[Verovio](https://www.verovio.org/index.xhtml) è stato progettato per essere utilizzato in una vasta gamma di applicazioni ed è stato adottato da diversi progetti o istituzioni. Funziona su computer desktop ma anche su tablet e dispositivi mobili. Verovio è stato creato per rendere i file MEI ma fornisce anche un supporto di base per altri formati di notazione musicale, offrendo una importazione MusicXML e una uscita MIDI. 
 
-Although it started simply as a component of Muscat for visualising music incipits, it became increasingly important over the years and is now being developed as a fully-fledged open-source project. The development of this unique music engraving tool is conducted in close collaboration with the MEI community. To some extent, it acts as a reference implementation for the most important core features of the MEI Schema. 
+Sebbene sia nato semplicemente come componente di Muscat per la visualizzazione di incipit musicali, nel corso degli anni è diventato sempre più importante ed è ora in fase di sviluppo come progetto open-source a pieno titolo. Lo sviluppo di questo strumento unico per l'incisione musicale è condotto in stretta collaborazione con la comunità MEI. In una certa misura, esso funge da implementazione di riferimento per le più importanti caratteristiche fondamentali dello Schema MEI. 
 
-Verovio is a software library component that is not a full software application, but instead only a software module to be used in full software applications. This modular approach meets modern software architecture design patterns and is an important reason for the wide adoption and success of Verovio. 
+Verovio è un componente di libreria software che non è un'applicazione software completa, ma solo un modulo software da utilizzare in applicazioni complete. Questo approccio modulare soddisfa i moderni modelli di progettazione dell'architettura software ed è una ragione importante per l'ampia adozione e il successo di Verovio. 
 
-It is now used in dozens of projects in digital musicology, with applications ranging from digital critical editions, genetic editions, early music, audio alignment, online editing, music addressability, visualisation, performance, and even composition via artificial intelligence.
+È ora utilizzato in decine di progetti di musicologia digitale, con applicazioni che vanno dalle edizioni critiche digitali, alle edizioni genetiche, alla musica antica, all'allineamento audio, all'editing online, all'indirizzabilità della musica, alla visualizzazione, all'esecuzione musicale e persino alla composizione attraverso l'intelligenza artificiale.
 
 ![Verovio](/images/tools/verovio/verovio-mei.png)
 
-Learn more about Verovio on its [dedicated website](https://www.verovio.org).
+Per saperne di più su Verovio, visitate il suo [sito web dedicato](https://www.verovio.org).
