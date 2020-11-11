@@ -6,7 +6,7 @@ lang: it
 permalink: /tools/verovio.html
 ---
 
-# Lo strumento per l'incisione musicale Verovio
+# Verovio, uno strumento per la notazione musicale
 
 [Verovio](https://www.verovio.org/index.xhtml) è stato progettato per essere utilizzato in una vasta gamma di applicazioni ed è stato adottato da diversi progetti o istituzioni. Funziona su computer desktop ma anche su tablet e dispositivi mobili. Verovio è stato creato per rendere i file MEI ma fornisce anche un supporto di base per altri formati di notazione musicale, offrendo una importazione MusicXML e una uscita MIDI. 
 
