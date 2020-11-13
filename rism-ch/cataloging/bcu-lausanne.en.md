@@ -28,7 +28,7 @@ für den einfachen Kontrapunkt (1910) or the Handbuch für Harmonie
 
 The cataloging of the partial Nachlass Piantoni is complementary to the
 inventory of the holdings in the National Library, which were catalogued
-in 2011 by RISM Switzerland. The Nachlass of the Geneva-born composer
+in 2011 by the RISM Switzerland. The Nachlass of the Geneva-born composer
 was divided at his request in 1976 by his wife, Paulette
 Piantoni-Chatron, between the National Library in Bern and the BCU
 Lausanne and was handed over to the two libraries. Piantonis

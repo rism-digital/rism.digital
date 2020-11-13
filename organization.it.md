@@ -10,17 +10,29 @@ permalink: /organization.html
 
 {% include common/about-us-logos.html %}
 
-Dalla sua fondazione nel 1956, l'Ufficio RISM-Svizzera si occupa
-dell'inventario sistematico di una grande quantità di documenti
-musicali. Fino ad oggi sono stati catalogati oltre 10.000 documenti a
+Il Répertoire International des Sources Musicales (RISM) è 
+un'organizzazione internazionale fondata nel 1952 il cui scopo 
+è quello di inventariare le fonti musicali in tutto il mondo 
+e renderle accessibili. In quanto risorsa più completa al mondo 
+per le fonti musicali storiche, è la pietra angolare 
+di innumerevoli progetti di ricerca musicologica. 
+La rete RISM comprende il RISM Editorial Center in Germania 
+e gruppi di lavoro in oltre 30 paesi. Il RISM Digital Center 
+fa parte di questa rete e la sua missione è duplice. 
+In primo luogo, guida lo sviluppo di un'infrastruttura digitale 
+per il RISM e per i progetti musicologici legati alle fonti musicali. 
+In secondo luogo, svolge il ruolo di gruppo di lavoro RISM svizzero 
+inventariando le fonti musicali in Svizzera.
+
+Dalla sua fondazione nel 1956, RISM Svizzera ha catalogato oltre 10.000 documenti a
 stampa anteriori al 1800, raccolte del XVI, XVII e XVIII secolo, nonché
-scritti stampati concernenti la musica. RISM-Svizzera inoltre ha
+scritti stampati concernenti la musica. Il RISM Svizzera ha inoltre
 inventariato quasi 34.000 manoscritti musicali posteriori al 1600 e
 circa 21.000 documenti a stampa del XIX secolo.
 
-RISM-Svizzera è dal 1996 un'associazione indipendente, finanziata
+Il RISM Svizzera è dal 1996 un'associazione indipendente, finanziata
 principalmente da contributi per progetti e da mandati per inventari di
-biblioteche e archivi. L'Associazione Ufficio svizzero del RISM è stata
+biblioteche e archivi. L'Associazione RISM Svizzera è stata
 fondata il 21 giugno 1996; i membri fondatori sono:
 
 -   Società svizzera di musicologia ([SMG)]{:target="_blank"})
@@ -29,6 +41,10 @@ fondata il 21 giugno 1996; i membri fondatori sono:
     ([SUISA]{:target="_blank"})
 -   Consiglio Svizzero della Musica (SMR: [versione tedesca], [versione
     francese]{:target="_blank"})
+
+Negli anni 2000, il RISM Svizzera è diventato un centro sempre più importante 
+per le questioni informatiche. Per riflettere questo sviluppo, 
+nel 2021 il nome dell'associazione cambia in Associazione RISM Digital Center.
 
 
 [SMG)]: http://www.smg-ssm.ch

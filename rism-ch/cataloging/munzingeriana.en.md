@@ -10,7 +10,7 @@ permalink: /rism-ch/cataloging/munzingeriana.html
 
 In 2013, the musical holdings of Olten City Archive were moved to the
 Central Library in Solothurn and on this occasion temporarily handed
-over to RISM Switzerland for comprehensive cataloguing. The first part
+over to the RISM Switzerland for comprehensive cataloguing. The first part
 of the holdings includes the posthumous works of the Solothurn brothers
 Charles and Edgar Munzinger and their namesake Eduard Munzinger, and can
 be assigned to the major project \"Repertory of Swiss composers of the

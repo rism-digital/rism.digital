@@ -9,7 +9,7 @@ permalink: /rism-ch/cataloging/st-gall.html
 # Musical sources of the Domarchiv St. Gallen
 
 The collection of the archives of the cathedral of St. Gallen was
-catalogued between June 2003 and July 2004 by the Swiss RISM Office. The
+catalogued between June 2003 and July 2004 by the RISM Switzerland. The
 inventory consists of 1,328 titles - 381 manuscripts and 947 prints.
 During the inventory process, the entire collection was rearranged,
 shelf-marked and repacked in acid-free materials for conservation.

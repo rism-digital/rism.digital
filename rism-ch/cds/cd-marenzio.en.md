@@ -17,7 +17,7 @@ permalink: /rism-ch/cds/cd-marenzio.html
 </div>
 
 In the archive of the Swiss municipality of Zuoz, in Engadin, a very
-precious music book has been preserved. With the support of RISM
+precious music book has been preserved. With the support of the RISM
 Switzerland, the director Francesco Saverio Pedrini and his ensemble [La
 Pedrina]{:target="_blank"} chose to record a selection from this collection with the
 [Claves]{:target="_blank"} label. The choice made was for madrigals by the Italian

@@ -7,7 +7,7 @@ permalink: /rism-ch.html
 
 # RISM Switzerland
 
-The Swiss RISM records music manuscripts and printed musical sources in
+The RISM Switzerland records music manuscripts and printed musical sources in
 Swiss libraries and archives according to international scientific
 standards. It thus contributes in an essential way to the conservation
 of cultural assets in music in Switzerland. The inventoried collections

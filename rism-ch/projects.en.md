@@ -8,7 +8,7 @@ permalink: /rism-ch/projects.html
 
 # Projects on music sources
 
-The Swiss RISM participates in projects in partnership with other
+The RISM Switzerland participates in projects in partnership with other
 institutions. These projects highlight the cultural heritage of
 Switzerland, and, through musicological studies and music practice,
 encourage the revival of forgotten repertoires. Among these projects, we
