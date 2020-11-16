@@ -10,7 +10,7 @@ permalink: /rism-ch/cataloging/sarnen.html
 
 L'abbazia di suore benedettine di S. Andrea a Sarnen possiede una delle
 più significative biblioteche musicali storiche della Svizzera. Già nel
-2003 i collaboratori dell'ufficio RISM hanno ripulito e riordinato
+2003 i collaboratori del RISM Svizzera hanno ripulito e riordinato
 l'intera collezione e l'hanno riposta nel magazzino protetto per beni
 culturali ("Kulturgüterschutzraum"). Su questa base, RISM Svizzera ha
 potuto indicare al convento un preventivo dei costi di catalogazione del
