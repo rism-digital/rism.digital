@@ -8,7 +8,7 @@ permalink: /rism-ch/projects.html
 
 # Projekte zu Musikquellen
 
-Die Arbeitsstelle Schweiz des RISM lanciert und realisiert teilweise
+RISM Schweiz lanciert und realisiert teilweise
 eigene Projekte gemeinsam mit diversen Partnerinstitutionen. Diese
 dienen der allgemeinen Verbreitung des musikalischen Kulturguts der
 Schweiz und sollen insbesondere die Musikwissenschaft als auch die
