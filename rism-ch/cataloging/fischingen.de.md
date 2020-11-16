@@ -14,8 +14,8 @@ Zeitalter des Spätbarocks und der Aufklärung anhand der überlieferten
 handschriftlichen sowie gedruckten Musikalien aus dem späten 17. bis zum
 frühen 19. Jahrhundert umfassend zu dokumentieren. Seine einzigartige
 Bedeutung verleiht diesem Bestand die Tatsache, dass das Repertoire des
-Klosters Fischingen sich ergänzend zu den durch die Arbeitstelle Schweiz
-des RISM erschlossenen Quellenbeständen von Beromünster, Einsiedeln,
+Klosters Fischingen sich ergänzend zu den durch RISM Schweiz
+erschlossenen Quellenbeständen von Beromünster, Einsiedeln,
 Engelberg, Disentis, St. Gallen (neu St. Johann) und kurz vor Abschluss
 befindenden Erfassung der gesamten historischen Musikbibliothek des
 Frauenklosters St. Andreas Sarnen verhält.
