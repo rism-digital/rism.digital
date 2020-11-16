@@ -8,7 +8,7 @@ permalink: /rism-ch/cataloging/snb.html
 
 # Fonds des compositeurs à la Bibliothèque nationale suisse
 
-Le Bureau suisse du RISM Suisse a pris en charge les collections
+Le RISM Suisse a pris en charge les collections
 historiques de musique de la Bibliothèque nationale suisse (BN) en 2001.
 En 2006, les tâches ont été étendues à l\'inventaire des documents
 d\'archive. Depuis, le RISM Suisse décrit d\'une part les fonds de
