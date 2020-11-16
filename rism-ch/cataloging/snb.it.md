@@ -8,7 +8,7 @@ permalink: /rism-ch/cataloging/snb.html
 
 # Fondi di compositori nella Biblioteca nazionale svizzera
 
-Dal 2001, l\'Ufficio svizzero del RISM cura i fondi storici musicali
+Dal 2001, il RISM Svizzera cura i fondi storici musicali
 della Biblioteca nazionale svizzera (BN). Nel 2006, l\'incarico è stato
 esteso all\'inventario dei documenti d\'archivio. Da allora, RISM
 Svizzera elabora d\'un lato gli interi fondi di compositori, pubblicati
@@ -26,7 +26,7 @@ considerato necessario ripristinare i fondi nel loro stato originario
 per poterli rendere visibili nella loro integralità.
 
 Accanto alla redazione di inventari e alla catalogazione di tutte le
-fonti musicali nella banca-dati RISM, l\'ufficio RISM si prende carico
+fonti musicali nella banca-dati RISM, il RISM Svizzera si prende carico
 delle richieste degli utenti riguardo i fondi musicali della BN. In
 particolare viene consultata regolarmente la raccolta Josef Liebeskind,
 che contiene fonti importanti di Christoph Willibald Gluck e Karl
@@ -34,7 +34,7 @@ Ditters von Dittersdorf.
 
 [Utilizzo delle raccolte della Biblioteca nazionale svizzera][]:
 Richieste riguardanti dei documenti in corso di elaborazione possono
-essere soddisfatte solo in misura limitata. L\'ufficio svizzero del RISM
+essere soddisfatte solo in misura limitata. Il RISM Svizzera
 spera nella comprensione degli utenti.
 
 Contatto: [Yvonne Peters]
