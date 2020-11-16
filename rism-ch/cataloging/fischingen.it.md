@@ -14,7 +14,7 @@ liturgico-musicale dei monaci benedettini all\'epoca del tardo barocco e
 dell\'Illuminismo, a partire dai manoscritti e dalle stampe musicali del
 periodo fra il tardo Seicento e il primo Ottocento. Questo fondo deriva
 la sua importanza dalla opportunità che offre di integrare il
-repertorio, già censito dall\'ufficio svizzero del RISM, dei fondi di
+repertorio, già censito dal RISM Svizzera, dei fondi di
 Beromünster, Einsiedeln, Engelberg, Disentis, San Gallo (St. Johann) e
 del monastero femminile di S. Andreas a Sarnen, la cui catalogazione è
 prossima alla conclusione.
