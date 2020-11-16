@@ -1,3 +1,11 @@
+---
+title: "Onstage: La Musicale de la Bibliothèque de Genève"
+layout: projects
+show_posts: false
+lang: it
+permalink: /rism-ch/projects/onstage-gmu.html
+---
+
 # Onstage: La Musicale de la Bibliothèque de Genève
 
 Annessa dal 1998 alla [Bibliothèque de Genève](https://www.bge-geneve.ch/), [La Musicale](http://www.bge-geneve.ch/musicale) è una biblioteca musicale pubblica di prestito che possiede anche una collezione storica. Tra l&#39;altro, conserva una [ricca collezione](http://institutions.ville-geneve.ch/en/bge/collections/musiques/presentation/) di oltre 20.000 programmi di concerti e spettacoli a Ginevra dal XIX secolo ai giorni nostri. Questa collezione di effimeri – uno dei settori di eccellenza della biblioteca – è un riflesso rappresentativo della vita musicale ginevrina.
