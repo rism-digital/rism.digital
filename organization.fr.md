@@ -36,7 +36,7 @@ suisse du RISM a été fondée le 21 juin 1996 ; les membres fondateurs
 sont :
 
 -   Société Suisse de Musicologie ([SSM]{:target="_blank"})
--   Association Suisse des collections musicales ([ASCM]{:target="_blank"})
+-   Association Suisse des collections musicales ([ASCM / IAML Suisse]{:target="_blank"})
 -   Société Suisse pour les droits des auteurs d\'œuvres musicales
     ([SUISA]{:target="_blank"})
 -   Conseil suisse de la musique ([CSM]{:target="_blank"})

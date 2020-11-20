@@ -14,4 +14,4 @@ The RISM Digital Center has contributed to the digital infrastructure of the RIS
 
 The RISM Digital Center also created and maintains [Verovio](https://www.verovio.org/), an open-source software library for rendering MEI scores. In this context, the center is also actively involved in the development of the Music Encoding Initiative ([MEI](https://music-encoding.org/)), as expert for the definition of the standard, as user, and also as promoter in research projects. The MEI schema includes encoding of the music notation but also very rich metadata header that can, for example, be imported directly from the RISM catalogue records. 
 
-The RISM Digital Center participated in the initial development of [Diva.js](https://ddmal.music.mcgill.ca/diva.js/), a widely-used open-source IIIF web-based document viewer optimised for high-resolution image collections. 
+Furthermore, the RISM Digital Center participated in the initial development of [Diva.js](https://ddmal.music.mcgill.ca/diva.js/), a widely-used open-source IIIF web-based document viewer optimised for high-resolution image collections. 

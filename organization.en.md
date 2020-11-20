@@ -35,7 +35,7 @@ founding members established the Association RISM Switzerland on 21st June
 1996:
 
 -   Swiss Musicological Society ([SMG]{:target="_blank"})
--   Association of Swiss Music Collections ([ASCM]{:target="_blank"})
+-   Association of Swiss Music Collections ([ASCM / IAML Switzerland]{:target="_blank"})
 -   Swiss Society for the Rights of Authors of Musical Works ([SUISA]{:target="_blank"})
 -   Swiss Music Council (SMR: [german version]{:target="_blank"}, [french version]{:target="_blank"})
 

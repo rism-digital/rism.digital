@@ -14,7 +14,7 @@ Although it started simply as a component of Muscat for visualising music incipi
 
 Verovio is a software library component that is not a full software application, but instead only a software module to be used in full software applications. This modular approach meets modern software architecture design patterns and is an important reason for the wide adoption and success of Verovio. 
 
-It is now used in dozens of projects in digital musicology, with applications ranging from digital critical editions, genetic editions, early music, audio alignment, online editing, music addressability, visualisation, performance, and even composition via artificial intelligence.
+It is now used in dozens of projects in digital musicology, with applications ranging from digital critical editions, genetic editions, audio alignment, online editing, visualisation, performance, to composition via artificial intelligence.
 
 ![Verovio](/images/tools/verovio/verovio-mei.png)
 

@@ -14,7 +14,7 @@ Sebbene sia nato semplicemente come componente di Muscat per la visualizzazione 
 
 Verovio è un componente di libreria software che non è un'applicazione software completa, ma solo un modulo software da utilizzare in applicazioni complete. Questo approccio modulare soddisfa i moderni modelli di progettazione dell'architettura software ed è una ragione importante per l'ampia adozione e il successo di Verovio. 
 
-È ora utilizzato in decine di progetti di musicologia digitale, con applicazioni che vanno dalle edizioni critiche digitali, alle edizioni genetiche, alla musica antica, all'allineamento audio, all'editing online, all'indirizzabilità della musica, alla visualizzazione, all'esecuzione musicale e persino alla composizione attraverso l'intelligenza artificiale.
+È ora utilizzato in decine di progetti di musicologia digitale, con applicazioni che vanno dalle edizioni critiche digitali, alle edizioni genetiche, all'allineamento audio, all'editing online, alla visualizzazione, all'esecuzione musicale fino alla composizione attraverso l'intelligenza artificiale.
 
 ![Verovio](/images/tools/verovio/verovio-mei.png)
 
