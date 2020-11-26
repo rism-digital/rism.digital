@@ -45,7 +45,6 @@ Dans les années 2000, le RISM Suisse est devenu un centre de plus en plus impor
 pour les questions relatives aux technologies de l'information. 
 Pour refléter cette évolution, en 2021, le nom de l'association change en RISM Digital Center.
 
-
 [SSM]: http://www.smg-ssm.ch
 [ASCM]: http://www.iaml.ch
 [SUISA]: http://www.suisa.ch
