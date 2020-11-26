@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/rism-digital/rism-theme
-  revision: 1d3e2e159220dc61e5ad7dc7a77204a96966388e
+  revision: 67e76a2b39d025bccf3c7162fe036f9c8364bdf2
   specs:
-    rism-theme (0.1.38)
+    rism-theme (0.1.40)
       jekyll (~> 4.1)
 
 GEM
@@ -53,7 +53,7 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
-    listen (3.3.0)
+    listen (3.3.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
