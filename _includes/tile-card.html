@@ -1,7 +1,7 @@
 {% assign tile = include.tile %}
 
 <div class="tile is-child card">
-    <a href="{{ tile.link }}">
+    <a href="{{ tile.link }}" {% if tile.blank %}target="_blank"{% endif %}>
         {% if tile.image %}
         <div class="card-image">
             <img src="/images/tiles/{{ tile.image }}">
