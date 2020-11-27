@@ -37,7 +37,7 @@ tiles:
 
     news:
         image: news.png
-        link: http://stage.rism.info/news-archive/rism_digital_center/
+        link: https://stage.rism.info/news-archive/rism_digital_center/
         blank: true
         titles:
             en: "News"
@@ -52,7 +52,7 @@ tiles:
 
     rism_zr:
         image: rism_zr.png
-        link: http://www.rism.info
+        link: https://stage.rism.info
         blank: true
         titles:
             en: "RISM Editorial Center"
