@@ -12,6 +12,11 @@
             <p>
                 {{ tile.texts[site.active_lang] }}
             </p>
+            {% if tile.blank %}
+            <p>
+                <i class="fa fa-external-link-alt"></i>
+            </p>
+            {% endif %}
         </div>
     </a>
 </div>
