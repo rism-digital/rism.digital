@@ -1,26 +1,26 @@
 title:
-    en: "Swiss RISM Office - Contact"
-    de: "Arbeitsstelle Schweiz des RISM - Kontakt"
-    fr: "Bureau suisse du RISM - Contact"
-    it: "Ufficio svizzero RISM - Contatti"
+    en: "RISM Digital Center - Contact"
+    de: "RISM Digital Center - Kontakt"
+    fr: "RISM Digital Center - Contact"
+    it: "RISM Digital Center – Contatti"
 
 office:
     email: "info@rism-ch.org"
     address:
-        en: "Swiss RISM Office<br/>Hallwylstrasse 15<br/>PO box 286<br/>CH-3000 Bern 6"
-        de: "Arbeitsstelle Schweiz des RISM<br/>Hallwylstrasse 15<br/>Postfach 286<br/>CH-3000 Bern 6"
-        fr: "Bureau suisse du RISM<br/>Hallwylstrasse 15<br/>CP 286<br/>CH-3000 Berne 6"
-        it: "Ufficio svizzero RISM<br/>Hallwylstrasse 15<br/>CP 286<br/>CH-3000 Berna 6"
+        en: "RISM Digital Center<br/>Hallwylstrasse 15<br/>PO box 286<br/>CH-3000 Bern 6"
+        de: "RISM Digital Center<br/>Hallwylstrasse 15<br/>Postfach 286<br/>CH-3000 Bern 6"
+        fr: "RISM Digital Center<br/>Hallwylstrasse 15<br/>CP 286<br/>CH-3000 Berne 6"
+        it: "RISM Digital Center<br/>Hallwylstrasse 15<br/>CP 286<br/>CH-3000 Berna 6"
     howto:
         en: "How to find us?"
         de: "Wo sind wir?"
         fr: "Où sommes nous?"
         it: "Dove siamo?"
     nb:
-        en: "The Swiss RISM Office is located at the <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=en\">Swiss National Library</a>."
-        de: "Die Arbeitsstelle Schweiz des RISM befindet sich in der <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=de\">Schweizerischen Nationalbibliothek</a>."
-        fr: "Le Bureau suisse du RISM se trouve à la <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=fr\">Bibliothèque nationale suisse</a>."
-        it: "L’Ufficio svizzero RISM si trova presso la <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=it\">Biblioteca nazionale svizzera</a>."
+        en: "The RISM Digital Center is located at the <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=en\">Swiss National Library</a>."
+        de: "Das RISM Digital Center befindet sich in der <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=de\">Schweizerischen Nationalbibliothek</a>."
+        fr: "Le RISM Digital Center se trouve à la <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=fr\">Bibliothèque nationale suisse</a>."
+        it: "Il RISM Digital Center si trova presso la <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=it\">Biblioteca nazionale svizzera</a>."
 
 groups:
     - labels:
