@@ -1,8 +1,15 @@
 GIT
-  remote: https://github.com/rism-digital/rism-theme
-  revision: 747e0960a1f035ea58b7919a71f5c46a652fd5ce
+  remote: https://github.com/rism-digital/rism-md
+  revision: d103a5656382bd2eb03d04a682890822d8dcb836
   specs:
-    rism-theme (0.1.45)
+    rism-md (1.0.2)
+      jekyll (~> 4.1)
+
+GIT
+  remote: https://github.com/rism-digital/rism-theme
+  revision: de83189bfe4ab3ae5f6838b12726fe0e178b076c
+  specs:
+    rism-theme (0.1.49)
       jekyll (~> 4.1)
 
 GEM
@@ -64,7 +71,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.4)
-    rouge (3.25.0)
+    rouge (3.26.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -81,6 +88,7 @@ DEPENDENCIES
   jekyll-paginate-v2
   jekyll-polyglot
   jekyll-seo-tag
+  rism-md!
   rism-theme!
 
 BUNDLED WITH
