@@ -9,7 +9,7 @@ permalink: /rism-ch/links.html
 # Links und Dokumentation
 
 Wir wollen immer auf dem neuesten Stand bleiben. Sie helfen uns sehr,
-wenn Sie uns unbekannte Adressen oder tote Links melden ([Kontakt](mailto:info@rism-ch.org)).
+wenn Sie uns unbekannte Adressen oder tote Links melden ([Kontakt](mailto:info@rism.digital)).
 Vielen Dank!
 
 ## Online-Ressourcen zur Erfassung, Erforschung und Erschliessung von Musikquellen

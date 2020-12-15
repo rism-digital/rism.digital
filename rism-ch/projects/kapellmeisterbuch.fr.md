@@ -57,6 +57,6 @@ Equipe du projet:
   [2]: /images/rism_ch/tei_400-small200.jpg {width="150"}
   [![][2]]: http://www.tei-c.org
   [Prof. Luca Zoppelli]: mailto:luca.zoppelli@unifr.ch
-  [Claudio Bacciagaluppi]: mailto:claudio.bacciagaluppi@rism-ch.org
+  [Claudio Bacciagaluppi]: mailto:claudio.bacciagaluppi@rism.digital
   [Luigi Collarile]: mailto:luigi.collarile@unifr.ch
-  [Laurent Pugin]: mailto:laurent.pugin@rism-ch.org
+  [Laurent Pugin]: mailto:laurent.pugin@rism.digital

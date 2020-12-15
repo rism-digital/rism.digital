@@ -9,7 +9,7 @@ permalink: /rism-ch/links.html
 # Links and Documentation
 
 We strive to keep our links updated. Your help is invaluable, so please
-tell us about unfound addresses or broken links ([contact](mailto:info@rism-ch.org)). Many
+tell us about unfound addresses or broken links ([contact](mailto:info@rism.digital)). Many
 thanks!
 
 ## Online resources for music source research and indexing
