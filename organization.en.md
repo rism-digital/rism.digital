@@ -13,10 +13,10 @@ organisation founded in 1952 whose aim is to inventory music sources worldwide a
 
 The mission of the RISM Digital Center is twofold. Firstly, it leads the development of a digital infrastructure for the RISM. In this context, its role is to ensure that the RISM project maintains a strategic position within the large international network of digital resources for research. Its duties include:
 - the development and the maintenance of open-source tools for applications focusing on data creation, curation, and publication in the domain of music sources;
-- the participation in the establishment, the teaching and promotion of best-practices in the domain and the offering of first-level consulting support to research projects in musicology;
+- the participation in the establishment, teaching and promotion of best practice in the domain, and the offering of first-level consulting support to research projects in musicology;
 - the maintenance of close contacts with music libraries and other research infrastructures in the domain and beyond, such as the [R-music-projects](http://www.r-musicprojects.org/){:blank}, the [MEI Community](https://music-encoding.org){:blank}, the [NFDI4Cutlure Consortium](https://nfdi4culture.de/){:blank}, or [DaSCH](https://dasch.swiss/){:blank}.
 
-Secondly, the RISM Digital Center fulfils the role of a Swiss RISM working group by inventorying music sources in Switzerland. It inventories music sources in library, archives, and private collections in Switzerland and links them with related resources, including with digitization resources and content-based resources.
+Secondly, the RISM Digital Center fulfils the role of a Swiss RISM working group by inventorying music sources in Switzerland. It inventories music sources in libraries, archives, and private collections in Switzerland and links them with related resources, including with digitization resources and content-based resources.
 
 ## History
 
