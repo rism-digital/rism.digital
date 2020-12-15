@@ -94,7 +94,6 @@ tiles:
             it: "Esplorate le varie pubblicazioni realizzate dal RISM Digital Center insieme alle altre attività. Tra queste vi sono pubblicazioni online di documenti d'archivio, banche dati di interesse musicale e pubblicazioni scientifiche."
 ---
 
-<!--
 <div class="tile is-ancestor">
     <div class="tile is-parent">
         {% include tile-card.html tile=page.tiles.digital_center %}
@@ -122,9 +121,4 @@ tiles:
     <div class="tile is-parent">
         {% include tile-card.html tile=page.tiles.publications %}
     </div>
-</div>
--->
-
-<div class="notification is-primary">
-This page is under construction. In the meantime, please visit <a href="http://rism-ch.org">RISM Switzerland</a> website.
 </div>
