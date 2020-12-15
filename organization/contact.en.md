@@ -17,7 +17,7 @@ titles:
 </h1>
 
 <div>
-    <div class="columns is-desktop">
+    <div class="columns is-desktop is-variable">
         <div class="column is-three-quarters-desktop">
             <p>
                 {{ site.data.contact.office.address[site.active_lang] }}
