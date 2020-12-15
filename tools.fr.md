@@ -14,7 +14,7 @@ Le RISM Digital Center a contribué à l'infrastructure numérique du projet RIS
 
 Le RISM Digital Center a également créé et gère [Verovio], une bibliothèque de logiciels à code source ouvert pour rendre des partitions MEI. Dans ce contexte, le centre participe aussi activement au développement de la Music Encoding Initiative ([MEI]), en tant qu'expert pour la définition des standards, en tant qu'utilisateur, et aussi en tant que promoteur dans des projets de recherche. Le schéma MEI comprend l'encodage de la notation musicale mais aussi un header de métadonnées très riche qui peut, par exemple, être importé directement à partir des notices du catalogue RISM.
 
-Le RISM Digital Center a participé au développement initial de [Diva.js], un visualiseur de documents IIIF en ligne à code source ouvert largement utilisé et optimisé pour les collections d'images à haute résolution.
+En outre, le RISM Digital Center a participé au développement initial de [Diva.js], un visualiseur de documents IIIF en ligne à code source ouvert largement utilisé et optimisé pour les collections d'images à haute résolution.
 
 
 [Verovio]: https://www.verovio.org/

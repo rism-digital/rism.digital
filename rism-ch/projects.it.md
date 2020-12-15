@@ -8,7 +8,7 @@ permalink: /rism-ch/projects.html
 
 # Progetti sulle fonti musicali
 
-L'Ufficio RISM-Svizzera lancia e in parte realizza progetti propri in
+RISM Svizzera lancia e in parte realizza progetti propri in
 collaborazione con diverse istituzioni. Queste collaborazioni vertono a
 diffondere i beni musicali della Svizzera e soprattutto a stimolare sia
 la musicologia sia la prassi musicale ad occuparsi di composizioni in

@@ -10,7 +10,7 @@ permalink: /rism-ch/cataloging/sarnen.html
 
 Die Benediktinerinnen-Abtei St. Andreas in Sarnen besitzt eine der
 bedeutendsten historischen Musikbibliotheken der Schweiz. Bereits im
-Jahr 2003 haben die Mitarbeiter der RISM-Arbeitsstelle den gesamten
+Jahr 2003 haben die Mitarbeiter des RISM SChweiz den gesamten
 Bestand gereinigt, geordnet und in den klostereigenen
 Kulturgüterschutzraum überführt. Auf dieser Basis unterbreitete RISM
 Schweiz dem Kloster eine Offerte zur Inventarisierung der musikalischen

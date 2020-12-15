@@ -1,26 +1,26 @@
 title:
-    en: "Swiss RISM Office - Contact"
-    de: "Arbeitsstelle Schweiz des RISM - Kontakt"
-    fr: "Bureau suisse du RISM - Contact"
-    it: "Ufficio svizzero RISM - Contatti"
+    en: "RISM Digital Center - Contact"
+    de: "RISM Digital Center - Kontakt"
+    fr: "RISM Digital Center - Contact"
+    it: "RISM Digital Center – Contatti"
 
 office:
-    email: "info@rism-ch.org"
+    email: "info@rism.digital"
     address:
-        en: "Swiss RISM Office<br/>Hallwylstrasse 15<br/>PO box 286<br/>CH-3000 Bern 6"
-        de: "Arbeitsstelle Schweiz des RISM<br/>Hallwylstrasse 15<br/>Postfach 286<br/>CH-3000 Bern 6"
-        fr: "Bureau suisse du RISM<br/>Hallwylstrasse 15<br/>CP 286<br/>CH-3000 Berne 6"
-        it: "Ufficio svizzero RISM<br/>Hallwylstrasse 15<br/>CP 286<br/>CH-3000 Berna 6"
+        en: "RISM Digital Center<br/>Hallwylstrasse 15<br/>PO box 286<br/>CH-3000 Bern 6"
+        de: "RISM Digital Center<br/>Hallwylstrasse 15<br/>Postfach 286<br/>CH-3000 Bern 6"
+        fr: "RISM Digital Center<br/>Hallwylstrasse 15<br/>CP 286<br/>CH-3000 Berne 6"
+        it: "RISM Digital Center<br/>Hallwylstrasse 15<br/>CP 286<br/>CH-3000 Berna 6"
     howto:
         en: "How to find us?"
         de: "Wo sind wir?"
         fr: "Où sommes nous?"
         it: "Dove siamo?"
     nb:
-        en: "The Swiss RISM Office is located at the <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=en\">Swiss National Library</a>."
-        de: "Die Arbeitsstelle Schweiz des RISM befindet sich in der <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=de\">Schweizerischen Nationalbibliothek</a>."
-        fr: "Le Bureau suisse du RISM se trouve à la <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=fr\">Bibliothèque nationale suisse</a>."
-        it: "L’Ufficio svizzero RISM si trova presso la <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=it\">Biblioteca nazionale svizzera</a>."
+        en: "The RISM Digital Center is located at the <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=en\">Swiss National Library</a>."
+        de: "Das RISM Digital Center befindet sich in der <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=de\">Schweizerischen Nationalbibliothek</a>."
+        fr: "Le RISM Digital Center se trouve à la <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=fr\">Bibliothèque nationale suisse</a>."
+        it: "Il RISM Digital Center si trova presso la <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=it\">Biblioteca nazionale svizzera</a>."
 
 groups:
     - labels:
@@ -37,7 +37,7 @@ groups:
             de: "(Montag und Dienstag)"
             fr: "(lundi et mardi)"
             it: "(lunedì e martedì)"
-          email: "cedric.gueggi@rism-ch.org"
+          email: "cedric.gueggi@rism.digital"
           photo: "cedric.gueggi.jpg"
           text:
               en: "Cédric Güggi studied musicology, German linguistics and old German literature at the University of Zurich. After a first job as a researcher at the Swiss RISM Office (2006-2008) and a post at the music department of the Zurich Central Library (2008-2009), he became Co-director of RISM Switzerland in September 2009 (the RISM Digital Center as of 2021). He has since been responsible for administrative matters and inventory projects. In 2019 Cédric Güggi received his doctorate from the University of Zurich with a thesis on musical interpretation research using the example of the composer and conductor Paul Klecki (1900-1973)."
@@ -47,7 +47,7 @@ groups:
         - id: LP
           name: "PD Dr. Laurent Pugin"
           phone: "+41(0)58 463 80 16"
-          email: "laurent.pugin@rism-ch.org"
+          email: "laurent.pugin@rism.digital"
           photo: "laurent.pugin.jpg"
           text:
               en: "Laurent Pugin trained both as a musicologist and a computer scientist. His work involves the field of human sciences (philology, history of musical notation, music bibliography), as well as technology applied to music sources (image processing, machine learning). Laurent Pugin was a postdoctoral researcher and lecturer at McGill University in Montreal from 2006-2009 and a visiting scholar at Stanford University, USA. He has been co-Director of the Swiss RISM since 2009, responsible for infrastructure development and international contacts. In 2013 he was appointed Board member of the International Steering Committee of the RISM. He is also co-applicant of SIMSSA, a research project based at McGill University. He has been a member of the Board of the Music Encoding Initiative (MEI) and co-chair of its technical team since 2014.<br/><br/><a href='http://docs.rism-ch.org/Publist_Pugin.pdf' target='_blank'>Publications</a>"
@@ -63,7 +63,7 @@ groups:
         - id: CB
           name: "Dr. Claudio Bacciagaluppi"
           phone: "+41(0)58 465 03 59"
-          email: "claudio.bacciagaluppi@rism-ch.org"
+          email: "claudio.bacciagaluppi@rism.digital"
           photo: "claudio.bacciagaluppi.jpg"
           text:
               en: "Claudio Bacciagaluppi studied musicology in Zurich and received his doctorate in Fribourg (Switzerland). As a post-doc researcher in Fribourg he wrote \"Artistic Disobedience: Music and Confession in Switzerland, 1648-1762\" (Leiden 2017). He is researcher at the Hochschule der Künste Bern (2006-2009 and since 2015). He has been working for RISM Switzerland since 2011. He is responsible for digitization and other special projects and takes care of translations."
@@ -84,7 +84,7 @@ groups:
         - id: YP
           name: "Yvonne Peters, M. A."
           phone: "+41(0)58 465 73 25"
-          email: "yvonne.peters@rism-ch.org"
+          email: "yvonne.peters@rism.digital"
           photo: "yvonne.peters.jpg"
           text:
               en: "Yvonne Peters studied musicology and art history at the Jagiellonian University. After posts at the Polish music publisher PWM in Cracow (1983-1985) and at the Art History Institute of the Polish Academy of Sciences IS PAN in Warsaw (1985-1988), she worked for the RISM Central Redaction in Frankfurt (1990-2008). In June 2008 she moved to the Swiss RISM and has since been responsible for cataloguing the music collections of the Swiss National Library in Bern. In 2011-2013 she completed a CAS postgraduate course in Library and Information Science at the University of Zurich."
@@ -94,7 +94,7 @@ groups:
         - id: FS
           name: "Florence Sidler, M. A."
           phone: "+41(0)58 465 73 25"
-          email: "florence.sidler@rism-ch.org"
+          email: "florence.sidler@rism.digital"
           photo: "florence.sidler.jpg"
           text:
               en: "Florence Sidler studied musicology and history at the University of Bern. She has been in charge of the operational management of the office of the association ForumMusikDiversität from 2011 to 2013. Since 2012, she is a scientific collaborator at the RISM Switzerland. In this capacity, Florence Sidler has carried out various inventory projects in Swiss libraries and archives. At the same time, she participates in the management of the RISM Digital Center in the administrative area, in the further development and maintenance of the database and for  the maintenance of the website. Since 2014, Florence Sidler has continuously expanded her expertise through further training at the Johannes-Gutenberg-University Mainz, the Marburg University of Archive Sciences and the Stuttgart Media University. Since 2016 she has been a member of the board of the Swiss Association of Music Collections (ASCM/IAML Switzerland). She is completing her doctorate at the University of Bern with a dissertation on instrumental music at the Viennese court under Emperor Leopold I."
@@ -104,7 +104,7 @@ groups:
         - id: RZ
           name: "Rodolfo Zitellini, M. A."
           phone: "+41(0)58 465 03 59"
-          email: "rodolfo.zitellini@rism-ch.org"
+          email: "rodolfo.zitellini@rism.digital"
           photo: "rodolfo.zitellini.jpg"
           text:
               en: "Rodolfo Zitellini is a musician and musicologist with a specialization in computer sciences. He obtained a Diploma in Harpsichord in Bologna (Italy) and subsequently a Master’s degree in Musicology in Fribourg. He worked as consultant for embedded software systems (2005-2011) and as a freelance musicologist. He initially participated in the SNF project <q>Printed Sacred Music in Europe 1500-1800</q> (2011-2013) as technical consultant, and since 2011 he collaborates with RISM Switzerland on the digital infrastructure and development of the cataloguing application Muscat. He is also in charge of special non-technical projects."

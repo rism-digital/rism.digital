@@ -27,14 +27,14 @@
     de: "News"
     fr: "Actualités"
     it: "Attualità"
-  link: http://website-test.rism.digital/news-archive/rism_digital_center/
+  link: https://stage.rism.info/news-archive/rism_digital_center/
   blank: true
 - name:
     en: "RISM Editorial Center"
     de: "RISM Zentralredaktion"
     fr: "RISM Editorial Center"
     it: "Centro Editoriale RISM"
-  link: http://www.rism.info
+  link: https://stage.rism.info
   blank: true
 - name:
     en: "RISM Switzerland"

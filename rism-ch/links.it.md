@@ -9,7 +9,7 @@ permalink: /rism-ch/links.html
 # Link
 
 Vogliamo rimanere sempre aggiornati. Potete aiutarci segnalando
-indirizzi sconosciuti o collegamenti interrotti ([contatto](mailto:info@rism-ch.org)). Grazie
+indirizzi sconosciuti o collegamenti interrotti ([contatto](mailto:info@rism.digital)). Grazie
 mille!
 
 ## Risorse online per la catalogazione, lo studio e l\'accesso alle fonti musicali

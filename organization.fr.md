@@ -8,45 +8,24 @@ permalink: /organization.html
 
 # Présentation
 
+Le RISM Digital Center fait partie du Répertoire International des Sources Musicales (RISM), l'organisation fondée en 1952 dont le but est d'inventorier les sources musicales dans le monde entier et de les rendre accessibles. Le réseau RISM comprend également le [RISM Editorial Center](https://rism.info/fr/editoria-center.html) en Allemagne et des [groupes de travail](https://rism.info/fr/working-groups.html) dans plus de 30 pays. Le projet RISM est l'un des efforts de collaboration les plus importants dans le domaine des sciences humaines, mais il fournit aussi sans doute l'un des rares ensembles de données au monde qui méritent le label de *Big Data in musicology*.
+
+La mission du RISM Digital Center est double. Premièrement, il dirige le développement de l'infrastructure numérique pour le RISM. Dans ce contexte, son rôle est de veiller à ce que le projet RISM conserve une position stratégique au sein du grand réseau international des ressources digitales pour la recherche. Ses fonctions sont les suivantes :
+- le développement et la maintenance d'outils *open-source* pour des applications axées sur la création, la conservation et la publication de données dans le domaine des sources musicales ;
+- la participation à l'établissement, l'enseignement et la promotion des bonnes pratiques dans le domaine et l'offre d'un soutien de conseil de premier niveau aux projets de recherche en musicologie ;
+- le maintien de contacts étroits avec les bibliothèques musicales et autres infrastructures de recherche dans le domaine et au-delà, comme les [R-music-projects](http://www.r-musicprojects.org/){:blank}, la [MEI Community](https://music-encoding.org){:blank}, le [NFDI4Cutlure Consortium](https://nfdi4culture.de/){:blank}, ou [DaSCH](https://dasch.swiss/){:blank}.
+
+Deuxièmement, le RISM Digital Center remplit le rôle d'un groupe de travail suisse du RISM en inventoriant les sources musicales en Suisse. Il inventorie les sources musicales dans les bibliothèques, les archives et les collections privées en Suisse et les met en relation avec des ressources connexes, notamment avec des ressources de numérisation et des ressources basées sur le contenu.
+
+## Historique
+
 {% include common/about-us-logos.html %}
 
-Le Répertoire International des Sources Musicales (RISM) est une organisation 
-internationale fondée en 1952 dont le but est d'inventorier les sources musicales 
-dans le monde et de les rendre accessibles. En tant que ressource la plus complète
-au monde en matière de sources musicales historiques, il est la pierre angulaire 
-d'innombrables projets de recherche musicologique. Le réseau RISM comprend 
-le RISM Editorial Center en Allemagne et des groupes de travail dans plus de 30 pays. 
-Le RISM Digital Center fait partie de ce réseau et sa mission est double. 
-Premièrement, il dirige le développement d'une infrastructure numérique pour le RISM 
-et pour les projets de musicologie liés aux sources musicales. Deuxièmement, 
-il remplit le rôle d'un groupe de travail suisse du RISM en dressant 
-l'inventaire des sources musicales en Suisse.
+Le RISM Digital Center a été créé en 2021 dans le prolongement du Bureau suisse du RISM. Cette évolution est le résultat de plus d'une décennie de contribution active dans le domaine des méthodes numériques, y compris le développement d'outils pertinents pour l'ensemble de la communauté du RISM et au-delà.
 
-Depuis sa fondation en 1956, le RISM Suisse a procédé à l\'inventaire
-systématique d\'une grande quantité de musique : plus de 10\'000
-imprimés datant d\'avant 1800, recueils des 16^ème^, 17^ème^ et 18^ème^
-siècles et écrits imprimés concernant la musique. Au-delà, près de
-34\'000 manuscrits musicaux datant d\'après 1600 et près de 21\'000
-imprimés du 19^ème^ siècle ont également été répertoriés.
+Le Bureau suisse du RISM a été fondé en 1956. Depuis 1996, il fonctionne en tant que bureau indépendant principalement financé par des contributions pour des projets et des commissions d'inventaires de bibliothèques et d'archives. Les membres fondateurs suivants ont créé le Bureau suisse du RISM le 21 juin 1996 : 
 
-Le RISM Digital Center est une association indépendante depuis 1996, financée
-principalement par des contributions de projet et des mandats
-d\'inventaire de bibliothèques et d\'archives. L\'Association Bureau
-suisse du RISM a été fondée le 21 juin 1996 ; les membres fondateurs
-sont :
-
--   Société Suisse de Musicologie ([SSM]{:target="_blank"})
--   Association Suisse des collections musicales ([ASCM]{:target="_blank"})
--   Société Suisse pour les droits des auteurs d\'œuvres musicales
-    ([SUISA]{:target="_blank"})
--   Conseil suisse de la musique ([CSM]{:target="_blank"})
-
-Dans les années 2000, le RISM Suisse est devenu un centre de plus en plus important 
-pour les questions relatives aux technologies de l'information. 
-Pour refléter cette évolution, en 2021, le nom de l'association change en RISM Digital Center.
-
-
-[SSM]: http://www.smg-ssm.ch
-[ASCM]: http://www.iaml.ch
-[SUISA]: http://www.suisa.ch
-[CSM]: http://www.musikrat.ch/fr
+-   Société Suisse de Musicologie ([SMG](http://www.smg-ssm.ch){:blank})
+-   Association Suisse des collections musicales ([ASCM / IAML Switzerland](http://www.suisa.ch){:blank})
+-   Société Suisse pour les droits des auteurs d\'œuvres musicales ([SUISA](http://www.suisa.ch){:blank})
+-   Conseil suisse de la musique ([CSM](http://www.musikrat.ch/fr){:blank})

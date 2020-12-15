@@ -8,7 +8,7 @@ permalink: /rism-ch/cataloging/snb.html
 
 # Komponistennachlässe der Schweizerischen Nationalbibliothek
 
-Die Arbeitsstelle Schweiz des RISM hat 2001 die Betreuung des
+RISM Schweiz hat 2001 die Betreuung des
 historischen Musikbestandes der Schweizerischen Nationalbibliothek (NB)
 übernommen. 2006 wurden die Aufgaben auf die Inventarisierung der
 Archivalien erweitert. Seit diesem Zeitpunkt erfasst RISM Schweiz
@@ -35,10 +35,9 @@ Insbesondere die Sammlung Josef Liebeskind, die bedeutende Quellen von
 Christoph Willibald Gluck und Karl Ditters von Dittersdorf enthält, wird
 regelmässig konsultiert.
 
-[Benutzung der Sammlung der Schweizerischen Nationalbibliothek][]: die
-Arbeitsstelle Schweiz des RISM bittet um Verständnis dafür, dass
-Anfragen zu den in Bearbeitung befindlichen Dokumenten nur in begrenztem
-Umfang beantwortet werden können.
+[Benutzung der Sammlung der Schweizerischen Nationalbibliothek][]: RISM Schweiz 
+bittet um Verständnis dafür, dass Anfragen zu den in Bearbeitung befindlichen 
+Dokumenten nur in begrenztem Umfang beantwortet werden können.
 
 Kontakt: [Yvonne Peters]
 

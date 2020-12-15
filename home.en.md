@@ -16,9 +16,9 @@ tiles:
             fr: "A propos"
             it: "A proposito"
         texts:
-            en: "The RISM Digital Center is the central hub for information technology questions within the global RISM community. In particular, it is in charge of managing the development of Muscat, the open-source web application used by the RISM community for inventorying sources and curating data worldwide. It has the responsibility to ensure in the background the smooth functioning of the RISM community at the international level and to continually improve the cataloguing infrastructure.</p><p>The RISM Digital Center is a Research Infrastructure project of the Swiss National Science Foundation. Read more about our history, our organisation and the people working with us and supporting us."
-            de: "Das RISM Digital Center ist die zentrale Drehscheibe für Fragen der Informationstechnologie innerhalb der globalen RISM-Gemeinschaft. Insbesondere ist es für die Entwicklung von Muscat zuständig, der Open-Source-Webanwendung, die von der RISM-Gemeinschaft zur Inventarisierung von Quellen und zur Kuratierung von Daten weltweit verwendet wird. Es hat die Aufgabe, im Hintergrund das reibungslose Funktionieren der RISM-Gemeinschaft auf internationaler Ebene sicherzustellen und die Katalogisierungsinfrastruktur kontinuierlich zu verbessern.</p><p>Das RISM Digital Center ist ein Forschungsinfrastrukturprojekt des Schweizerischen Nationalfonds. Lesen Sie mehr über unsere Geschichte, unsere Organisation und die Menschen, die mit uns arbeiten und uns unterstützen."
-            fr: "Le RISM Digital Center est le centre de coordination des questions relatives aux technologies de l'information au sein de la communauté mondiale du RISM. Il est notamment chargé de gérer le développement de Muscat, l'application web open-source utilisée par la communauté du RISM pour inventorier les sources et conserver les données dans le monde entier. Il a la responsabilité d'assurer en arrière-plan le bon fonctionnement de la communauté du RISM au niveau international et d'améliorer continuellement l'infrastructure de catalogage.</p><p>Le Centre numérique du RISM est un projet d'infrastructure de recherche du Fonds national suisse de la recherche scientifique. En savoir plus sur notre histoire, notre organisation et les personnes qui travaillent avec nous et nous soutiennent."
+            en: "The RISM Digital Center is the central hub for information technology questions within the global RISM community. In particular, it is in charge of managing the development of Muscat, the open-source web application used by the RISM community for inventorying sources and curating data worldwide. It has the responsibility to ensure in the background the smooth functioning of the RISM community at the international level and to continually improve the digital infrastructure of the project.</p><p>The RISM Digital Center is a Research Infrastructure project of the Swiss National Science Foundation. Read more about our history, our organisation and the people working with us and supporting us."
+            de: "Das RISM Digital Center ist die zentrale Drehscheibe für Fragen der Informationstechnologie innerhalb der globalen RISM-Gemeinschaft. Es ist insbesondere für die Entwicklung von Muscat zuständig, der Open-Source-Webanwendung, die von der RISM-Gemeinschaft zur Inventarisierung von Quellen und zur Kuratierung von Daten weltweit verwendet wird. Es hat die Aufgabe, im Hintergrund das reibungslose Funktionieren des RISM-Projekts auf internationaler Ebene sicherzustellen und die digitale Infrastruktur kontinuierlich zu verbessern.</p><p>Das RISM Digital Center ist ein Forschungsinfrastrukturprojekt des Schweizerischen Nationalfonds. Lesen Sie mehr über unsere Geschichte, unsere Organisation und die Menschen, die mit uns arbeiten und uns unterstützen."
+            fr: "Le RISM Digital Center est le centre de coordination des questions relatives aux technologies de l'information au sein de la communauté mondiale du RISM. Il est notamment chargé de gérer le développement de Muscat, l'application web open-source utilisée par la communauté du RISM pour inventorier les sources et conserver les données dans le monde entier. Il a la responsabilité d'assurer en arrière-plan le bon fonctionnement de la communauté du RISM au niveau international et d'améliorer continuellement l'infrastructure digitale du projet.</p><p>Le Centre numérique du RISM est un projet d'infrastructure de recherche du Fonds national suisse de la recherche scientifique. En savoir plus sur notre histoire, notre organisation et les personnes qui travaillent avec nous et nous soutiennent."
             it: "Il RISM Digital Center è la centrale per le questioni di tecnologia dell'informazione all'interno della comunità RISM globale. In particolare, è responsabile della gestione dello sviluppo di Muscat, l'applicazione web open-source utilizzata dalla comunità RISM per l'inventario delle fonti e la curatela dei dati in tutto il mondo. Ha la responsabilità di garantire in background il buon funzionamento della comunità RISM a livello internazionale e di migliorare continuamente l'infrastruttura di catalogazione.</p><p>Il RISM Digital Center è un progetto di infrastruttura di ricerca del Fondo Nazionale Svizzero per la Ricerca Scientifica. Leggete di più sulla nostra storia, la nostra organizzazione e le persone che lavorano con noi e che ci sostengono."
 
     rism_ch:
@@ -30,14 +30,15 @@ tiles:
             fr: "RISM Suisse"
             it: "RISM Svizzera"
         texts:
-            en: "The RISM Digital Center is the home of the RISM Switzerland, the Swiss national branch of RISM. It is based at the National library in Bern and has been recording music manuscripts and printed musical sources in Swiss libraries and archives since 1956. Learn more about its activities and its resources to find and use Swiss music sources."
-            de: "Das RISM Digital Center ist der Sitz des RISM Schweiz, der schweizerischen nationalen Arbeitsgruppe des RISM. Es hat seinen Sitz in der Nationalbibliothek in Bern und erfasst seit 1956 Musikmanuskripte und gedruckte musikalische Quellen in Schweizer Bibliotheken und Archiven. Erfahren Sie mehr über seine Aktivitäten und seine Ressourcen, um Schweizer Musikquellen zu finden und zu nutzen."
-            fr: "Le RISM Digital Center est le siège du RISM Suisse, le bureau national suisse du RISM. Il est basé à la Bibliothèque nationale de Berne et il catalogue des manuscrits et des sources musicales imprimées dans les bibliothèques et archives suisses depuis 1956. Découvrez ses activités et ses ressources pour trouver et utiliser les sources musicales suisses."
-            it: "Il RISM Digital Center è la sede del RISM Svizzera, l'ufficio nazionale svizzero del RISM. Ha sede presso la Biblioteca nazionale di Berna e dal 1956 cataloga manoscritti musicali e fonti musicali a stampa nelle biblioteche e negli archivi svizzeri. Scoprite di più sulle sue attività e sulle sue risorse per trovare e utilizzare le fonti musicali svizzere."
+            en: "The RISM Digital Center is the home of the RISM Switzerland, the Swiss national branch of RISM. It is based at the Swiss national library in Bern and has been recording music manuscripts and printed musical sources in Swiss libraries and archives since 1956. Learn more about its activities and its resources to find and use Swiss music sources."
+            de: "Das RISM Digital Center ist gleichzeitig der Sitz von RISM Schweiz, der schweizerischen nationalen Arbeitsgruppe des RISM. Die Arbeitsstelle befindet sich gegenwärtig in der Schweizerischen Nationalbibliothek in Bern und erfasst seit 1956 Musikmanuskripte und gedruckte musikalische Quellen in Schweizer Bibliotheken und Archiven. Erfahren Sie mehr über die Aktivitäten und Ressourcen, um Schweizer Musikquellen zu finden und zu nutzen."
+            fr: "Le RISM Digital Center est le siège du RISM Suisse, le bureau national suisse du RISM. Il est basé à la Bibliothèque nationale suisse de Berne et il catalogue des manuscrits et des sources musicales imprimées dans les bibliothèques et archives suisses depuis 1956. Découvrez ses activités et ses ressources pour trouver et utiliser les sources musicales suisses."
+            it: "Il RISM Digital Center è la sede del RISM Svizzera, l'ufficio nazionale svizzero del RISM. Ha sede presso la Biblioteca nazionale svizzera di Berna e dal 1956 cataloga manoscritti musicali e fonti musicali a stampa nelle biblioteche e negli archivi svizzeri. Scoprite di più sulle sue attività e sulle sue risorse per trovare e utilizzare le fonti musicali svizzere."
 
     news:
         image: news.png
-        link: http://website-test.rism.digital/news-archive/rism_digital_center/
+        link: https://stage.rism.info/news-archive/rism_digital_center/
+        blank: true
         titles:
             en: "News"
             de: "News"
@@ -51,7 +52,8 @@ tiles:
 
     rism_zr:
         image: rism_zr.png
-        link: http://www.rism.info
+        link: https://stage.rism.info
+        blank: true
         titles:
             en: "RISM Editorial Center"
             de: "RISM Zentralredaktion"
@@ -68,12 +70,12 @@ tiles:
         link: /tools.html
         titles:
             en: "Tools and services"
-            de: "Werkzeuge und Dienstleistungen"
+            de: "Tools und Dienstleistungen"
             fr: "Outils et services"
             it: "Strumenti e servizi"
         texts:
             en: "The RISM Digital Center is active in the development of tools and services at the service of the RISM community and beyond. It leads the development of Muscat, and is responsible for its installation and administration. It also created and maintains Verovio, an open-source software library for rendering Music Encoding Initiative (MEI) scores. Discover the features and the background of Muscat, Verovio, and other exciting projects!"
-            de: "Das RISM Digital Center ist aktiv an der Entwicklung von Werkzeugen und Diensten zugunsten der RISM-Gemeinschaft und darüber hinaus beteiligt. Es leitet die Entwicklung von Muscat und ist für dessen Installation und Verwaltung verantwortlich. Ausserdem hat es Verovio, eine Open-Source-Softwarebibliothek für die Wiedergabe von Partituren im Format MEI (Music Encoding Initiative) erstellt und pflegt sie weiter. Entdecken Sie die Funktionen und den Hintergrund von Muscat, Verovio und anderen spannenden Projekten!"
+            de: "Das RISM Digital Center ist aktiv an der Entwicklung von technischen Werkzeugen und Diensten zugunsten der RISM-Gemeinschaft und darüber hinaus beteiligt. Es leitet die Entwicklung von Muscat und ist für dessen Installation sowie die Verwaltung verantwortlich. Ausserdem hat es Verovio, eine Open-Source-Softwarebibliothek für die Wiedergabe von Partituren im MEI-Format (Music Encoding Initiative), erstellt und pflegt sie weiter. Entdecken Sie die Funktionen und den Hintergrund von Muscat, Verovio und anderen spannenden Projekten!"
             fr: "Le RISM Digital Center est actif dans le développement d'outils et de services destinés à la communauté du RISM et au-delà. Il dirige le développement de Muscat, et est responsable de son installation et de son administration. Il a également créé et maintient Verovio, une bibliothèque de logiciels libres pour le rendu des partitions dans le format MEI (Music Encoding Initiative). Découvrez les caractéristiques et le contexte de Muscat, Verovio et d'autres projets passionnants !"
             it: "Il RISM Digital Center è attivo nello sviluppo di strumenti e servizi al servizio della comunità RISM e non solo. Dirige lo sviluppo di Muscat ed è responsabile della sua installazione e della sua amministrazione. Ha inoltre creato e gestisce Verovio, una libreria di software open-source per il rendering delle partiture in formato MEI (Music Encoding Initiative). Scoprite le caratteristiche e il background di Muscat, Verovio e altri progetti stimolanti!"
 
@@ -87,7 +89,7 @@ tiles:
             it: "Pubblicazioni"
         texts:
             en: "Explore the various publications realised by the RISM Digital Center alongside its other activities. These include online publications of archival documents, databases of musical interest, and scientific publications."
-            de: "Entdecken Sie die verschiedenen Publikationen, die das RISM Digital Center neben seinen anderen Aktivitäten realisiert hat. Dazu gehören Online-Publikationen von Archivdokumenten, Datenbanken von musikalischem Interesse und wissenschaftliche Publikationen."
+            de: "Entdecken Sie die verschiedenen Publikationen, die das RISM Digital Center neben seinen anderen Aktivitäten realisiert hat. Dazu gehören Online-Publikationen von Archivdokumenten, Datenbanken von musikalischem Interesse und wissenschaftliche Veröffentlichungen."
             fr: "Découvrez les différentes publications réalisées par le RISM Digital Center en parallèle de ses autres activités. Il s'agit notamment de publications en ligne de documents d'archives, de bases de données d'intérêt musical et de publications scientifiques."
             it: "Esplorate le varie pubblicazioni realizzate dal RISM Digital Center insieme alle altre attività. Tra queste vi sono pubblicazioni online di documenti d'archivio, banche dati di interesse musicale e pubblicazioni scientifiche."
 ---

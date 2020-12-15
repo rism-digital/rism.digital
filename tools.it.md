@@ -29,7 +29,7 @@ come promotore di progetti di ricerca. Lo schema MEI comprende la codifica
 della notazione musicale ma anche un'intestazione di metadati molto ricca 
 che può, ad esempio, essere importata direttamente dai record del catalogo RISM.
 
-Il RISM Digital Center ha partecipato allo sviluppo iniziale di [Diva.js], 
+Inoltre, il RISM Digital Center ha partecipato allo sviluppo iniziale di [Diva.js], 
 un visualizzatore di documenti open-source IIIF basato sul web, ampiamente 
 utilizzato e ottimizzato per collezioni di immagini ad alta risoluzione.
 
