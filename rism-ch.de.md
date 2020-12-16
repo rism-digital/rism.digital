@@ -5,6 +5,8 @@ lang: de
 permalink: /rism-ch.html
 ---
 
+{% include muscat-search.html text="RISM Schweiz-Datensatz in Muscat" placeholder="Suchen" %}
+
 # RISM Schweiz
 
 RISM-Schweiz erschliesst die in Schweizer Bibliotheken und Archiven

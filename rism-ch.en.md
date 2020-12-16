@@ -5,6 +5,8 @@ lang: en
 permalink: /rism-ch.html
 ---
 
+{% include muscat-search.html text="RISM Switzerland dataset in Muscat" placeholder="Search" %}
+
 # RISM Switzerland
 
 The RISM Switzerland records music manuscripts and printed musical sources in

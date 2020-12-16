@@ -5,6 +5,8 @@ lang: it
 permalink: /rism-ch.html
 ---
 
+{% include muscat-search.html text="Dati del RISM Svizzera in Muscat" placeholder="Cerca" %}
+
 # RISM Svizzera
 
 RISM Svizzera cataloga le partiture e gli scritti sulla musica

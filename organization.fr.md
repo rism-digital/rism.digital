@@ -15,7 +15,7 @@ La mission du RISM Digital Center est double. Premièrement, il dirige le dével
 - la participation à l'établissement, l'enseignement et la promotion des bonnes pratiques dans le domaine et l'offre d'un soutien de conseil de premier niveau aux projets de recherche en musicologie ;
 - le maintien de contacts étroits avec les bibliothèques musicales et autres infrastructures de recherche dans le domaine et au-delà, comme les [R-music-projects](http://www.r-musicprojects.org/){:blank}, la [MEI Community](https://music-encoding.org){:blank}, le [NFDI4Culture Consortium](https://nfdi4culture.de/){:blank}, ou [DaSCH](https://dasch.swiss/){:blank}.
 
-Deuxièmement, le RISM Digital Center remplit le rôle d'un groupe de travail suisse du RISM en inventoriant les sources musicales en Suisse. Il inventorie les sources musicales dans les bibliothèques, les archives et les collections privées en Suisse et les met en relation avec des ressources connexes, notamment avec des ressources de numérisation et des ressources basées sur le contenu.
+Deuxièmement, le RISM Digital Center remplit le rôle d'un [groupe de travail suisse du RISM](/rism-ch.html) en inventoriant les sources musicales en Suisse. Il inventorie les sources musicales dans les bibliothèques, les archives et les collections privées en Suisse et les met en relation avec des ressources connexes, notamment avec des ressources de numérisation et des ressources basées sur le contenu.
 
 ## Historique
 

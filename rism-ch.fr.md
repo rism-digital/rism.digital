@@ -5,6 +5,8 @@ lang: fr
 permalink: /rism-ch.html
 ---
 
+{% include muscat-search.html text="Données du RISM Suisse dans Muscat" placeholder="Chercher" %}
+
 # RISM Suisse
 
 Le RISM Suisse inventorie les partitions manuscrites et imprimées et les

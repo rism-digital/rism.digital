@@ -6,3 +6,23 @@ nav: /rism-ch.html
 ---
 
 {{ content }}
+
+{% if page.permalink == "/rism-ch.html" %}
+<script>
+    document.getElementById("muscat-search-term").addEventListener("keyup", function(event) {
+        // Number 13 is the "Enter" key on the keyboard
+        if (event.keyCode === 13) {
+            // Cancel the default action, if needed
+            event.preventDefault();
+            // Trigger the button element with a click
+            muscat();
+        }
+    }); 
+
+    function muscat() {
+        var search = document.getElementById("muscat-search-term").value;
+        var link = "http://www.rism-ch.org/catalog?search_field=any_field&q=" + search + "&locale={{ site.active_lang }}"
+        window.location.href = link; 
+    }
+</script>
+{% endif %}
