@@ -1,8 +1,8 @@
 title: RISM Digital Center
 email: info@rism.digital
 description: >- # this means to ignore newlines
-  The central hub for information technology questions within the
-  Répertoire International des Sources Musicales (RISM)
+  RISM Digital Center – The central hub for information technology 
+  questions within the Répertoire International des Sources Musicales
 baseurl: ""
 url: "https://rism.digital"
 twitter_username: RISM_Music
@@ -13,7 +13,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /images/logo.png
+      image: /images/logo-square.png
 
 
 follow-us:
