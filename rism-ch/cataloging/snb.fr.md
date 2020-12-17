@@ -34,14 +34,13 @@ collections de musique de la BN. En particulier, le fonds de Josef
 Liebeskind contenant d\'importantes sources de Christoph Willibald Gluck
 et Karl Ditters von Dittersdorf est régulièrement consulté.
 
-[Utilisation des collections de la Bibliothèque nationale suisse][]: les
+Utilisation des collections de la Bibliothèque nationale suisse: les
 requêtes concernant des documents en cours d\'inventaire ou de
 catalogage ne pourront être traitées que de façon limitée. Le RISM
 Suisse vous remercie pour votre compréhension.
 
 Contact: [Yvonne Peters]
 
-  [Archives littéraires suisses (ALS)]: http://www.nb.admin.ch/org/organisation/00783/index.html?lang=fr
-  [fonds individuels]: http://www.nb.admin.ch/sammlungen/spezialsammlungen/00652/01080/index.html?lang=fr
-  [Utilisation des collections de la Bibliothèque nationale suisse]: http://www.nb.admin.ch/dienstleistungen/benutzung/index.html?lang=fr
+  [Archives littéraires suisses (ALS)]: https://www.nb.admin.ch/snl/fr/home/portrait/als.html
+  [fonds individuels]: https://www.nb.admin.ch/snl/fr/home/collections/collections-speciales18/fonds-musicaux.html
   [Yvonne Peters]: /contact.html
