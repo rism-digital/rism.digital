@@ -35,13 +35,12 @@ Insbesondere die Sammlung Josef Liebeskind, die bedeutende Quellen von
 Christoph Willibald Gluck und Karl Ditters von Dittersdorf enthält, wird
 regelmässig konsultiert.
 
-[Benutzung der Sammlung der Schweizerischen Nationalbibliothek][]: RISM Schweiz 
+Benutzung der Sammlung der Schweizerischen Nationalbibliothek: RISM Schweiz 
 bittet um Verständnis dafür, dass Anfragen zu den in Bearbeitung befindlichen 
 Dokumenten nur in begrenztem Umfang beantwortet werden können.
 
 Kontakt: [Yvonne Peters]
 
-  [Schweizerische Literaturarchiv (SLA)]: http://www.nb.admin.ch/org/organisation/00783/index.html?lang=de
-  [Bestände]: http://www.nb.admin.ch/sammlungen/spezialsammlungen/00652/01080/index.html?lang=de
-  [Benutzung der Sammlung der Schweizerischen Nationalbibliothek]: http://www.nb.admin.ch/dienstleistungen/benutzung/index.html?lang=de
+  [Schweizerische Literaturarchiv (SLA)]: https://www.nb.admin.ch/snl/de/home/ueber-uns/sla.html
+  [Bestände]: https://www.nb.admin.ch/snl/de/home/sammlungen/spezialsammlungen18/musiknachlaesse.html
   [Yvonne Peters]: /contact.html

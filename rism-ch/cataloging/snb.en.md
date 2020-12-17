@@ -33,13 +33,12 @@ In particular, the collection of Josef Liebeskind containing important
 sources of Christoph Willibald Gluck and Karl Ditters von Dittersdorf is
 consulted regularly.
 
-[Access to collections at the Swiss National Library][]: enquiries
+Access to collections at the Swiss National Library: enquiries
 concerning documents being currently processed will be dealt with only
 to a limited extent. The RISM Switzerland thanks you for your understanding.
 
 Contact: [Yvonne Peters]
 
-  [Swiss Literary Archives (SLA)]: http://www.nb.admin.ch/org/organisation/00783/index.html?lang=en
-  [collections]: http://www.nb.admin.ch/sammlungen/spezialsammlungen/00652/01080/index.html?lang=en
-  [Access to collections at the Swiss National Library]: http://www.nb.admin.ch/dienstleistungen/benutzung/index.html?lang=en
+  [Swiss Literary Archives (SLA)]: https://www.nb.admin.ch/snl/en/home/about-us/sla.html
+  [collections]: https://www.nb.admin.ch/snl/en/home/collections/special-collections18/musical-estates.html
   [Yvonne Peters]: /contact.html

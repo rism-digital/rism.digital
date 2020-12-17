@@ -32,14 +32,13 @@ particolare viene consultata regolarmente la raccolta Josef Liebeskind,
 che contiene fonti importanti di Christoph Willibald Gluck e Karl
 Ditters von Dittersdorf.
 
-[Utilizzo delle raccolte della Biblioteca nazionale svizzera][]:
+Utilizzo delle raccolte della Biblioteca nazionale svizzera:
 Richieste riguardanti dei documenti in corso di elaborazione possono
 essere soddisfatte solo in misura limitata. Il RISM Svizzera
 spera nella comprensione degli utenti.
 
 Contatto: [Yvonne Peters]
 
-  [Archivio letterario svizzero (ALS)]: http://www.nb.admin.ch/org/organisation/00783/index.html?lang=it
-  [fondi completi]: http://www.nb.admin.ch/sammlungen/spezialsammlungen/00652/01080/index.html?lang=it
-  [Utilizzo delle raccolte della Biblioteca nazionale svizzera]: http://www.nb.admin.ch/dienstleistungen/benutzung/index.html?lang=it
+  [Archivio letterario svizzero (ALS)]: https://www.nb.admin.ch/snl/it/home/chi-siamo/asl.html
+  [fondi completi]: https://www.nb.admin.ch/snl/it/home/collezioni/collezioni-speciali18/lasciti-musicali.html
   [Yvonne Peters]: /contact.html
