@@ -11,7 +11,7 @@ permalink: /rism-ch/cds/cd-cazzati.html
 <div style="float: right; margin: 0px 0px 0px 30px;" class="is-hidden-mobile">
     <img src="/images/rism_ch/cd_cazzati.jpg">
     <p align="center">
-        <a href="http://docs.rism-ch.org/press/CD_1605_booklet.pdf" target="_blank">Télécharger le livret du CD (PDF)</a> 
+        <a href="/resources/press/CD_1605_booklet.pdf" target="_blank">Télécharger le livret du CD (PDF)</a> 
     </p>
 </div>
 
