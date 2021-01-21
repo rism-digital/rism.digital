@@ -1,5 +1,5 @@
 ---
-title: "Il Pasto Fido -- Luca Marenzio"
+title: "Il Pastor Fido -- Luca Marenzio"
 layout: cds
 show_posts: false
 lang: it
