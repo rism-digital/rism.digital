@@ -1,6 +1,7 @@
 ---
 layout: finding-aid
 lang: en
+permalink: /rism-ch/finding-aid/ch-holdings.html
 ---
 
 # Alphabetical list of all libraries and archives with documented musical holdings

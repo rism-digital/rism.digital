@@ -1,6 +1,7 @@
 ---
 layout: finding-aid
 lang: it
+permalink: /rism-ch/finding-aid/ch-holdings.html
 ---
 
 # Elenco alfabetico di tutte le biblioteche e archivi con fonti musicali
