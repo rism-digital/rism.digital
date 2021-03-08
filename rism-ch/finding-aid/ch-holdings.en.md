@@ -10,4 +10,4 @@ References: RISM-OPAC and printed volumes, RISM survey 1990, Handbuch der histor
 
 Definition of the categories used in the descriptions: Printed music editions = titles in the RISM A/I, B/I and B/II series; Manuscripts = sources in the RISM A/II series; Theoretica = sources in the RISM B/VI series; Hymns = sources in the RISM B/VIII series; Personal collections = sources from the 20th century.
 
-\[in preparation\]
+\[in preparation, see German-language version\]
