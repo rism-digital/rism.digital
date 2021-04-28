@@ -583,7 +583,7 @@ Von RISM erfasst wurden ca. 800 Handschriften. Inventar 1985 von H. Renggli. Zu 
 
 ## Cologny
 
-### Fondation Martin Bodmer, Bibliotheca Bodmeriana (CH-CObodmer)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-CObodmer)
+### [Fondation Martin Bodmer, Bibliotheca Bodmeriana (CH-CObodmer)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-CObodmer)
 
 Bestände verzeichnet in: RISM A/I; B/I; A/II; B/III.1; B/VIII.1. 
 
@@ -859,13 +859,13 @@ Literatur: Handbuch der historischen Buchbestände.
 
 Von RISM erfasst wurden ca. 980 Handschriften, ca. 570 Musikdrucke, Theoretica und Kirchenlieder. Die Sammlung umfasst 8’.625 Partituren und 524 Theoretica (Methoden, Abhandlungen, Studien etc.) vor 1900. Der grösste Teil besteht aus Drucken aus der zweiten Hälfte des 19. Jahrhunderts (5'690 Titel); 3'128 wurden zwischen 1800 und 1850 veröffentlicht, 755 stammen aus dem 18. Jahrhundert und nur 9 aus dem 17. Jahrhundert.
 
-### Institut et Musée Voltaire, bibliothèque (CH-Gimv)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-Gimv)
+### [Institut et Musée Voltaire, bibliothèque (CH-Gimv)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-Gimv)
 
 Literatur: Handbuch der historischen Buchbestände; Swisscovery.
 
 Ca. 4 Theoretica. Swisscovery verzeichnet 5 Musikdrucke vor 1800; 4 Musikdrucke 1800-1849; 3 Musikdrucke 1850-1899. Seit den 1970er Jahren ist die Biblitohek in die an CH-Gpu eingegliedert.
 
-### Institut Jaques-Dalcroze (CH-Gijd)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-Gijd)
+### [Institut Jaques-Dalcroze (CH-Gijd)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-Gijd)
 
 Literatur: Private Mitteilung an RISM-Mitarbeitenden (2020).
 
@@ -877,7 +877,7 @@ Literatur: Swisscovery.
 
 Swisscovery verzeichnet 1 Musikdruck (Kirchenlieder) vor 1800; 1 Musikdruck 1801 (MM 4013 I,1); ca. 9 Musikdrucke (Kirchenlieder) 1850-1899.
 
-### Société Jean-Jacques Rousseau (CH-Gsr)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-Gsr)
+### [Société Jean-Jacques Rousseau (CH-Gsr)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-Gsr)
 
 Bestände verzeichnet in: RISM A/II.
 
@@ -1033,7 +1033,7 @@ Literatur: Swisscovery.
 
 Swisscovery verzeichnet 6 Musikdrucke (Kirchenlieder) vor 1800; 5 Lieder- und Musikdrucke (Kirchenlieder) 1800-1849; 10 Musikdrucke 1850-1899.
 
-### Conservatoire de Lausanne, Bibliothèque (CH-LAc)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-LAc)
+### [Conservatoire de Lausanne, Bibliothèque (CH-LAc)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-LAc)
 
 Bestände verzeichnet in: RISM A/I; B/I; A/II; B/II; B/VI.1. 
 
@@ -1053,7 +1053,7 @@ Literatur: Private Mitteilung an RISM-Mitarbeitenden (2018).
 
 ## Le Bouveret
 
-### Foyer St-Benoît (CH-BO)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-BO)
+### [Foyer St-Benoît (CH-BO)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-BO)
 
 Bestände verzeichnet in: RISM B/XIV.1. 
 
@@ -2147,13 +2147,13 @@ Literatur: Swisscovery.
 
 Swisscovery verzeichnet ca. 5 Musikdrucke (Kirchenlieder) vor 1800; 2 Musikdrucke (Kirchenlieder) 1800-1850; und 4 Musikdrucke (Kirchenlieder) 1850-1900.
 
-### Zentralarchiv schweizerischer Tonkunst (CH-Zt)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-Zt)
+### [Zentralarchiv schweizerischer Tonkunst (CH-Zt)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-Zt)
 
 Bestände verzeichnet in: RISM B/VI.1. 
 
 Von RISM erfasst wurden Theoretica vor 1800.
 
-### Zentralbibliothek, Musikabteilung (CH-Zz)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-Zz)
+### [Zentralbibliothek, Musikabteilung (CH-Zz)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-Zz)
 
 Bestände verzeichnet in: RISM A/I; B/I; A/II; B/II; B/III.1; B/V.1; B/VI.1; B/VII; B/VIII.1; B/IX.2; B/XIV.1. 
 
