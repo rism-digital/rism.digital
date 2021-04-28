@@ -16,3 +16,4 @@
 * [Relazione annuale 2017](/resources/Jahresbericht-2017-f-web.pdf)
 * [Relazione annuale 2018](/resources/Jahresbericht-2018-f-web.pdf)
 * [Relazione annuale 2019](/resources/Jahresbericht-2019-f-web.pdf)
+* [Relazione annuale 2020](/resources/Jahresbericht-2020-f-web.pdf)
