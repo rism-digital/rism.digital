@@ -4,7 +4,7 @@ search: true
 title: « La voce degli angeli », 19 maggio 2021 nella chiesa di Montorge
 date: 2021-06-03
 post: true
-lang: de
+lang: it
 image:
 ---
 
