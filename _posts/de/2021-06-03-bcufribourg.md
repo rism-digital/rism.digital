@@ -1,7 +1,7 @@
 ---
 layout: rism-ch-post
 search: true
-title: «Engelsstimmen», 19 Mai 2021 in der Kirche in Montorge
+title: «Engelsstimmen», 19. Mai 2021 in der Kirche in Montorge
 date: 2021-06-03
 post: true
 lang: de
