@@ -11,4 +11,4 @@ Bibliografia: OPAC RISM e volumi a stampa, Inchiesta RISM 1990, Handbuch der his
 Breve definizione delle categorie utilizzate nelle descrizioni sommarie:
 Edizioni musicali a stampa = titoli nelle serie RISM A/I, B/I e B/II; Manoscritti musicali = fonti nelle serie RISM A/II; Fonti di teoria musicale = fonti nelle serie RISM B/VI; Canti religiosi = fonti nella serie RISM B/VIII; Fondi personali = perlopiù manoscritti del XX secolo.
 
-\[in preparazione\]
+\[in preparazione, si veda la versione in tedesco\]
