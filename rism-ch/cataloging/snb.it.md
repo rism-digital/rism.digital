@@ -41,4 +41,4 @@ Contatto: [Yvonne Peters]
 
   [Archivio letterario svizzero (ALS)]: https://www.nb.admin.ch/snl/it/home/chi-siamo/asl.html
   [fondi completi]: https://www.nb.admin.ch/snl/it/home/collezioni/collezioni-speciali18/lasciti-musicali.html
-  [Yvonne Peters]: /contact.html
+  [Yvonne Peters]: /organization/contact.html

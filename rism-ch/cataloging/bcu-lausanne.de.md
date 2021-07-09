@@ -46,4 +46,4 @@ und Orchesterwerke bis hin zu Bühnen- und Filmmusik alle Gattungen ab.
 
 Kontakt: [Florence Sidler]
 
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html

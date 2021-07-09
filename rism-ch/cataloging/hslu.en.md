@@ -35,4 +35,4 @@ a total amount of ca. 700 works from this library.
 
 Contact: [Cédric Güggi]
 
-  [Cédric Güggi]: /contact.html
+  [Cédric Güggi]: /organization/contact.html

@@ -47,4 +47,4 @@ teatro e colonne sonore per film.
 
 Contatto: [Florence Sidler]
 
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html

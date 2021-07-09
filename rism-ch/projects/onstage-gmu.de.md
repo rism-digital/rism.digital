@@ -16,4 +16,4 @@ Es sei auch darauf hingewiesen, dass die Sammlung von La Musicale diejenige der 
 
 Kontakt: [Claudio Bacciagaluppi]
 
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html

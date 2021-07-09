@@ -14,4 +14,4 @@ Swiss archives and libraries hold a total of some 54 titles of printed parts tha
 
 Contact: [Claudio Bacciagaluppi]
 
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html

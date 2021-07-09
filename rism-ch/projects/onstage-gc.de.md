@@ -33,4 +33,4 @@ dem Bibliotheksleiter vorgenommen.
 
 Kontakt: [Claudio Bacciagaluppi]
 
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html

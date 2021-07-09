@@ -49,5 +49,5 @@ Contatto: [Cédric Güggi]
 
 [Manoscritti]
 
-  [Cédric Güggi]: /contact.html
+  [Cédric Güggi]: /organization/contact.html
   [Manoscritti]: %7B%7B%20site.search_url%20%7D%7D?utf8=✓&search_field=any_field&q=RepertoriumSchweiz&locale=it

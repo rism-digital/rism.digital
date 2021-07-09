@@ -16,4 +16,4 @@ A noter encore que la collection de La Musicale est complémentaire de celle de 
 
 Contact: [Claudio Bacciagaluppi]
 
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html

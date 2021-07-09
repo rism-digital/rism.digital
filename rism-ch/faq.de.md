@@ -108,4 +108,4 @@ Bei Fragen zu bestimmten Quellen nehmen Sie bitte Kontakt mit der
 besitzenden Institution auf. Dies gilt auch für organisatorische Belange
 wie Besuchsanmeldung, Kopieraufträge etc. Für alle anderen Unklarheiten
 können Sie sich gerne an RISM Schweiz wenden. Die Kontaktdetails finden
-Sie auf unserer [Kontaktpage](/contact.html).
+Sie auf unserer [Kontaktpage](/organization/contact.html).

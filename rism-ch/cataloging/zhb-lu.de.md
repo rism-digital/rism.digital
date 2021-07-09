@@ -45,4 +45,4 @@ katalogisiert.
 Kontakt: [Cédric Güggi]
 
   [Verbund HAN]: http://www.ub.unibas.ch/han/
-  [Cédric Güggi]: /contact.html
+  [Cédric Güggi]: /organization/contact.html

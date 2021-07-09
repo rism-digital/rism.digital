@@ -37,4 +37,4 @@ circa 700 opere alla propria banca-dati.
 
 Contatto: [Cédric Güggi]
 
-  [Cédric Güggi]: /contact.html
+  [Cédric Güggi]: /organization/contact.html

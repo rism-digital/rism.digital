@@ -16,5 +16,5 @@ It should also be noted that the collection of La Musicale is complementary to t
 
 Contact: [Claudio Bacciagaluppi]
 
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html
   [Conservatoire de musique de Genève]: https://www.cmg.ch/

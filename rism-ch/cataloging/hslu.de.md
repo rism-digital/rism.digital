@@ -38,4 +38,4 @@ dieser Bibliothek rund 700 Werke in seine Datenbank aufnehmen.
 
 Kontakt: [Cédric Güggi]
 
-  [Cédric Güggi]: /contact.html
+  [Cédric Güggi]: /organization/contact.html

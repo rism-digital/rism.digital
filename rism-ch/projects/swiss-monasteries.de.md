@@ -86,5 +86,5 @@ Kontakt: [Claudio Bacciagaluppi]
   [Freiburger Lehrstuhls für Musikwissenschaft]: http://www.unifr.ch/musicologie/index%20-%20D.html
   [kunzelmann]: /images/rism_ch/kunzelmann.jpg
   [Schweizerischen Musikforschenden Gesellschaft]: http://www.smg-ssm.ch/de/smg.html
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html
   [Editionsreihe \"Musik aus Schweizer Klöstern\"]: http://www.smg-ssm.ch/smg/Forschung-Publikationen/Editionen/Musik-aus-Schweizer-Kloestern.html

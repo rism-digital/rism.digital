@@ -113,4 +113,4 @@ communiquez avec l\'institution propriétaire de la source. Cela vaut
 une visite auprès de la bibliothèque, commander une reproduction de la
 source, etc. Pour toutes les autres question, n\'hésitez pas à contacter
 RISM Suisse. Vous trouverez les coordonnées sur notre site web, à la
-page de [contact](/contact.html).
+page de [contact](/organization/contact.html).

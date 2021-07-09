@@ -43,4 +43,4 @@ Contact: [Yvonne Peters]
 
   [Archives littéraires suisses (ALS)]: https://www.nb.admin.ch/snl/fr/home/portrait/als.html
   [fonds individuels]: https://www.nb.admin.ch/snl/fr/home/collections/collections-speciales18/fonds-musicaux.html
-  [Yvonne Peters]: /contact.html
+  [Yvonne Peters]: /organization/contact.html

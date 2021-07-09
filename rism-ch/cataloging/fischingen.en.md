@@ -43,4 +43,4 @@ was begun on 19 May 2014.
 
 Contact: [Florence Sidler]
 
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html

@@ -24,4 +24,4 @@ for a significant part of the manuscripts.
 
 Contact: [Florence Sidler]
 
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html

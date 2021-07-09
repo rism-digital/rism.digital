@@ -42,4 +42,4 @@ e dei fondi postumi ([il consorzio HAN]).
 Contatto: [Cédric Güggi]
 
   [il consorzio HAN]: http://www.ub.unibas.ch/han/
-  [Cédric Güggi]: /contact.html
+  [Cédric Güggi]: /organization/contact.html

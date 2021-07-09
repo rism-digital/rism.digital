@@ -44,4 +44,4 @@ catalogue collectif des manuscrits, des archives et des fonds personnels
 Contact: [Cédric Güggi]
 
   [Verbund HAN]: http://www.ub.unibas.ch/han/
-  [Cédric Güggi]: /contact.html
+  [Cédric Güggi]: /organization/contact.html

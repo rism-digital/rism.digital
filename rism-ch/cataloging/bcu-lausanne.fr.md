@@ -45,4 +45,4 @@ film.
 
 Contact: [Florence Sidler]
 
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html

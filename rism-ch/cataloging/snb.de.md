@@ -43,4 +43,4 @@ Kontakt: [Yvonne Peters]
 
   [Schweizerische Literaturarchiv (SLA)]: https://www.nb.admin.ch/snl/de/home/ueber-uns/sla.html
   [Bestände]: https://www.nb.admin.ch/snl/de/home/sammlungen/spezialsammlungen18/musiknachlaesse.html
-  [Yvonne Peters]: /contact.html
+  [Yvonne Peters]: /organization/contact.html

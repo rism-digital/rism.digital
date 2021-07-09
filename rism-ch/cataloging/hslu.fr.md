@@ -39,4 +39,4 @@ de données.
 
 Contact: [Cédric Güggi]
 
-  [Cédric Güggi]: /contact.html
+  [Cédric Güggi]: /organization/contact.html

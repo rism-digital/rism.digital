@@ -25,4 +25,4 @@ werden.
 
 Kontakt: [Florence Sidler]
 
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html

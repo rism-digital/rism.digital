@@ -24,4 +24,4 @@ pour une partie non négligeable des manuscrits.
 
 Contact: [Florence Sidler]
 
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html
