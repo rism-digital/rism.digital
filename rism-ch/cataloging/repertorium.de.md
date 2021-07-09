@@ -52,4 +52,4 @@ Kontakt: [Cédric Güggi]
 [Quellen]
 
   [Cédric Güggi]: /organization/contact.html
-  [Quellen]: %7B%7B%20site.search_url%20%7D%7D?utf8=✓&search_field=any_field&q=RepertoriumSchweiz&locale=de
+  [Quellen]: http://www.rism-ch.org/catalog?utf8=%E2%9C%93&search_field=any_field&q=RepertoriumSchweiz&locale=de
