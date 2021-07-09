@@ -37,4 +37,4 @@ des lacunes dans le secteur de la documentation musicale suisse.
 Contact: [Florence Sidler]
 
   [projet Répertoire des compositeurs suisses au 19e siècle]: http://rism-ch.org/cataloging/repertorium.html?locale=fr
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html

@@ -45,4 +45,4 @@ Contatto: [Florence Sidler]
 {% include common/niedermeyer-press.html %}
 
   [dall\'Associazione Niedermeyer]: http://www.niedermeyer-nyon.ch%20
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html

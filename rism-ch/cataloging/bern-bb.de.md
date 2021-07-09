@@ -27,4 +27,4 @@ voraussichtlich im Jahr 2016 erschlossen.
 
 Kontakt: [Yvonne Peters]
 
-  [Yvonne Peters]: /contact.html
+  [Yvonne Peters]: /organization/contact.html

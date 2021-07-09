@@ -37,4 +37,4 @@ colmare una lacuna in materia di documentazione musicale svizzera.
 Contatto: [Florence Sidler]
 
   [progetto Repertorio dei compositori svizzeri dell'Ottocento]: http://rism-ch.org/cataloging/repertorium.html?locale=it
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html

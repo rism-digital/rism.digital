@@ -38,4 +38,4 @@ Verbreitungsströme von musikalischen Werken besser nachzuvollziehen.
 
 Kontakt: [Claudio Bacciagaluppi]
 
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html

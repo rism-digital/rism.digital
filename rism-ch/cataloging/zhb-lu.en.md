@@ -42,4 +42,4 @@ archives and posthumous collections ([HAN]).
 Contact: [Cédric Güggi]
 
   [HAN]: http://www.ub.unibas.ch/han/
-  [Cédric Güggi]: /contact.html
+  [Cédric Güggi]: /organization/contact.html

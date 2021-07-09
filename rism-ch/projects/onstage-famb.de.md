@@ -35,4 +35,4 @@ Kontakt: [Claudio Bacciagaluppi]
   [On Stage]: http://onstage.rism-ch.org/
   [RISM digital library]: http://rism-ch.org/d-lib.html
   [Verein FAMB]: http://www.scb-basel.ch/index/112965
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html

@@ -83,5 +83,5 @@ Contact: [Claudio Bacciagaluppi]
   [Chaire de Musicologie de l'Université de Fribourg]: http://www.unifr.ch/musicologie/
   [kunzelmann]: /images/rism_ch/kunzelmann.jpg
   [Société Suisse de Musicologie]: http://www.smg-ssm.ch/fr/smg.html
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html
   [Editionsreihe \"Musik aus Schweizer Klöstern\"]: http://www.smg-ssm.ch/smg/Forschung-Publikationen/Editionen/Musik-aus-Schweizer-Kloestern.html

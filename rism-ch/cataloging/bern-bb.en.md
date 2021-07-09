@@ -28,4 +28,4 @@ sources will probably be added in 2016.
 
 Contact: [Yvonne Peters]
 
-  [Yvonne Peters]: /contact.html
+  [Yvonne Peters]: /organization/contact.html

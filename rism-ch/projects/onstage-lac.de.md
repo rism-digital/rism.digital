@@ -30,4 +30,4 @@ Pugin) vorgestellt.
 Kontakt: [Claudio Bacciagaluppi]
 
   [„Kapellmeisterbuch"]: http://d-lib.rism-ch.org/kapellmeisterbuch
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html

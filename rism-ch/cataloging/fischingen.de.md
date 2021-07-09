@@ -48,4 +48,4 @@ des Klosters Fischingen. Das Projekt Kloster Fischingen wurde am 19. Mai
 
 Kontakt: [Florence Sidler]
 
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html

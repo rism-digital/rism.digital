@@ -32,4 +32,4 @@ Secondly, the distribution of liturgical musical can be tracked.
 
 Contact: [Claudio Bacciagaluppi]
 
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html

@@ -41,4 +41,4 @@ Contact: [Yvonne Peters]
 
   [Swiss Literary Archives (SLA)]: https://www.nb.admin.ch/snl/en/home/about-us/sla.html
   [collections]: https://www.nb.admin.ch/snl/en/home/collections/special-collections18/musical-estates.html
-  [Yvonne Peters]: /contact.html
+  [Yvonne Peters]: /organization/contact.html

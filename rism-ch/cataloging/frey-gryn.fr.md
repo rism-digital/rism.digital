@@ -37,4 +37,4 @@ mieux comprendre la circulation du répertoire.
 
 Contact: [Claudio Bacciagaluppi]
 
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html

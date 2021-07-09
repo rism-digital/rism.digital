@@ -34,4 +34,4 @@ la supervision du responsable de la Bibliothèque et du RISM Suisse.
 
 Contact: [Claudio Bacciagaluppi]
 
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html

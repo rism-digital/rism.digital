@@ -46,4 +46,4 @@ Bern).
 
 Kontakt: [Claudio Bacciagaluppi]
 
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html

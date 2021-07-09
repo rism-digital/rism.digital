@@ -38,4 +38,4 @@ Musikdokumentation zu schliessen.
 Kontakt: [Florence Sidler]
 
   [Projekt Repertorium Schweizer Komponisten des 19. Jahrhunderts]: http://rism-ch.org/cataloging/repertorium.html/
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html

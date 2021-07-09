@@ -98,4 +98,4 @@ For questions about specific sources, please contact the owner
 institution. This also applies to organizational issues such as
 notifiying the library in advance of a visit, ordering a reproduction of
 the source, etc. For any other questions feel free to contact the RISM
-Switzerland. You will find our [contact](/contact.html) details on our website.
+Switzerland. You will find our [contact](/organization/contact.html) details on our website.

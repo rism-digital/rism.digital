@@ -33,4 +33,4 @@ RISM Switzerland.
 
 Contact: [Claudio Bacciagaluppi]
 
-  [Claudio Bacciagaluppi]: /contact.html
+  [Claudio Bacciagaluppi]: /organization/contact.html

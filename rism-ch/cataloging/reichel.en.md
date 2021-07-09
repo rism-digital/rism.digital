@@ -35,4 +35,4 @@ the area of Swiss music documentation.
 Contact: [Florence Sidler]
 
   [project Repertory of 19th century Swiss composers]: http://rism-ch.org/cataloging/repertorium.html?locale=en
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html

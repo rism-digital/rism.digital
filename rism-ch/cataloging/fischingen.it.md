@@ -44,4 +44,4 @@ monastero di Fischingen ha preso avvio il 19 maggio 2014.
 
 Contatto: [Florence Sidler]
 
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html

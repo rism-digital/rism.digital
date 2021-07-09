@@ -46,4 +46,4 @@ du monastère de Fischingen. Le projet Monastère Fischingen a commencé le
 
 Contact: [Florence Sidler]
 
-  [Florence Sidler]: /contact.html
+  [Florence Sidler]: /organization/contact.html

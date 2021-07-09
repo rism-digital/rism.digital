@@ -29,4 +29,4 @@ Bourgeoisie de Berne dans la base de données du RISM est actuellement de
 
 Contact: [Yvonne Peters]
 
-  [Yvonne Peters]: /contact.html
+  [Yvonne Peters]: /organization/contact.html

@@ -27,4 +27,4 @@ Altre fonti verranno presumibilmente catalogate nel 2016.
 
 Contatto: [Yvonne Peters]
 
-  [Yvonne Peters]: /contact.html
+  [Yvonne Peters]: /organization/contact.html
