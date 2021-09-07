@@ -6,9 +6,8 @@ lang: fr
 permalink: /rism-ch/projects/kapellmeisterbuch.html
 ---
 
-# Le 'Kapellmeisterbuch' d\'Einsiedln
+# Le 'Kapellmeisterbuch' d\'Einsiedeln
 
- {.hidden-xs style="float: right; margin: 0px 0px 10px 30px;"}
 ![][1]
 
 
@@ -21,7 +20,7 @@ un document unique et une ressource extrêmement précieuse pour les
 musicologues qui étudient la vie musicale Suisse au 19^ème^ siècle.
 
 Afin de mettre à la disposition des chercheurs ce livre de manière
-appropriée, il a été entièrement transcrit en TEI (Text Encoding
+appropriée, il a été entièrement transcrit en [TEI][2] (Text Encoding
 Initiative) et publié en ligne. La transcription TEI du
 Kapellmeisterbuch a permis la création de différents indexes, qui
 permettent à l\'utilisateur, à l\'utilisatrice la navigation par date,
@@ -32,31 +31,28 @@ parfois très difficile à lire, avoir la possibilité de fournir à
 l\'utilisateur, à l\'utilisatrice cette information est un atout de
 l\'approche choisie.
 
- {style="width: 150px; float: left; margin: 0px 30px 10px 0px;"}
-[![][2]]
+
+![][3]
 
 
 La transcription du Kapellmeisterbuch est une ressource en ligne
 réalisée en 2009-2010 par l\'Institut de musicologie de l\'Université de
 Fribourg et le bureau suisse du RISM, avec le soutien du Fonds national
 suisse („Musical Repertoire in Swiss Collegiate and Monastic Churches",
-projet n. 100012-124416).\
+projet n. 100012-124416).
 
-#### <http://d-lib.rism-ch.org/kapellmeisterbuch> {#httpd-lib.rism-ch.orgkapellmeisterbuch style="text-align: center;"}
+#### <http://d-lib.rism-ch.org/kapellmeisterbuch>
 
 Images: avec la permission de P. Lukas Helg OSB (Einsiedeln)
 
 Equipe du projet:
 
--   [Prof. Luca Zoppelli] (directeur)
--   [Claudio Bacciagaluppi]
--   [Luigi Collarile]\
--   [Laurent Pugin]
+-   [Prof. Luca Zoppelli](luca.zoppelli@unifr.ch) (directeur)
+-   [Claudio Bacciagaluppi](claudio.bacciagaluppi@rism.digital)
+-   [Luigi Collarile](luigi.collarile@hkb.bfh.ch)
+-   [Laurent Pugin](laurent.pugin@rism.digital)
 
   [1]: /images/rism_ch/einsiedeln_c.png
-  [2]: /images/rism_ch/tei_400-small200.jpg {width="150"}
-  [![][2]]: http://www.tei-c.org
-  [Prof. Luca Zoppelli]: mailto:luca.zoppelli@unifr.ch
-  [Claudio Bacciagaluppi]: mailto:claudio.bacciagaluppi@rism.digital
-  [Luigi Collarile]: mailto:luigi.collarile@unifr.ch
-  [Laurent Pugin]: mailto:laurent.pugin@rism.digital
+  [2]: http://www.tei-c.org
+  [3]: /images/rism_ch/tei_400-small200.jpg
+  

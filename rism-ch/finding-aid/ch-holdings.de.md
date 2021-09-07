@@ -977,7 +977,7 @@ Bestände verzeichnet in: RISM A/I; B/I; A/II.
 
 Literatur: RISM-Umfrage 1990.
 
-Von RISM erfasst wurden 5 Musikdrucke und 6 Handschriften. Der grösste Teil der Musikbibliothek stammte aus dem Nachlass vonder Elisabeth de Meuron-von Tscharner vom Schloss Rümlingen (gest. 1980). Die Musikdrucke stammten zum grossen Teil aus einem Abonnement bei einem Pariser Verlag des späten 18. Jahrhunderts. Daneben befanden sich in der Bibliothek rund 50 Bände mit Musikdrucken (Kirchenlieder) und auch Volksliedausgaben von 1676-1850. Der heutige Standort der Privatbibliothek von Hans Gugger (1921-2006) ist unbekannt. 
+Von RISM erfasst wurden 5 Musikdrucke und 6 Handschriften. Der grösste Teil der Musikbibliothek stammte aus dem Nachlass vonder Elisabeth de Meuron-von Tscharner vom Schloss Rümlingen (gest. 1980). Die Musikdrucke stammten zum grossen Teil aus einem Abonnement bei einem Pariser Verlag des späten 18. Jahrhunderts. Daneben befanden sich in der Bibliothek rund 50 Bände mit Musikdrucken (Kirchenlieder) und auch Volksliedausgaben von 1676-1850. Der heutige Standort der Privatbibliothek von Hans Gugger (1921-2006) ist nicht bekannt. 
 
 ## La Chaux-de-Fonds
 
@@ -1227,7 +1227,7 @@ Von RISM erfasst wurden ca. 380 Handschriften. Daneben ist eine unbekannte Zahl 
 
 ## Mels
 
-### Bibliothek des Kapuzinerklosters (CH-ME)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-ME)
+### [Bibliothek des Kapuzinerklosters (CH-ME)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-ME)
 
 Bestände verzeichnet in: RISM B/VIII.1.
 
@@ -1785,7 +1785,7 @@ Unter den ca. 70 Bänden im Bereich Musik finden sich neben einigen Kirchenliede
 
 ## Sursee
 
-### Bibliothek des Kapuzinerklosters (CH-SU)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH)
+### [Bibliothek des Kapuzinerklosters (CH-SU)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH)
 
 Bestände verzeichnet in: RISM B/VIII.1. 
 
@@ -2041,7 +2041,7 @@ Von RISM erfasst wurden Kirchenlieder vor 1800. Der heutige Standort (Stand: 201
 
 Bestände verzeichnet in: RISM B/VIII.1. 
 
-Von RISM erfasst wurden Kirchenlieder vor 1800. Der heutige Standort (Stand: 2018) ist nicht bekannt. 
+Von RISM erfasst wurden Kirchenlieder vor 1800.  
 
 ### [Privatbibliothek W. Lippuner (CH-Zlippuner)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-Zlippuner)
 
