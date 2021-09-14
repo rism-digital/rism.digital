@@ -40,6 +40,14 @@ jobs:
       # Tune the jekyll action
       - uses:  lemonarc/jekyll-action@1.0.0
 
+      
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      - run: |
+          npm install lunr
+          node _site/assets/js/build_index.js _site/assets/js/pages.json
+      
       - name: Set server to deployment if on staging branch
         if: endsWith(github.ref, '/staging')
         run: |
