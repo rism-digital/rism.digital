@@ -6,7 +6,7 @@ lang: fr
 permalink: /rism-ch/cds/cd-marenzio.html
 ---
 
-# Il Pasto Fido -- Luca Marenzio
+# Il Pastor Fido -- Luca Marenzio
 
 <div style="float: right; margin: 0px 0px 0px 30px;" class="is-hidden-mobile">
     <img src="/images/rism_ch/cd_marenzio.jpg">
