@@ -46,7 +46,7 @@ jobs:
           node-version: '16'
       - run: |
           npm install lunr
-          node _site/assets/js/build_index.js < _site/assets/js/pages.json > _site/index.json
+          node _site/assets/js/build_index.js < _site/assets/js/pages.json > index.json
       
       - name: Set server to deployment if on staging branch
         if: endsWith(github.ref, '/staging')
