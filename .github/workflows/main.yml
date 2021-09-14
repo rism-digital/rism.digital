@@ -47,8 +47,8 @@ jobs:
       - run: |
           npm install lunr
           cat _site/assets/js/pages.json
-          sleep 10
-          node _site/assets/js/build_index.js _site/assets/js/pages.json
+          #sleep 10
+          #node _site/assets/js/build_index.js _site/assets/js/pages.json
       
       - name: Set server to deployment if on staging branch
         if: endsWith(github.ref, '/staging')
