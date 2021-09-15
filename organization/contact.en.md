@@ -1,5 +1,5 @@
 ---
-title: contact
+title: "Contact"
 layout: organization
 show_posts: false
 lang: en
