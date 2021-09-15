@@ -14,10 +14,10 @@ GIT
 
 GIT
   remote: https://github.com/rism-digital/rism-website-indexer
-  revision: 294e961fdeb9f88b4733bda4de1e8cd7ca40cb17
+  revision: a81ffac647cfe36f3011eaca4476b60714b811fc
   branch: main
   specs:
-    rism-website-indexer (1.0.2)
+    rism-website-indexer (1.0.3)
       jekyll (~> 4.1)
 
 GEM
