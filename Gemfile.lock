@@ -7,9 +7,17 @@ GIT
 
 GIT
   remote: https://github.com/rism-digital/rism-theme
-  revision: 750e5f5ea8358d2e7c729f91d6193a7bd457601d
+  revision: 0211802faba42ef6b1e7f6fee295a73ae220b6ee
   specs:
-    rism-theme (0.1.58)
+    rism-theme (0.1.59)
+      jekyll (~> 4.1)
+
+GIT
+  remote: https://github.com/rism-digital/rism-website-indexer
+  revision: 294e961fdeb9f88b4733bda4de1e8cd7ca40cb17
+  branch: main
+  specs:
+    rism-website-indexer (1.0.2)
       jekyll (~> 4.1)
 
 GEM
@@ -90,6 +98,7 @@ DEPENDENCIES
   jekyll-seo-tag
   rism-md!
   rism-theme!
+  rism-website-indexer!
 
 BUNDLED WITH
    2.1.4
