@@ -1,5 +1,5 @@
 ---
-title: press
+title: "Press articles"
 layout: organization
 show_posts: false
 lang: en
