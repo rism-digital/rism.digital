@@ -3,6 +3,7 @@ title: "Homepage"
 layout: default
 hide_navbar: true
 show_posts: false
+index_all_lang: true
 lang: en
 permalink: /index.html
 

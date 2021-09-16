@@ -2,6 +2,7 @@
 title: "Press articles"
 layout: organization
 show_posts: false
+index_all_lang: true
 lang: en
 permalink: /organization/press.html
 
