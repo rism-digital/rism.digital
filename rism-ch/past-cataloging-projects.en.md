@@ -1,5 +1,5 @@
 ---
-title: past-cataloging
+title: "Past projects"
 layout: cataloging
 show_posts: false
 lang: en

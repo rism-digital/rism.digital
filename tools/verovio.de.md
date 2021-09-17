@@ -1,5 +1,5 @@
 ---
-title: verovio
+title: "Verovio"
 layout: tools
 show_posts: false
 lang: de

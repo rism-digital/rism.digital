@@ -1,4 +1,5 @@
 ---
+title: "Bibliotheken und Archive mit Musikbestände"
 layout: finding-aid
 lang: de
 permalink: /rism-ch/finding-aid/ch-holdings.html

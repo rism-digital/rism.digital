@@ -1,4 +1,5 @@
 ---
+title: "Biblioteche ed archivi con patrimonio musicale"
 layout: finding-aid
 lang: it
 permalink: /rism-ch/finding-aid/ch-holdings.html
