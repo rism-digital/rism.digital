@@ -7,17 +7,17 @@ GIT
 
 GIT
   remote: https://github.com/rism-digital/rism-theme
-  revision: 524cd91e954c985c86b39cec9c744f1331c5a4cd
+  revision: 26d37d014b490fe6a983a3c6906d0246467fce29
   specs:
-    rism-theme (0.1.62)
+    rism-theme (0.1.63)
       jekyll (~> 4.1)
 
 GIT
   remote: https://github.com/rism-digital/rism-website-indexer
-  revision: e4fc71146ac3a0f6ef4ee0939784220e57cc3e50
+  revision: a3c2b0486d7a8bbaf574a8893ed80ff64faee863
   branch: main
   specs:
-    rism-website-indexer (1.0.4)
+    rism-website-indexer (1.0.5)
       jekyll (~> 4.1)
 
 GEM
