@@ -7,9 +7,9 @@ GIT
 
 GIT
   remote: https://github.com/rism-digital/rism-theme
-  revision: d36f914fbdbc152ba32b600870e9c6e243659dc0
+  revision: 603625627396e9a2b980134165d169a851b229ef
   specs:
-    rism-theme (0.1.71)
+    rism-theme (0.1.72)
       jekyll (~> 4.1)
 
 GIT
@@ -27,14 +27,14 @@ GEM
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.9)
-    em-websocket (0.5.2)
+    em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
-      http_parser.rb (~> 0.6.0)
+      http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.15.4)
     forwardable-extended (2.6.0)
-    http_parser.rb (0.6.0)
-    i18n (1.8.10)
+    http_parser.rb (0.8.0)
+    i18n (1.8.11)
       concurrent-ruby (~> 1.0)
     jekyll (4.1.1)
       addressable (~> 2.4)
