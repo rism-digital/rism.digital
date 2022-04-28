@@ -1,10 +1,10 @@
 name: Jekyll deployment
 
 # Controls when the action will run. Triggers the workflow on push
-# events but only for the master and staging branches
+# events but only for the main and staging branches
 on:
   push:
-    branches: [ master, staging ]
+    branches: [ main, staging ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -25,17 +25,13 @@ jobs:
         run: |
           sudo apt install openresolv wireguard
 
-      - uses: actions/setup-ruby@v1
-        with:
-          ruby-version: '2.6'
-
       # Use GitHub Actions' cache to shorten build times and decrease load on servers
       - uses: actions/cache@v2.1.0
         with:
           path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}-v2
           restore-keys: |
-            ${{ runner.os }}-gems-
+            ${{ runner.os }}-gems-v2-
 
       # Tune the jekyll action
       - uses:  lemonarc/jekyll-action@1.0.0
@@ -57,8 +53,8 @@ jobs:
           echo "DEPLOY_SERVER=${{ secrets.DEPLOY_STAGING_SERVER }}" >> $GITHUB_ENV
           echo "DEPLOY_PATH=${{ secrets.DEPLOY_STAGING_PATH }}" >> $GITHUB_ENV
 
-      - name: Set server to production if on master branch
-        if: endsWith(github.ref, '/master')
+      - name: Set server to production if on main branch
+        if: endsWith(github.ref, '/main')
         run: |
           echo "DEPLOY_SERVER=${{ secrets.DEPLOY_PRODUCTION_SERVER }}" >> $GITHUB_ENV
           echo "DEPLOY_PATH=${{ secrets.DEPLOY_PRODUCTION_PATH }}" >> $GITHUB_ENV
