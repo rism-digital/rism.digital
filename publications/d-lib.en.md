@@ -44,7 +44,7 @@ Initiative]{:target="_blank"}).
 ## Published volumes
 
 * [OnStage](http://onstage.rism-ch.org/)
-* [Kapellmeisterbuch](http://d-lib.rism-ch.org/kapellmeisterbuch)
+* [Kapellmeisterbuch](https://kapellmeisterbuch.rism.digital)
 
 RISM digital library (d-lib), ISSN 2297-573X
 
