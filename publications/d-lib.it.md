@@ -45,7 +45,7 @@ indicizzazione utilizzano lo standard TEI ([Text Encoding Initiative]{:target="_
 ## Volumi pubblicati
 
 * [OnStage](http://onstage.rism-ch.org/)
-* [Kapellmeisterbuch](http://d-lib.rism-ch.org/kapellmeisterbuch)
+* [Kapellmeisterbuch](https://kapellmeisterbuch.rism.digital)
 
 RISM digital library (d-lib), ISSN 2297-573X
 
