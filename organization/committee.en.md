@@ -29,13 +29,13 @@ permalink: /organization/committee.html
     <div class="columns">
         <div class="column is-half-desktop">
             <p>
-    			Prof. Dr. Thomas Drescher<br>
-    			Musik-Akademie Basel
+    			Prof. Dr. Martin Kirnbauer<br>
+    			Schola Cantorum Basiliensis
             </p>
         </div>
         <div class="column is-half-desktop">
             <p>
-    			Dr. Urs Fischer<br>
+    			Angelika Salge<br>
     			Zentralbibliothek Zürich
             </p>
         </div>
