@@ -5,7 +5,7 @@ lang: fr
 permalink: /rism-ch.html
 ---
 
-{% include muscat-search.html text="Données du RISM Suisse dans Muscat" placeholder="Chercher" %}
+{% include muscat-search.html text="Données du RISM Suisse dans RISM Online" placeholder="Chercher" %}
 
 # RISM Suisse
 
