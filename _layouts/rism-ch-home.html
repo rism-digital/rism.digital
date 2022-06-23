@@ -21,7 +21,8 @@ nav: /rism-ch.html
 
     function muscat() {
         var search = document.getElementById("muscat-search-term").value;
-        var link = "http://www.rism-ch.org/catalog?search_field=any_field&q=" + search + "&locale={{ site.active_lang }}"
+        // var link = "http://www.rism-ch.org/catalog?search_field=any_field&q=" + search + "&locale={{ site.active_lang }}";
+        var link = "https://rism.online/search?nc=CH&mode=sources&q=" + search;
         window.location.href = link; 
     }
 </script>
