@@ -5,7 +5,7 @@ lang: en
 permalink: /rism-ch.html
 ---
 
-{% include muscat-search.html text="RISM Switzerland dataset in Muscat" placeholder="Search" %}
+{% include muscat-search.html text="RISM Switzerland dataset in RISM Online" placeholder="Search" %}
 
 # RISM Switzerland
 
