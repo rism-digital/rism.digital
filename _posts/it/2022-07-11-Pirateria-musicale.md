@@ -4,7 +4,7 @@ search: true
 title: Pirateria musicale
 date: 2022-07-11
 post: true
-lang: de
+lang: it
 image: "/images/news/News-pirateria.jpeg"
 ---
 
