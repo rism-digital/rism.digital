@@ -1,8 +1,7 @@
-
 ---
 layout: rism-ch-post
 search: true
-title: Digitalisierung Einsielder Unikate
+title: Digitale Quellen aus Einsiedeln
 date: 2022-09-21
 post: true
 lang: de
