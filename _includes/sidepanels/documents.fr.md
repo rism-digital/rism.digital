@@ -17,3 +17,4 @@
 * [Rapport annuel 2018](/resources/Jahresbericht-2018-f-web.pdf)
 * [Rapport annuel 2019](/resources/Jahresbericht-2019-f-web.pdf)
 * [Rapport annuel 2020](/resources/Jahresbericht-2020-f-web.pdf)
+* [Rapport annuel 2021](/resources/Jahresbericht-2021-f-web.pdf)
