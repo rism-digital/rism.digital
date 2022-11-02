@@ -17,3 +17,5 @@
 * [Annual report 2018](/resources/Jahresbericht-2018-d-web.pdf)
 * [Annual report 2019](/resources/Jahresbericht-2019-d-web.pdf)
 * [Annual report 2020](/resources/Jahresbericht-2020-d-web.pdf)
+* [Annual report 2021](/resources/Jahresbericht-2021-d-web.pdf)
+* 
