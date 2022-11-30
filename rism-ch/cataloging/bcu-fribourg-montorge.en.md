@@ -1,9 +1,9 @@
 ---
 title: "BCU Fribourg"
-layout: cataloging
+layout: past-cataloging
 show_posts: false
 lang: en
-permalink: /rism-ch/cataloging/bcu-fribourg.html
+permalink: /rism-ch/cataloging/bcu-fribourg-montorge.html
 ---
 
 # Collection of the Convent of Montorge

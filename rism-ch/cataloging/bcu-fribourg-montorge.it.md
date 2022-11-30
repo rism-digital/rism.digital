@@ -3,7 +3,7 @@ title: "BCU Fribourg"
 layout: past-cataloging
 show_posts: false
 lang: it
-permalink: /rism-ch/cataloging/bcu-fribourg.html
+permalink: /rism-ch/cataloging/bcu-fribourg-montorge.html
 ---
 
 # Collezione del Monastero di Montorge
