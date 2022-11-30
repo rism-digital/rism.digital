@@ -22,6 +22,15 @@ propre de la messe. Les compositeurs sont principalement d\'Italie ou du
 sud de l\'Allemagne. Cependant, le compositeur n'a pu être identifié
 pour une partie non négligeable des manuscrits.
 
-Contact: [Florence Sidler]
 
-  [Florence Sidler]: /organization/contact.html
+#### Contact
+
+Florence Sidler
+
+Kantons- und Universitätsbibliothek KUB, Bibliothèque cantonale et universitaire BCU
+Rue de la Carrière 22
+Postfach
+1701 Fribourg
+
+Tel: +41 (0)26 305 13 33
+Formulaire de contact: [https://www.fr.ch/de/kub/kontakt]

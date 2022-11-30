@@ -37,7 +37,19 @@ and dissemination of the work of this fascinating and unjustly forgotten
 Swiss composer. The project started on 13 July 2015 and its completion
 is planned for the end of the year.
 
-Contact: [Florence Sidler]
+
+#### Contact
+
+Aurore Cala-Fontannaz
+
+Association Niedermeyer
+Villa Niedermeyer
+Route de Genève 6
+1260 Nyon
+
+Web: [https://www.niedermeyer-nyon.ch]
+Contact: [info@niedermeyer-nyon.ch]
+
 
 #### Press article
 

@@ -44,6 +44,15 @@ anlässlich des 100 jährigen Geburtstags des Komponisten, erschlossenen
 Nachlass in der Nationalbibliothek dar. Sein Schaffen deckt von Kammer-
 und Orchesterwerke bis hin zu Bühnen- und Filmmusik alle Gattungen ab.
 
-Kontakt: [Florence Sidler]
 
-  [Florence Sidler]: /organization/contact.html
+#### Auskunft
+
+Verena Monnier
+
+Kantons- und Universitätsbibliothek Lausanne, Bibliothèque cantonale et universitaire Lausanne
+Place de la Riponne CP
+1014 Lausanne
+
+Tel: +41 (0)21 316 78 33
+Web: [https://www.bcu-lausanne.ch/collections-patrimoine/archives-musicales/]
+

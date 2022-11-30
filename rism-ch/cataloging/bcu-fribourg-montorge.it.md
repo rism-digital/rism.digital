@@ -23,6 +23,15 @@ dall\'Italia o dalla Germania meridionale. Tuttavia, per una parte
 significativa dei manoscritti il compositore non ha potuto essere
 identificato.
 
-Contatto: [Florence Sidler]
 
-  [Florence Sidler]: /organization/contact.html
+#### Contatto
+
+Florence Sidler
+
+Kantons- und Universitätsbibliothek KUB, Bibliothèque cantonale et universitaire BCU
+Rue de la Carrière 22
+Postfach
+1701 Fribourg
+
+Tel: +41 (0)26 305 13 33
+Formulario di contatto: [https://www.fr.ch/de/kub/kontakt]
