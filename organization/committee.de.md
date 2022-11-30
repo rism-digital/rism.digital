@@ -68,6 +68,7 @@ permalink: /organization/committee.html
     			Universität Bern
             </p>
         </div>
+    </div>
     <div class="columns">
         <div class="column is-half-desktop">
             <p>
