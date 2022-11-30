@@ -42,13 +42,13 @@ is planned for the end of the year.
 
 Aurore Cala-Fontannaz
 
-Association Niedermeyer
-Villa Niedermeyer
-Route de Genève 6
+Association Niedermeyer<br>
+Villa Niedermeyer<br>
+Route de Genève 6<br>
 1260 Nyon
 
-Web: [https://www.niedermeyer-nyon.ch]
-Contact: [info@niedermeyer-nyon.ch]
+Web: <https://www.niedermeyer-nyon.ch>
+Contact: <info@niedermeyer-nyon.ch>
 
 
 #### Press article
@@ -56,4 +56,3 @@ Contact: [info@niedermeyer-nyon.ch]
 {% include common/niedermeyer-press.html %}
 
   [Association Niedermeyer]: http://www.niedermeyer-nyon.ch%20
-  [Florence Sidler]: /organization/contact.html

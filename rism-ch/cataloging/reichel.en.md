@@ -39,7 +39,7 @@ Musikbibliothek der Hochschule der Künste Bern<br>
 Papiermühlestrasse 13j<br>
 3000 Bern
 
-Web: https://www.hkb.bfh.ch/de/ueber-die-hkb/standorte-infrastruktur/bibliotheken/bibliothek-hkb-musik/
+Web: <https://www.hkb.bfh.ch/de/ueber-die-hkb/standorte-infrastruktur/bibliotheken/bibliothek-hkb-musik>
 
 
   [project Repertory of 19th century Swiss composers]: http://rism-ch.org/cataloging/repertorium.html?locale=en

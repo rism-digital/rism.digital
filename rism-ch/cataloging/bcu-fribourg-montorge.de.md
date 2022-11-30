@@ -34,5 +34,5 @@ Postfach<br>
 1701 Fribourg
 
 Tel: +41 (0)26 305 13 33<br>
-Kontaktformular: https://www.fr.ch/de/kub/kontakt
+Kontaktformular: <https://www.fr.ch/de/kub/kontakt>
 
