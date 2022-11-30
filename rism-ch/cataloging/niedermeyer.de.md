@@ -46,7 +46,7 @@ Villa Niedermeyer<br>
 Route de Genève 6<br>
 1260 Nyon
 
-Web: <https://www.niedermeyer-nyon.ch>
+Web: <https://www.niedermeyer-nyon.ch><br>
 Kontakt: <info@niedermeyer-nyon.ch>
 
 
