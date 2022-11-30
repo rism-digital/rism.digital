@@ -22,6 +22,15 @@ the ordinary and the proper of the Mass. The composers are mainly from
 Italy or southern Germany. However, the composer could not be identified
 for a significant part of the manuscripts.
 
-Contact: [Florence Sidler]
 
-  [Florence Sidler]: /organization/contact.html
+#### Contact
+
+Florence Sidler
+
+Kantons- und Universitätsbibliothek KUB, Bibliothèque cantonale et universitaire BCU
+Rue de la Carrière 22
+Postfach
+1701 Fribourg
+
+Tel: +41 (0)26 305 13 33
+Contact form: [https://www.fr.ch/de/kub/kontakt]

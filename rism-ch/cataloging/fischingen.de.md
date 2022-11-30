@@ -46,6 +46,11 @@ Ermöglicht wird dieses Inventarisierungsprojekt durch den Verein Freunde
 des Klosters Fischingen. Das Projekt Kloster Fischingen wurde am 19. Mai
 2014 in Angriff genommen.
 
-Kontakt: [Florence Sidler]
 
-  [Florence Sidler]: /organization/contact.html
+#### Auskunft
+
+Staatsarchiv Thurgau
+Zürcherstrasse 221
+8500 Frauenfeld
+
+Tel: +41 (0)58 345 16 00

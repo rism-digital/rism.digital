@@ -34,7 +34,15 @@ Le catalogage du fonds d'Adolf Reichel fait partie du [projet Répertoire
 des compositeurs suisses au 19e siècle] dont l'objectif est de combler
 des lacunes dans le secteur de la documentation musicale suisse.
 
-Contact: [Florence Sidler]
+
+#### Contact
+
+Musikbibliothek der Hochschule der Künste Bern
+Papiermühlestrasse 13j
+3000 Bern
+
+Web: [https://www.hkb.bfh.ch/de/ueber-die-hkb/standorte-infrastruktur/bibliotheken/bibliothek-hkb-musik/]
+
 
   [projet Répertoire des compositeurs suisses au 19e siècle]: http://rism-ch.org/cataloging/repertorium.html?locale=fr
   [Florence Sidler]: /organization/contact.html

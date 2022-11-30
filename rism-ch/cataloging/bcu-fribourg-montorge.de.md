@@ -23,6 +23,16 @@ Italien oder dem süddeutschen Raum. Bei einem nicht unerheblichen Teil
 der Manuskripte konnte der Komponist allerdings nicht ausfindig gemacht
 werden.
 
-Kontakt: [Florence Sidler]
 
-  [Florence Sidler]: /organization/contact.html
+#### Auskunft
+
+Florence Sidler
+
+Kantons- und Universitätsbibliothek KUB, Bibliothèque cantonale et universitaire BCU
+Rue de la Carrière 22
+Postfach
+1701 Fribourg
+
+Tel: +41 (0)26 305 13 33
+Kontaktformular: [https://www.fr.ch/de/kub/kontakt]
+

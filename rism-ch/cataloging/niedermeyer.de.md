@@ -36,7 +36,19 @@ Anerkennung des Oeuvres dieses faszinierenden und zu unrecht vergessenen
 Schweizer Komponisten beitragen. Das Projekt wurde am 13. Juli 2015 in
 Angriff genommen und wird voraussichtlich Ende Jahr abgeschlossen.
 
-Kontakt: [Florence Sidler]
+
+#### Auskunft
+
+Aurore Cala-Fontannaz
+
+Association Niedermeyer
+Villa Niedermeyer
+Route de Genève 6
+1260 Nyon
+
+Web: [https://www.niedermeyer-nyon.ch]
+Kontakt: [info@niedermeyer-nyon.ch]
+
 
 #### Zeitungsartikel
 

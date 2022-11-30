@@ -44,6 +44,14 @@ in 2011 on the occasion of the 100th birthday of the composer. His work
 covers every genre of music, from chamber and orchestral works to stage
 and film music.
 
-Contact: [Florence Sidler]
 
-  [Florence Sidler]: /organization/contact.html
+#### Contact
+
+Verena Monnier
+
+Kantons- und Universitätsbibliothek Lausanne, Bibliothèque cantonale et universitaire Lausanne
+Place de la Riponne CP
+1014 Lausanne
+
+Tel: +41 (0)21 316 78 33
+Web: [https://www.bcu-lausanne.ch/collections-patrimoine/archives-musicales/]

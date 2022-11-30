@@ -45,6 +45,15 @@ nascita del compositore. La sua opera comprende tutti i generi musicali,
 da composizioni cameristiche e orchestrali fino a composizioni per il
 teatro e colonne sonore per film.
 
-Contatto: [Florence Sidler]
 
-  [Florence Sidler]: /organization/contact.html
+#### Contatto
+
+Verena Monnier
+
+Kantons- und Universitätsbibliothek Lausanne, Bibliothèque cantonale et universitaire Lausanne
+Place de la Riponne CP
+1014 Lausanne
+
+Tel: +41 (0)21 316 78 33
+Web: [https://www.bcu-lausanne.ch/collections-patrimoine/archives-musicales/]
+
