@@ -28,10 +28,10 @@ identificato.
 
 Florence Sidler
 
-Kantons- und Universitätsbibliothek KUB, Bibliothèque cantonale et universitaire BCU
-Rue de la Carrière 22
-Postfach
+Kantons- und Universitätsbibliothek KUB, Bibliothèque cantonale et universitaire BCU<br>
+Rue de la Carrière 22<br>
+Postfach<br>
 1701 Fribourg
 
-Tel: +41 (0)26 305 13 33
-Formulario di contatto: [https://www.fr.ch/de/kub/kontakt]
+Tel: +41 (0)26 305 13 33<br>
+Formulario di contatto: https://www.fr.ch/de/kub/kontakt

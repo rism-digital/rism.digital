@@ -49,9 +49,9 @@ and film music.
 
 Verena Monnier
 
-Kantons- und Universitätsbibliothek Lausanne, Bibliothèque cantonale et universitaire Lausanne
-Place de la Riponne CP
+Kantons- und Universitätsbibliothek Lausanne, Bibliothèque cantonale et universitaire Lausanne<br>
+Place de la Riponne CP<br>
 1014 Lausanne
 
-Tel: +41 (0)21 316 78 33
-Web: [https://www.bcu-lausanne.ch/collections-patrimoine/archives-musicales/]
+Tel: +41 (0)21 316 78 33<br>
+Web: https://www.bcu-lausanne.ch/collections-patrimoine/archives-musicales/

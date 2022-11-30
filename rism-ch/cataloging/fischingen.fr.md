@@ -46,8 +46,8 @@ du monastère de Fischingen. Le projet Monastère Fischingen a commencé le
 
 #### Contact
 
-Staatsarchiv Thurgau
-Zürcherstrasse 221
+Staatsarchiv Thurgau<br>
+Zürcherstrasse 221<br>
 8500 Frauenfeld
 
 Tel: +41 (0)58 345 16 00

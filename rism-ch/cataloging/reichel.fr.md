@@ -37,12 +37,11 @@ des lacunes dans le secteur de la documentation musicale suisse.
 
 #### Contact
 
-Musikbibliothek der Hochschule der Künste Bern
-Papiermühlestrasse 13j
+Musikbibliothek der Hochschule der Künste Bern<br>
+Papiermühlestrasse 13j<br>
 3000 Bern
 
-Web: [https://www.hkb.bfh.ch/de/ueber-die-hkb/standorte-infrastruktur/bibliotheken/bibliothek-hkb-musik/]
+Web: https://www.hkb.bfh.ch/de/ueber-die-hkb/standorte-infrastruktur/bibliotheken/bibliothek-hkb-musik/
 
 
   [projet Répertoire des compositeurs suisses au 19e siècle]: http://rism-ch.org/cataloging/repertorium.html?locale=fr
-  [Florence Sidler]: /organization/contact.html
