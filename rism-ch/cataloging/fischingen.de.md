@@ -49,8 +49,8 @@ des Klosters Fischingen. Das Projekt Kloster Fischingen wurde am 19. Mai
 
 #### Auskunft
 
-Staatsarchiv Thurgau
-Zürcherstrasse 221
+Staatsarchiv Thurgau<br>
+Zürcherstrasse 221<br>
 8500 Frauenfeld
 
 Tel: +41 (0)58 345 16 00
