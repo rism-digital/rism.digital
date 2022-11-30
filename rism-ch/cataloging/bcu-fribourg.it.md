@@ -1,28 +1,15 @@
 ---
 title: "BCU Fribourg"
-layout: past-cataloging
+layout: cataloging
 show_posts: false
 lang: it
 permalink: /rism-ch/cataloging/bcu-fribourg.html
 ---
 
-# Collezione del Monastero di Montorge
+# Bestand aus dem Musikwissenschaftlichen Institut Fribourg
 
-La collezione musicale del monastero di Montorge è stata trasferita alla
-Biblioteca universitaria e cantonale di Friburgo dall\'Istituto di
-Musicologia dell\'Università di Friburgo nel 2016. La collezione
-riflette da un lato il repertorio musicale spirituale e liturgico delle
-suore cappuccine del XVIII e XIX secolo e, dall\'altro, rivela diversi
-legami con le collezioni musicali dei monasteri di Einsiedeln e
-Beromünster e con l\'abbazia femminile di Sant\'Andrea di Sarnen. Gran
-parte della collezione musicale di Montorge è composta da manoscritti.
-Tuttavia, ci sono anche alcuni documenti stampati. Oltre ai brani
-destinati alla liturgia delle ore, ci sono fonti per l\'ordinario e il
-proprio della Messa. I compositori provengono principalmente
-dall\'Italia o dalla Germania meridionale. Tuttavia, per una parte
-significativa dei manoscritti il compositore non ha potuto essere
-identificato.
+Der Musikbestand aus dem Musikwissenschaftlichen Institut Freiburg wurde vor einigen Jahren der Universitäts- und Kantonsbibliothek Freiburg geschenkt. Der Bestand ist sehr heterogen und beinhaltet diverse Materialschichten. Von Drucken bis Handschriften ist alles vorhanden, darunter auch nicht gerade eine geringe Anzahl von Fragmenten. Durch die Erschliessung von diesem interessanten Bestand wird das älteste wissenschaftliche Musikinstitut der Schweiz beleuchtet – erster Lehrstuhl im Jahre 1893 unter Peter Wagner –  und wichtiges Freiburger Kulturgut der Öffentlichkeit zugänglich gemacht. 
 
-Contatto: [Florence Sidler]
+Kontakt: [Lynn Beutler]
 
-  [Florence Sidler]: /organization/contact.html
+  [Lynn Beutler]: /organization/contact.html
