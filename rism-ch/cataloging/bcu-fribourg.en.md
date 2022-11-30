@@ -6,22 +6,10 @@ lang: en
 permalink: /rism-ch/cataloging/bcu-fribourg.html
 ---
 
-# Collection of the Convent of Montorge
+# Bestand aus dem Musikwissenschaftlichen Institut Fribourg
 
-The music collection of the Convent of Montorge was transferred to the
-University and Cantonal Library of Fribourg by the Institute of
-Musicology of the University of Fribourg in 2016. The collection
-reflects on the one hand the sacred and liturgical music repertoire of
-the Capuchin sisters in the 18th and 19th centuries and, on the other
-hand, reveals several links with the music collections of the
-monasteries of Einsiedeln and Beromünster and with the female abbey of
-St Andrew\'s in Sarnen. A large part of Montorge\'s music collection
-consists of manuscripts. However, there are also some printed documents.
-In addition to the vocal music for the service, there are sources for
-the ordinary and the proper of the Mass. The composers are mainly from
-Italy or southern Germany. However, the composer could not be identified
-for a significant part of the manuscripts.
+Der Musikbestand aus dem Musikwissenschaftlichen Institut Freiburg wurde vor einigen Jahren der Universitäts- und Kantonsbibliothek Freiburg geschenkt. Der Bestand ist sehr heterogen und beinhaltet diverse Materialschichten. Von Drucken bis Handschriften ist alles vorhanden, darunter auch nicht gerade eine geringe Anzahl von Fragmenten. Durch die Erschliessung von diesem interessanten Bestand wird das älteste wissenschaftliche Musikinstitut der Schweiz beleuchtet – erster Lehrstuhl im Jahre 1893 unter Peter Wagner –  und wichtiges Freiburger Kulturgut der Öffentlichkeit zugänglich gemacht. 
 
-Contact: [Florence Sidler]
+Kontakt: [Lynn Beutler]
 
-  [Florence Sidler]: /organization/contact.html
+  [Lynn Beutler]: /organization/contact.html

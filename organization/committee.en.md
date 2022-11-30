@@ -67,6 +67,14 @@ permalink: /organization/committee.html
     			Institut für Musikwissenschaft<br>
     			Universität Bern
             </p>
-        </div>
+        </div>     
     </div>
+    <div class="columns">
+        <div class="column is-half-desktop">
+            <p>
+    			Dr. Balázs Mikusi<br>
+                RISM Editorial Center<br>
+            </p>
+        </div>
+    </div>          
 </div>

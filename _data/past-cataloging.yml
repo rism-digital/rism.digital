@@ -35,6 +35,12 @@
         it: "BCU Lausanne"
       link: /rism-ch/cataloging/bcu-lausanne.html
     - name:
+        de: "BCU Fribourg"
+        en: "BCU Fribourg"
+        fr: "BCU Fribourg"
+        it: "BCU Fribourg"
+      link: /rism-ch/cataloging/bcu-fribourg-montorge.html
+    - name:
         de: "Louis Niedermeyer"
         en: "Louis Niedermeyer"
         fr: "Louis Niedermeyer"

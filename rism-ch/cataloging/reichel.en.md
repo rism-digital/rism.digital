@@ -32,7 +32,14 @@ The cataloging of the Adolf Reichel collection is part of the [project
 Repertory of 19th century Swiss composers] that aims to fill a gap in
 the area of Swiss music documentation.
 
-Contact: [Florence Sidler]
+
+#### Contact
+
+Musikbibliothek der Hochschule der Künste Bern<br>
+Papiermühlestrasse 13j<br>
+3000 Bern
+
+Web: <https://www.hkb.bfh.ch/de/ueber-die-hkb/standorte-infrastruktur/bibliotheken/bibliothek-hkb-musik>
+
 
   [project Repertory of 19th century Swiss composers]: http://rism-ch.org/cataloging/repertorium.html?locale=en
-  [Florence Sidler]: /organization/contact.html

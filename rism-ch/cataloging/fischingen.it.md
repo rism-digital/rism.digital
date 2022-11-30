@@ -42,6 +42,11 @@ Questo progetto di catalogazione è reso possibile dall\'appoggio
 dell\'Associazione amici del monastero di Fischingen. Il progetto
 monastero di Fischingen ha preso avvio il 19 maggio 2014.
 
-Contatto: [Florence Sidler]
 
-  [Florence Sidler]: /organization/contact.html
+#### Contatto
+
+Staatsarchiv Thurgau<br>
+Zürcherstrasse 221<br>
+8500 Frauenfeld
+
+Tel: +41 (0)58 345 16 00

@@ -38,11 +38,22 @@ ingiustamente dimenticato compositore svizzero. Il progetto ha avuto
 inizio il 13 luglio 2015 e il suo completamento è previsto per la fine
 del 2015.
 
-Contatto: [Florence Sidler]
+
+#### Contatto
+
+Aurore Cala-Fontannaz
+
+Association Niedermeyer<br>
+Villa Niedermeyer<br>
+Route de Genève 6<br>
+1260 Nyon
+
+Web: <https://www.niedermeyer-nyon.ch><br>
+Contatto: <info@niedermeyer-nyon.ch>
+
 
 #### Articolo della stampa
 
 {% include common/niedermeyer-press.html %}
 
   [dall\'Associazione Niedermeyer]: http://www.niedermeyer-nyon.ch%20
-  [Florence Sidler]: /organization/contact.html
