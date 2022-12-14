@@ -22,6 +22,7 @@ the ordinary and the proper of the Mass. The composers are mainly from
 Italy or southern Germany. However, the composer could not be identified
 for a significant part of the manuscripts.
 
+Link: [Fri-Memoria](https://fri-memoria.bcu-fribourg.ch/fonds-musical-du-monastere-montorge)
 
 #### Contact
 
