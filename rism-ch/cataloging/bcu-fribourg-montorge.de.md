@@ -23,6 +23,7 @@ Italien oder dem süddeutschen Raum. Bei einem nicht unerheblichen Teil
 der Manuskripte konnte der Komponist allerdings nicht ausfindig gemacht
 werden.
 
+Link: [Fri-Memoria](https://fri-memoria.bcu-fribourg.ch/fonds-musical-du-monastere-montorge)
 
 #### Auskunft
 

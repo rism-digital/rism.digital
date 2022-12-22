@@ -23,6 +23,7 @@ dall\'Italia o dalla Germania meridionale. Tuttavia, per una parte
 significativa dei manoscritti il compositore non ha potuto essere
 identificato.
 
+Link: [Fri-Memoria](https://fri-memoria.bcu-fribourg.ch/fonds-musical-du-monastere-montorge)
 
 #### Contatto
 
