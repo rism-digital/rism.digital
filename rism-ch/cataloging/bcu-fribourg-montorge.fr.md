@@ -22,6 +22,7 @@ propre de la messe. Les compositeurs sont principalement d\'Italie ou du
 sud de l\'Allemagne. Cependant, le compositeur n'a pu être identifié
 pour une partie non négligeable des manuscrits.
 
+Link: [Fri-Memoria](https://fri-memoria.bcu-fribourg.ch/fonds-musical-du-monastere-montorge)
 
 #### Contact
 
