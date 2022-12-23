@@ -37,22 +37,22 @@ tiles:
             it: "Il RISM Digital Center è la sede del RISM Svizzera, l'ufficio nazionale svizzero del RISM. Ha sede presso la Biblioteca nazionale svizzera di Berna e dal 1956 cataloga manoscritti musicali e fonti musicali a stampa nelle biblioteche e negli archivi svizzeri. Scoprite di più sulle sue attività e sulle sue risorse per trovare e utilizzare le fonti musicali svizzere."
 
     news:
-        image: news.png
-        link: https://rism.info/news-archive/rism_digital_center/
+        image: rismonline.png
+        link: https://rism.online
         blank: true
         titles:
-            en: "News"
-            de: "News"
-            fr: "Actualités"
-            it: "Attualità"
+            en: "RISM Online"
+            de: "RISM Online"
+            fr: "RISM Online"
+            it: "RISM Online"
         texts:
-            en: "Get all the latest news from the RISM Digital Center! Keep up to date with the newest developments of the cataloguing software and our other services for your work with music sources."
-            de: "Entdecken Sie die neuesten Nachrichten aus dem RISM Digital Center! Halten Sie sich über die neuesten Entwicklungen der Katalogisierungssoftware und unsere anderen Dienstleistungen für Ihre Arbeit mit Musikquellen auf dem Laufenden."
-            fr: "Découvrez toutes les dernières nouvelles du RISM Digital Center ! Tenez-vous au courant des derniers développements du logiciel de catalogage et de nos autres services pour votre travail avec les sources musicales."
-            it: "Scoprite tutte le ultime novità del RISM Digital Center! Tenetevi aggiornati sugli ultimi sviluppi del software di catalogazione e sugli altri nostri servizi per il vostro lavoro con le fonti musicali."
+            en: "RISM Online, a service from RISM Digital, provides our user communities with access to the RISM data, including sources, people, institutions, and a musical incipit search."
+            de: "RISM Online, ein Dienst von RISM Digital, bietet den Benutzern Zugang zu den RISM-Daten, einschliesslich Quellen, Personen und Institutionen, sowie eine Suche nach musikalischen Incipits."
+            fr: "RISM Online, un service du RISM Digital, fournit à notre communauté d'utilisateurs un accès aux données du RISM, y compris aux sources, aux personnes, et aux institutions et inclut une recherche par incipit musical."
+            it: "RISM Online, un servizio messo a disposizione da RISM Digital, fornisce alle nostre comunità di utenti l’accesso ai dati RISM, comprese le fonti, le persone, le istituzioni e la ricerca degli incipit musicali."
 
     rism_zr:
-        image: rism_zr.png
+        image: wg-map.png
         link: https://rism.info
         blank: true
         titles:
