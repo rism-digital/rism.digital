@@ -47,7 +47,7 @@ tiles:
             it: "RISM Online"
         texts:
             en: "RISM Online, a service from RISM Digital, provides our user communities with access to the RISM data, including sources, people, institutions, and a musical incipit search."
-            de: "RISM Online, a service from RISM Digital, provides our user communities with access to the RISM data, including sources, people, institutions, and a musical incipit search."
+            de: "RISM Online, ein Dienst von RISM Digital, bietet den Benutzern Zugang zu den RISM-Daten, einschliesslich Quellen, Personen und Institutionen, sowie eine Suche nach musikalischen Incipits."
             fr: "RISM Online, un service du RISM Digital, fournit à notre communauté d'utilisateurs un accès aux données du RISM, y compris aux sources, aux personnes, et aux institutions et inclut une recherche par incipit musical."
             it: "RISM Online, un servizio messo a disposizione da RISM Digital, fornisce alle nostre comunità di utenti l’accesso ai dati RISM, comprese le fonti, le persone, le istituzioni e la ricerca degli incipit musicali."
 
