@@ -4,7 +4,7 @@ search: true
 title: Projet de catalogage aux Archives provinciales des capucins suisses
 date: 2023-01-26
 post: true
-lang: de
+lang: fr
 image: "/images/news/CH-Lw-News.png"
 ---
 

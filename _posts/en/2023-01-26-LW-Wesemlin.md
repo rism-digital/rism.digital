@@ -4,7 +4,7 @@ search: true
 title: Cataloguing project in the Provincial Archives of the Swiss Capuchins
 date: 2023-01-26
 post: true
-lang: de
+lang: en
 image: "/images/news/CH-Lw-News.png"
 ---
 

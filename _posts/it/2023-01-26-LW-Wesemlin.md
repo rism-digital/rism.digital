@@ -4,7 +4,7 @@ search: true
 title: Progetto di catalogazione nell'Archivio Provinciale dei Cappuccini svizzeri
 date: 2023-01-26
 post: true
-lang: de
+lang: it
 image: "/images/news/CH-Lw-News.png"
 ---
 
