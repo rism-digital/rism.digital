@@ -29,6 +29,12 @@
         it: "Repertorium"
       link: /rism-ch/cataloging/repertorium.html
     - name:
+        de: "Provinzarchiv der Schweizer Kapuziner"
+        en: "Provincial Archives of the Swiss Capuchins"
+        fr: "Archives provinciales des capucins suisses"
+        it: "Archivio provinciale dei Cappuccini svizzeri"
+      link: /rism-ch/cataloging/Lw-Wesemlin.html
+    - name:
         de: "Abgeschlossene Projekte"
         en: "Past projects"
         fr: "Projets terminés"
