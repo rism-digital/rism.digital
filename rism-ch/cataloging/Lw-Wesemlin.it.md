@@ -3,7 +3,7 @@ title: "Archivio provinciale dei Cappuccini svizzeri"
 layout: cataloging
 show_posts: false
 lang: it
-permalink: /rism-ch/cataloging/LW-Wesemlin.html
+permalink: /rism-ch/cataloging/Lw-Wesemlin.html
 ---
 
 # Archivio provinciale dei Cappuccini svizzeri

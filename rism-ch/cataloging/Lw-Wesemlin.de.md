@@ -3,7 +3,7 @@ title: "Provinzarchiv der Schweizer Kapuziner"
 layout: cataloging
 show_posts: false
 lang: de
-permalink: /rism-ch/cataloging/LW-Wesemlin.html
+permalink: /rism-ch/cataloging/Lw-Wesemlin.html
 ---
 
 # Provinzarchiv der Schweizer Kapuziner
