@@ -3,7 +3,7 @@ title: "Provincial Archives of the Swiss Capuchins"
 layout: cataloging
 show_posts: false
 lang: en
-permalink: /rism-ch/cataloging/LW-Wesemlin.html
+permalink: /rism-ch/cataloging/Lw-Wesemlin.html
 ---
 
 # Provincial Archives of the Swiss Capuchins
