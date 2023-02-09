@@ -13,7 +13,7 @@ La stragrande maggioranza delle edizioni musicali stampate dall'inizio della sta
 Gli archivi e le biblioteche svizzere conservano un totale di circa 54 edizioni musicali in parti staccate che non esistono nella loro interezza in nessuna biblioteca del mondo, ma sono suddivise tra diverse collezioni. Le singole parti di queste 54 stampe musicali sono distribuite in un totale di 33 biblioteche e archivi svizzeri e in altre 74 biblioteche nel mondo. Tuttavia, non è necessario digitalizzare tutte le copie per ricostruire le opere. Grazie a una selezione ottimale delle serie di parti incomplete, la ricostruzione dei titoli può essere ottenuta riproducendo i fondi di circa 19 biblioteche svizzere e 31 straniere (in Austria, Belgio, Repubblica Ceca, Germania, Danimarca, Francia, Inghilterra, Italia, Polonia, Svezia, Slovacchia e Stati Uniti). Le immagini saranno collegate alla rispettiva scheda del catalogo RISM; è ovviamente possibile un collegamento al materiale digitalizzato dal catalogo online della rispettiva biblioteca. Le parti così completate, per quanto possibile, sono riunite nella tabella seguente, ordinate alfabeticamente per autore.
 
 Contatto: [Claudio Bacciagaluppi](https://rism.digital/organization/contact.html)
-
+<br/>
 
 #### Benniger, Joseph (1688-1720)  
 [Heliotropium … seu missae solennes et funebres … opus I](https://rism.online/sources/990004752)

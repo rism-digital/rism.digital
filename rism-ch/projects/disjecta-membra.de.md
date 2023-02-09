@@ -13,7 +13,7 @@ Die überwiegende Mehrheit der gedruckten Musikausgaben von den Anfängen des No
 In Schweizer Archiven und Bibliotheken befinden sich insgesamt rund 54 Titel von Notendrucken, die in keiner Bibliothek weltweit vollständig vorhanden, sondern auf verschiedene Sammlungen aufgeteilt sind. Die einzelnen Teile dieser 54 Musikdrucke sind auf insgesamt 33 Schweizer Bibliotheken und Archive sowie weitere 74 Bibliotheken weltweit verteilt. Um die Werke zu rekonstruieren, ist es jedoch nicht notwendig, sämtliche Exemplare zu digitalisieren. Dank einer optimalen Auswahl der unvollständigen Stimmensätze kann die Rekonstruktion der Titel auf die Reproduktion der Bestände von rund 19 schweizerischen und 31 ausländischen Bibliotheken (in Belgien, Deutschland, Dänemark, Frankreich, England, Italien, Österreich, Polen, Schweden, der Slowakei, der Tschechischen Republik und den USA) beschränkt werden. Die Bilder werden an den jeweiligen RISM-Katalogeintrag angehängt. Ein Link zum Digitalisat aus dem bibliothekseigenen Online-Katalog ist selbstverständlich ebenfalls möglich. Die auf diese Weise möglichst vervollständigten Teilbestände sind in der nachstehenden Tabelle - alphabetisch nach Autoren geordnet - zusammengeführt.
 
 Kontakt: [Claudio Bacciagaluppi](https://rism.digital/organization/contact.html)
-
+<br/>
 
 #### Benniger, Joseph (1688-1720)  
 [Heliotropium … seu missae solennes et funebres … opus I](https://rism.online/sources/990004752)

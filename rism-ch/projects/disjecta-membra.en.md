@@ -13,7 +13,7 @@ The vast majority of printed music editions from the beginning of music printing
 Swiss archives and libraries hold a total of some 54 titles of printed parts that do not exist in their entirety in any single library worldwide, but are split between different collections. The individual parts of these 54 music prints are distributed to a total of 33 Swiss libraries and archives and a further 74 libraries worldwide. However, it is not necessary to digitise all the copies in order to reconstruct the works. With careful selection of the incomplete voice sets, the reconstruction of the edition can be achieved by virtually combining the holdings of about 19 Swiss and 31 foreign libraries (in Austria, Belgium, the Czech Republic, Germany, Denmark, France, England, Italy, Poland, Sweden, Slovakia and the USA). The images from each library will be attached to the respective RISM catalogue entry, with a link to the digitised material from the library’s own online catalogue. The sets of parts, completed as far as possible, are shown in the table below, arranged alphabetically by author.
 
 Contact: [Claudio Bacciagaluppi](https://rism.digital/organization/contact.html)
-
+<br/>
 
 #### Benniger, Joseph (1688-1720)
 [Heliotropium … seu missae solennes et funebres … opus I](https://rism.online/sources/990004752)

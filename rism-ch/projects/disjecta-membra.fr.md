@@ -13,7 +13,7 @@ Depuis les débuts de l'imprimerie musicale vers 1500 jusqu'à la première moit
 Les archives et les bibliothèques suisses détiennent un total de quelque 54 titres de parties imprimées qui n'existent dans leur intégralité dans aucune bibliothèque du monde, mais qui sont en revanche répartis entre différentes collections. Les parties individuelles de ces 54 imprimés musicaux sont distribuées sur un total de 33 bibliothèques et archives suisses et 74 autres bibliothèques dans le monde. Cependant, il n'est pas nécessaire de numériser tous les exemplaires pour reconstituer les œuvres. Grâce à une sélection optimale des exemplaires incomplets, la reconstruction des titres peut être réalisée en reproduisant les fonds d'environ 19 bibliothèques suisses et 31 bibliothèques étrangères (en Autriche, Belgique, République tchèque, Allemagne, Danemark, France, Angleterre, Italie, Pologne, Suède, Slovaquie et Etats-Unis). Les images seront attachées à l'entrée respective du catalogue RISM, mais un lien vers le matériel numérisé sur le catalogue en ligne de la bibliothèque est bien sûr posible aussi. Les parties, complétées de la sorte, sont listées dans le tableau ci-dessous, classées par ordre alphabétique d'auteur.
 
 Contact: [Claudio Bacciagaluppi](https://rism.digital/organization/contact.html)
-
+<br/>
 
 #### Benniger, Joseph (1688-1720)  
 [Heliotropium … seu missae solennes et funebres … opus I](https://rism.online/sources/990004752)
