@@ -44,6 +44,7 @@ V (4), org
 [A, B, org](https://rism.online/viewer.html#?manifest=https://iiif.rism.digital/manifest/ch/h79273.json)
 - US-R M1490 .G749c.8
 [S 1, S 2 and T, org](http://hdl.handle.net/1802/37282)
+
 <br/>
 
 #### L'Estocart, Paschal de (1539c-1584p)
