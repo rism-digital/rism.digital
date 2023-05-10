@@ -37,6 +37,16 @@ S, A, T, B, 2 vl, vla, vlc, 2 clno, timp, org
 org, timp  
 <br/>
 
+#### Grancini, Michel'Angelo (1605c-1669)
+[Ottavo libro de concerti ecclesiastici ... opera decima nona](https://rism.online/sources/990022492)
+V (4), org
+- CH-Lz Mus. 388:1 (K2)
+[A, B, org](https://rism.online/viewer.html#?manifest=https://iiif.rism.digital/manifest/ch/h79273.json)
+- US-R M1490 .G749c.8
+[S 1, S 2 and T, org](http://hdl.handle.net/1802/37282)
+
+<br/>
+
 #### L'Estocart, Paschal de (1539c-1584p)
 [Cent cinquante pseaumes de David ... mis en musique à quatre, cinq, six, sept, et huit parties](https://rism.online/sources/990037834)
 5 parts
