@@ -18,3 +18,4 @@
 * [Jahresbericht 2019](/resources/Jahresbericht-2019-d-web.pdf)
 * [Jahresbericht 2020](/resources/Jahresbericht-2020-d-web.pdf)
 * [Jahresbericht 2021](/resources/Jahresbericht-2021-d-web.pdf)
+* [Jahresbericht 2022](/resources/Jahresbericht-2022-d-web.pdf)
