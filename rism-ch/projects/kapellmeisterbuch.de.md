@@ -47,10 +47,10 @@ Bilder: Mit freundlicher Genehmigung von P. Lukas Helg OSB (Einsiedeln)
 
 Projektteam:
 
--   [Prof. Luca Zoppelli](luca.zoppelli@unifr.ch) (Leitung)
--   [Claudio Bacciagaluppi](claudio.bacciagaluppi@rism.digital)
--   [Luigi Collarile](luigi.collarile@hkb.bfh.ch)
--   [Laurent Pugin](laurent.pugin@rism.digital)
+-   [Prof. Luca Zoppelli](mailto:luca.zoppelli@unifr.ch) (Leitung)
+-   [Claudio Bacciagaluppi](mailto:claudio.bacciagaluppi@rism.digital)
+-   [Luigi Collarile](mailto:luigi.collarile@hkb.bfh.ch)
+-   [Laurent Pugin](mailto:laurent.pugin@rism.digital)
 
   [1]: /images/rism_ch/einsiedeln_c.png
   [2]: http://www.tei-c.org
