@@ -1,3 +1,13 @@
+---
+title: "OnStage"
+layout: projects
+show_posts: false
+lang: fr
+permalink: /rism-ch/projects/onstage.html
+---
+
+# OnStage
+
 Onstage est une base de données qui recense et publie les programmes des activités musicales publiques organisées par de différentes institutions suisses. Onstage est constituée de programmes de concerts, conférences, cours, examens et palmarès ; ces documents - qui couvrent actuellement la période du début du 19ème siècle à nos jours - ont été catalogués, indexés et numérisés. Onstage permet de retracer le répertoire musical joué au fil des années, de reconstituer les goûts d'une période donnée ainsi que son esthétique et de retrouver les interprètes qui ont bâti deux siècles de musique en Suisse.
 
 Les programmes des collections suivantes ont été saisis dans la base de données Onstage (dans l'ordre de leur publication) :
