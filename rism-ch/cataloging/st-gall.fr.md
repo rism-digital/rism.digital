@@ -57,4 +57,4 @@ DomMusik aus dem Weltkulturerbe St.Gallen\
 Klosterhof 6b, CH-9000 St.Gallen\
 Tel: +41 (71) 227 33 38\
 e-mail: <andreas.gut@dommusik.ch>\
-[Website]: https://www.dommusik.ch
+[Link](https://www.dommusik.ch)
