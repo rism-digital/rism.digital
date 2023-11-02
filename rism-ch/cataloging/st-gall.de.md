@@ -47,9 +47,9 @@ zahlreiche Autographe überliefert sind.
 
 Der Bestand kann auf Voranmeldung hin benutzt werden; Anmeldung bei:
 
-Frau Kimberly Brockman\
-Leiterin der Diözesanen Kirchenmusikschule\
-Klosterhof 6b\
-CH-9000 St. Gallen\
-Tel: +41 (71) 227 33 34\
-e-mail: <dkms@kirchenmusik-sg.ch>
+Domkapellmeister Andreas Gut\
+DomMusik aus dem Weltkulturerbe St.Gallen\
+Klosterhof 6b, CH-9000 St.Gallen\
+Tel: +41 (71) 227 33 38\
+e-mail: <andreas.gut@dommusik.ch>\
+Web: <www.dommusik.ch>

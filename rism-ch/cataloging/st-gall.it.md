@@ -49,9 +49,9 @@ e il 1946).
 La collezione può essere consultata sul posto previo appuntamento.
 Rivolgersi a:
 
-Signora Kimberly Brockman\
-Direttrice della Diözesane Kirchenmusikschule\
-Klosterhof 6b\
-CH-9000 St. Gallen\
-Tel: +41 (71) 227 33 34\
-e-mail: <dkms@kirchenmusik-sg.ch>
+Maestro del coro del duomo Andreas Gut\
+DomMusik aus dem Weltkulturerbe St.Gallen\
+Klosterhof 6b, CH-9000 St.Gallen\
+Tel: +41 (71) 227 33 38\
+e-mail: <andreas.gut@dommusik.ch>\
+Web: <www.dommusik.ch>

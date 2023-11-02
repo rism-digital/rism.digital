@@ -52,9 +52,9 @@ Josef Gallus Scheel (1879-1946, maître de chapelle de 1913 en 1946)
 
 La collection peut être consultée sur place sur rendez-vous auprès de :
 
-Mme Kimberly Brockman\
-Directrice de la Diözesane Kirchenmusikschule\
-Klosterhof 6b\
-CH-9000 St. Gallen\
-Tel: +41 (71) 227 33 34\
-e-mail: <dkms@kirchenmusik-sg.ch>
+Maître de chapelle à la cathédrale Andreas Gut\
+DomMusik aus dem Weltkulturerbe St.Gallen\
+Klosterhof 6b, CH-9000 St.Gallen\
+Tel: +41 (71) 227 33 38\
+e-mail: <andreas.gut@dommusik.ch>\
+Web: <www.dommusik.ch>
