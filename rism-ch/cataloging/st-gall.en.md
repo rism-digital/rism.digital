@@ -48,9 +48,9 @@ Scheel (1879-1946; conductor 1913-1946).
 The collection may be visited and used only after previous enquiry. For
 enquiries please contact:
 
-Ms Kimberly Brockman\
-Director of the Diözesane Kirchenmusikschule\
-Klosterhof 6b\
-CH-9000 St. Gallen\
-Tel: +41 (71) 227 33 34\
-e-mail: <dkms@kirchenmusik-sg.ch>
+Director of music Andreas Gut\
+DomMusik aus dem Weltkulturerbe St.Gallen\
+Klosterhof 6b, CH-9000 St.Gallen\
+Tel: +41 (71) 227 33 38\
+e-mail: <andreas.gut@dommusik.ch>\
+[Link](https://www.dommusik.ch)
