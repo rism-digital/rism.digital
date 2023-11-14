@@ -35,7 +35,7 @@ permalink: /organization/committee.html
         </div>
         <div class="column is-half-desktop">
             <p>
-    			Angelika Salge<br>
+    			Angelika Salge († 2023)<br>
     			Zentralbibliothek Zürich
             </p>
         </div>
