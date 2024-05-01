@@ -8,6 +8,8 @@ permalink: /brown.html
 
 # Howard Mayer Brown in RISM
 
+Last update: {{ site.time | date: "%-d %B %Y" }}
+
 {% datatable brown Brown %}
 
 <link rel="stylesheet" type="text/css" href="/js/jstable.css">
