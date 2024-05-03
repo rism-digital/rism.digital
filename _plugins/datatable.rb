@@ -15,7 +15,11 @@ module Jekyll
         return value
       end
 
-      def skip?(key)
+      def skip_col?(key)
+        return false
+      end
+
+      def skip_row?(row)
         return false
       end
     end
@@ -26,9 +30,16 @@ module Jekyll
         super
       end
 
-      # skip the Name column here
-      def skip?(key)
+      def skip_col?(key)
+        # skip the Name column
         return true if key == "Name"
+        super
+      end
+
+      def skip_row?(row)
+        # skip the row where Brown is empty
+        return true if !row["Brown"]
+        super
       end
     end
 
@@ -51,17 +62,20 @@ module Jekyll
         html = "<table id='datatable'>\n"
         html += "<thead>\n<tr>"
         data[0].keys.each do |key|
-          # columns to skip (if any)
-          next if formatter.skip?(key)
+          # Check if the formatter has a rule to skip some columns
+          next if formatter.skip_col?(key)
           html += "<th>#{key}</th>" 
         end
         html += "</tr>\n</thead>\n"
   
         html += "<tbody>\n"
         data.each do |row|
+          # Check if the formatter has a rule to skip some rows
+          next if formatter.skip_row?(row)
           html += "<tr>"
           row.each do |key, value|
-            next if formatter.skip?(key)
+            # Check if the formatter has a rule to skip some columns
+            next if formatter.skip_col?(key)
             # Apply the formatter
             html += "<td>#{formatter.format(key, value)}</td>"
           end
