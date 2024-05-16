@@ -19,3 +19,4 @@
 * [Relazione annuale 2020](/resources/Jahresbericht-2020-f-web.pdf)
 * [Relazione annuale 2021](/resources/Jahresbericht-2021-f-web.pdf)
 * [Relazione annuale 2022](/resources/Jahresbericht-2022-f-web.pdf)
+* [Relazione annuale 2023](/resources/Jahresbericht-2023-f-web.pdf)

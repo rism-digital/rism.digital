@@ -19,3 +19,4 @@
 * [Annual report 2020](/resources/Jahresbericht-2020-d-web.pdf)
 * [Annual report 2021](/resources/Jahresbericht-2021-d-web.pdf)
 * [Annual report 2022](/resources/Jahresbericht-2022-d-web.pdf)
+* [Annual report 2023](/resources/Jahresbericht-2023-d-web.pdf)
