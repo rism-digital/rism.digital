@@ -47,6 +47,10 @@ src_link: https://github.com/rism-digital/rism.digital/tree/staging
 
 no_post_categories: true
 
+remote_csv:
+  brown:
+    source: https://docs.google.com/spreadsheets/d/1qQmQZHKBG7slO4d3QOTlVRcQBHaST305nfC_AMoi1ww/export?exportFormat=csv
+
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set

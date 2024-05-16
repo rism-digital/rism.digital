@@ -35,7 +35,7 @@ permalink: /organization/committee.html
         </div>
         <div class="column is-half-desktop">
             <p>
-    			Angelika Salge († 2023)<br>
+    			Dr. Eva Martina Hanke<br>
     			Zentralbibliothek Zürich
             </p>
         </div>
