@@ -6,10 +6,10 @@ lang: fr
 permalink: /rism-ch/projects/informationspool.html
 ---
 
-# « Informationspool » -- Répertoire des compositeurs suisses du 19^ème^ siècle
+# « Informationspool » -- Répertoire des compositeurs suisses du 19<sup>ème</sup> siècle
 
 Le projet « Informationspool » -- Répertoire des compositeurs suisses du
-19^ème^ siècle a été établi en septembre 2008. Ce projet élaboré en
+19<sup>ème</sup> siècle a été établi en septembre 2008. Ce projet élaboré en
 partenariat avec la Phonothèque nationale suisse a pour but de réunir
 différentes ressources autour d'un projet de numérisation. Ce projet
 comprend la numérisation et la publication en-ligne d\'environ 500
