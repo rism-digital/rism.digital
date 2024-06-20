@@ -9,7 +9,7 @@ permalink: /rism-ch/projects/informationspool.html
 # Informationspool „Repertorium Schweizer Komponisten des 19. Jahrhunderts"
 
 Das Projekt \"Informationspool -- Repertorium Schweizer Komponisten des
-19. Jahrhunderts\" wurde im September 2008 ins Leben gerufen. Es wurde
+\1\9. Jahrhunderts\" wurde im September 2008 ins Leben gerufen. Es wurde
 als Kooperation mit der Schweizer Nationalphonothek realisiert und hatte
 zum Ziel, verschiedene dokumentarische Ressourcen in einem Projekt zu
 vereinen. Dabei wurden rund 500 für die musikalische Produktion in der
