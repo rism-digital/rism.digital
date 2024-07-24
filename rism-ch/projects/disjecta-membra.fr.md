@@ -74,6 +74,15 @@ S, A, T, B; vl 1, 2, vla, vlc; org; clno 1, clno 2; timp
 [S, A, T, B; vl 1, 2, vla, vlc; clno 1, clno 2; timp](http://idb.ub.uni-tuebingen.de/opendigi/LMA_K87)  
 <br/>
 
+#### Martinengo, Giovanni Battista
+[Concerti ecclesiastici a una due, e tre voci, e con violini ... op. 1](https://rism.online/sources/990039730)
+S, A, T, B, vl (2), bc 
+- CH-LUbsf BSF 89 Ga 23, BSF 89 Ga 24 
+[A, bc](https://rism.online/viewer.html#?manifest=https://iiif.rism.digital/manifest/ch/h51068439.json)
+- GB-Lbl E.1441.
+[S](https://www.google.ch/books/edition/Concerti_Ecclesiastici_a_Una_Due_e_Tre_V/YEvsuIqT6jAC)  
+<br/>
+
 #### Petrini, Franz (1744-1819)
 [IIIe livre de sonates pour la harpe ... oeuvre IX](https://rism.online/sources/990049145)
 vl, arp
