@@ -80,7 +80,7 @@ S, A, T, B, vl (2), bc
 - CH-LUbsf BSF 89 Ga 23, BSF 89 Ga 24 
 [A, bc](https://rism.online/viewer.html#?manifest=https://iiif.rism.digital/manifest/ch/h51068439.json)
 - GB-Lbl E.1441.
-[S](https://www.google.ch/books/edition/Concerti_Ecclesiastici_a_Una_Due_e_Tre_V/YEvsuIqT6jAC) 
+[S](https://www.google.ch/books/edition/Concerti_Ecclesiastici_a_Una_Due_e_Tre_V/YEvsuIqT6jAC)  
 <br/>
 
 #### Petrini, Franz (1744-1819)
