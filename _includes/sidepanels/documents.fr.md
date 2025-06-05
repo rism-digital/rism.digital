@@ -20,3 +20,4 @@
 * [Rapport annuel 2021](/resources/Jahresbericht-2021-f-web.pdf)
 * [Rapport annuel 2022](/resources/Jahresbericht-2022-f-web.pdf)
 * [Rapport annuel 2023](/resources/Jahresbericht-2023-f-web.pdf)
+* [Rapport annuel 2024](/resources/Jahresbericht-2024-f-web.pdf)
