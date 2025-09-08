@@ -1,5 +1,5 @@
 ---
-title: "BCU Fribourg"
+title: "Collezione del Monastero di Montorge (BCU Fribourg)"
 layout: past-cataloging
 show_posts: false
 lang: it
@@ -27,7 +27,7 @@ Link: [Fri-Memoria](https://fri-memoria.bcu-fribourg.ch/fonds-musical-du-monaste
 
 #### Contatto
 
-Florence Sidler
+Candice Rey
 
 Kantons- und Universitätsbibliothek KUB, Bibliothèque cantonale et universitaire BCU<br>
 Rue de la Carrière 22<br>
