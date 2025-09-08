@@ -35,11 +35,17 @@
         it: "BCU Lausanne"
       link: /rism-ch/cataloging/bcu-lausanne.html
     - name:
-        de: "BCU Fribourg"
-        en: "BCU Fribourg"
-        fr: "BCU Fribourg"
-        it: "BCU Fribourg"
+        de: "Klosterbestand Montorge (BCU Fribourg)"
+        en: "Collection of the Convent of Montorge (BCU Fribourg)"
+        fr: "Collection du monastère de Montorge (BCU Fribourg)"
+        it: "Collezione del Monastero di Montorge (BCU Fribourg)"
       link: /rism-ch/cataloging/bcu-fribourg-montorge.html
+    - name:
+        de: "Musiksammlung aus dem Departement für Musikwissenschaft Freiburg (BCU Fribourg)"
+        en: "Music Collection from the Department of Musicology (BCU Fribourg)"
+        fr: "Fonds musical du Département de musicologie de l’Université de Fribourg (BCU Fribourg)"
+        it: "Fondo musicale del Dipartimento di Musicologia dell’Università di Friburgo (BCU Fribourg)"
+      link: /rism-ch/cataloging/bcu-fribourg.html
     - name:
         de: "Louis Niedermeyer"
         en: "Louis Niedermeyer"
