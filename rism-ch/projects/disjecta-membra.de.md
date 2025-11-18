@@ -100,3 +100,20 @@ S, A, T, B, vl (2), vlc, cor (2), clno (2), timp, org
 - D-Mbs 4 Mus.pr. 41385
 [1. Ex.: clno I/cor I, clno II/cor II, timp 2. Ex.: S, A, T, B, vl I, vl II, org](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00068456-3)  
 <br/>
+
+#### Stalder, Joseph Franz Xaver Dominik (1725-1765)
+[Sei sinfonie](https://rism.online/sources/990060662)
+strings, bc
+- CH-EN DA 236
+[vl 2, vla, b](https://rism.online/viewer.html#?manifest=https://iiif.rism.digital/manifest/ch/h238261.json)
+- B-Bc 7895
+[vl 1, 2, b](https://rism.online/viewer.html#?manifest=https://iiif.rism.digital/manifest/ch/h51085823.json) 
+<br/>
+
+#### Stalder, Joseph Franz Xaver Dominik (1725-1765)
+[Six simphonies italienes (sic) ... op. 5](https://rism.online/sources/990060659)
+- CH-EN DA 235:1
+[vl 2, vla, b, cor 1, cor 2](https://rism.online/viewer.html#?manifest=https://iiif.rism.digital/manifest/ch/h238255.json)
+- B-Bc 7895
+[vl 1, 2, b, cor 1](https://rism.online/viewer.html#?manifest=https://iiif.rism.digital/manifest/ch/h238254.json)  
+<br/>
