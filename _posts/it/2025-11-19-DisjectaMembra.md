@@ -4,7 +4,7 @@ search: true
 title: Sinfonie di Dominik Stalder ricostruite grazie al progetto ‘Disjecta membra’
 date: 2025-11-19
 post: true
-lang: de
+lang: it
 image: "/images/news/DisjectaMembra2025.jpg"
 ---
 Dopo aver frequentato il seminario Collegium Helveticum a Milano, il lucernese Dominik Stalder (1725–1765) ebbe – per un compositore svizzero della sua epoca – una notevole carriera internazionale, che lo portò a Mainz, a Londra e a Parigi. Nella capitale francese pubblicò varie raccolte di sinfonie che rivelano l’influsso dei maestri milanesi. [Due raccolte di sue sinfonie](https://rism.online/search?q=stalder%20CH-EN%20B-Bc&mode=sources&fq=has-iiif%3Atrue&page=1&rows=40) sono ora state ricostruite virtualmente grazie al progetto ‘Disjecta membra’, riunendo le parti conservate nel monastero di [Engelberg](https://rism.online/institutions/30000007) e quelle conservate al conservatorio reale di [Bruxelles](https://rism.online/institutions/30000438). Una delle due raccolte, le [«Sei sinfonie»](https://rism.online/sources/990060662), si credeva incompleta fino alla recente identificazione delle parti di Bruxelles.  
