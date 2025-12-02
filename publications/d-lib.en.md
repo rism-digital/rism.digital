@@ -46,6 +46,7 @@ Initiative]{:target="_blank"}).
 * [OnStage](http://onstage.rism-ch.org/)
 * [Kapellmeisterbuch](https://kapellmeisterbuch.rism.digital)
 * [Florian Bassani: La pirateria musicale in Ticino durante il Risorgimento](https://pirateriamusicale.rism.digital/)
+* [Kloster Sankt Urban](https://sankturban.rism.digital)
 
 RISM digital library (d-lib), ISSN 2297-573X
 
