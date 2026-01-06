@@ -26,6 +26,12 @@ into the database. Thus, the number of documents from the
 Burgerbibliothek Bern in the RISM database is currently 357. Further
 sources will probably be added in 2016.
 
-Contact: [Yvonne Peters]
+#### Contact
 
-  [Yvonne Peters]: /organization/contact.html
+Burgerbibliothek Bern<br>
+Münstergasse 63<br>
+Postfach<br>
+3000 Bern 8<br>
+
+Tel: +41 (0)31 320 33 33<br>
+Contact form: <https://www.burgerbib.ch/de/kontakt>

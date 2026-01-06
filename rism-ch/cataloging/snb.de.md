@@ -39,8 +39,8 @@ Benutzung der Sammlung der Schweizerischen Nationalbibliothek: RISM Schweiz
 bittet um Verständnis dafür, dass Anfragen zu den in Bearbeitung befindlichen 
 Dokumenten nur in begrenztem Umfang beantwortet werden können.
 
-Kontakt: [Yvonne Peters]
+Kontakt: [Lynn Beutler]
 
   [Schweizerische Literaturarchiv (SLA)]: https://www.nb.admin.ch/snl/de/home/ueber-uns/sla.html
   [Bestände]: https://www.nb.admin.ch/snl/de/home/sammlungen/spezialsammlungen18/musiknachlaesse.html
-  [Yvonne Peters]: /organization/contact.html
+  [Lynn Beutler]: /organization/contact.html

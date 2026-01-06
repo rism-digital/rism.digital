@@ -25,6 +25,12 @@ Datenbank aufgenommen. Damit enthält die RISM-Datenbank bis dato (2015)
 357 Datensätze aus der Burgerbibliothek Bern. Weitere Quellen werden
 voraussichtlich im Jahr 2016 erschlossen.
 
-Kontakt: [Yvonne Peters]
+#### Auskunft
 
-  [Yvonne Peters]: /organization/contact.html
+Burgerbibliothek Bern<br>
+Münstergasse 63<br>
+Postfach<br>
+3000 Bern 8<br>
+
+Tel: +41 (0)31 320 33 33<br>
+Kontaktformular: <https://www.burgerbib.ch/de/kontakt>

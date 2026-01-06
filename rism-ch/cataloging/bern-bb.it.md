@@ -25,6 +25,12 @@ primo luogo edizioni antiche. In questo modo la banca-dati RISM contiene
 ad oggi (2015) 357 schede dalla Biblioteca della Borghesia di Berna.
 Altre fonti verranno presumibilmente catalogate nel 2016.
 
-Contatto: [Yvonne Peters]
+#### Contatto
 
-  [Yvonne Peters]: /organization/contact.html
+Burgerbibliothek Bern<br>
+Münstergasse 63<br>
+Postfach<br>
+3000 Bern 8<br>
+
+Tel: +41 (0)31 320 33 33<br>
+Formulario di contatto: <https://www.burgerbib.ch/de/kontakt>
