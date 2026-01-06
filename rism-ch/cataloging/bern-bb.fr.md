@@ -25,7 +25,7 @@ Caroline Mathilde von Wattenwyl, née de Pourtalès (1827-1890), en grande
 partie aussi des sources imprimées, ont également été saisies dans la
 base de données. Ainsi, le nombre de documents de la Bibliothèque de la
 Bourgeoisie de Berne dans la base de données du RISM est actuellement de
-357. Des autres sources seront ajoutées probablement en 2016.
+`357`. Des autres sources seront ajoutées probablement en 2016.
 
 #### Contact
 
