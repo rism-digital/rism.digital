@@ -39,8 +39,8 @@ requêtes concernant des documents en cours d\'inventaire ou de
 catalogage ne pourront être traitées que de façon limitée. Le RISM
 Suisse vous remercie pour votre compréhension.
 
-Contact: [Yvonne Peters]
+Contact: [Lynn Beutler]
 
   [Archives littéraires suisses (ALS)]: https://www.nb.admin.ch/snl/fr/home/portrait/als.html
   [fonds individuels]: https://www.nb.admin.ch/snl/fr/home/collections/collections-speciales18/fonds-musicaux.html
-  [Yvonne Peters]: /organization/contact.html
+  [Lynn Beutler]: /organization/contact.html
