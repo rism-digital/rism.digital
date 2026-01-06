@@ -37,8 +37,8 @@ Richieste riguardanti dei documenti in corso di elaborazione possono
 essere soddisfatte solo in misura limitata. Il RISM Svizzera
 spera nella comprensione degli utenti.
 
-Contatto: [Yvonne Peters]
+Contatto: [Lynn Beutler]
 
   [Archivio letterario svizzero (ALS)]: https://www.nb.admin.ch/snl/it/home/chi-siamo/asl.html
   [fondi completi]: https://www.nb.admin.ch/snl/it/home/collezioni/collezioni-speciali18/lasciti-musicali.html
-  [Yvonne Peters]: /organization/contact.html
+  [Lynn Beutler]: /organization/contact.html
