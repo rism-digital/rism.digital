@@ -434,6 +434,12 @@ Literatur: RISM-Umfrage 1990
 
 36 Drucke vom 18. und frühen 19. Jahrhunderts.; vgl. Literatur.
 
+## Bolzano (Italien)
+
+### Abbazia di Muri-Gries, Biblioteca dei Benedettini (I-BZmg)
+Literatur: [Online-Katalog](https://musikbibliothek.muri-gries.it/) der Musikbibliothek
+Das 1027 gegründete Benediktinerkloster wurde 1841 aufgehoben; der Konvent besteht seit 1841 in Sarnen und seit 1845 im ehemaligen Augustiner Chorherrenstift Gries (Bozen) fort. Einige in Muri verbliebene Bestände wurden der Kantonsbibliothek Aargau und dem Lehrerseminar Wettingen zugeteilt. Viele Patres nahmen Musikalien als persönliche Gegenstände nach Gries mit. Eine Provenienz aus Muri kann für ca. 680 Musikalien in der Musikbibliothek der Benediktinerabtei vermutet werden.
+
 ## Blonay
 
 ### [Fondation Hindemith (CH-BL)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-BL)
@@ -459,6 +465,11 @@ Bestände verzeichnet in: RISM B/IV.3; B/XIV.1.
 Literatur: Handbuch der historischen Buchbestände.
 
 Von RISM erfasst wurden zwei Handschriften vor 1600 und ein Prozessionale. Daneben sind 26 Musikdrucke vor 1900, davon 15 ohne Datum zu erwähnen.
+
+## Bregenz (Österreich)
+
+### Bibliothek der Zisterzienserabtei Wettingen-Mehrerau (A-BRz)
+Das Zisterzienserkloster Maris Stella in Wettingen wurde 1227 gegründet und 1841 aufgehoben. Ab 1854 erhielt der Konvent die Gelegenheit, sich im ehemaligen Benediktinerkloster Mehrerau bei Bregenz einzuquartieren. Neben den Kompositionen des letzten Wettinger Kapellmeisters Alberik Zwyssig (viele davon als Kopie in [CH-BEl](https://rism.online/people/30003427/sources?mode=sources&fq=sigla%3ACH-BEl&fq=source-type%3Amanuscript&fb=material-source-types%3Aunion&fb=sigla%3Aintersection&page=1&rows=40) vorhanden), werden in der Musikbibliothek der Abtei Wettingen-Mehrerau zahlreiche Quellen aufbewahrt, die aus Wettingen oder aus weiteren im frühen 19. Jahrhundert aufgehobenen Klöstern stammen.
 
 ## Brig
 
@@ -871,6 +882,11 @@ Ca. 4 Theoretica. Swisscovery verzeichnet 5 Musikdrucke vor 1800; 4 Musikdrucke 
 Literatur: Private Mitteilung an RISM-Mitarbeitenden (2020).
 
 Die Bibliothek beinhaltet 7 Laufmeter Musikdrucke und Theoretica von Emile Jaques-Dalcroze. Im Magazin sind geschätzte weitere 50 Laufmeter vorhanden. Die Handschriften befinden sich seit 2014 in der Bibliothèque de Genève (CH-Gmu).
+
+### Fondation La Ménestrandie
+
+Literatur: Paul Kristof, Inventaire du fonds documentaire de La Ménestrandie, Genève 1992.
+Die Sammlung der Stiftung La Ménestrandie ist aus der Tätigkeit von Hélène Teysseire-Vuilleumier (1898-1986) entstanden. Die Musikerin und Leiterin des gleichnamigen, 1935 gegründeten Ensembles sammelte Musikinstrumente, Musikquellen und Bücher über Musik. Die Sammlung enthält insgesamt ca. 1'700 Musiknoten, darunter 95 historische Handschriften und Drucke.
 
 ### Musée d’ethnographie
 
