@@ -5,6 +5,12 @@
     it: "CDs"
   items:
     - name:
+        de: "Lost & Found"
+        en: "Lost & Found"
+        fr: "Lost & Found"
+        it: "Lost & Found"
+      link: /rism-ch/cds/cd-lostandfound.html
+    - name:
         de: "Marenzio, Il Pastor Fido"
         en: "Marenzio, Il Pastor Fido"
         fr: "Marenzio, Il Pastor Fido"
@@ -22,9 +28,3 @@
         fr: "Monastères suisses"
         it: "Monasteri svizzeri"
       link: /rism-ch/cds/cd-swiss-monasteries.html
-    - name:
-        de: "Lost & Found"
-        en: "Lost & Found"
-        fr: "Lost & Found"
-        it: "Lost & Found"
-      link: /rism-ch/cds/cd-lostandfound.html
