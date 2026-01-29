@@ -442,6 +442,12 @@ Literatur: Private Mitteilung an RISM-Mitarbeitenden (2020).
 
 Die Privatbibliothek Paul Hindemiths ist seit 2019 in CH-Zms.
 
+## Bolzano (Italien)
+
+### [Abbazia di Muri-Gries, Biblioteca dei Benedettini (I-BZmg)](https://rism.online/institutions/30080731)
+Literatur: [Online-Katalog](https://musikbibliothek.muri-gries.it/) der Musikbibliothek.<br>
+Das 1027 gegründete Benediktinerkloster wurde 1841 aufgehoben; der Konvent besteht seit 1841 in Sarnen und seit 1845 im ehemaligen Augustiner Chorherrenstift Gries (Bozen) fort. Einige in Muri verbliebene Bestände wurden der Kantonsbibliothek Aargau und dem Lehrerseminar Wettingen zugeteilt. Viele Patres nahmen Musikalien als persönliche Gegenstände nach Gries mit. Eine Provenienz aus Muri kann für ca. 680 Musikalien in der Musikbibliothek der Benediktinerabtei vermutet werden.
+
 ## Bollingen
 
 ### Zisterzienserinnenkloster Mariazell, Wurmsbach
@@ -459,6 +465,11 @@ Bestände verzeichnet in: RISM B/IV.3; B/XIV.1.
 Literatur: Handbuch der historischen Buchbestände.
 
 Von RISM erfasst wurden zwei Handschriften vor 1600 und ein Prozessionale. Daneben sind 26 Musikdrucke vor 1900, davon 15 ohne Datum zu erwähnen.
+
+## Bregenz (Österreich)
+
+### [Bibliothek der Zisterzienserabtei Wettingen-Mehrerau (A-BRz)](https://rism.online/institutions/30002583)
+Das Zisterzienserkloster Maris Stella in Wettingen wurde 1227 gegründet und 1841 aufgehoben. Ab 1854 erhielt der Konvent die Gelegenheit, sich im ehemaligen Benediktinerkloster Mehrerau bei Bregenz einzuquartieren. Neben den Kompositionen des letzten Wettinger Kapellmeisters Alberik Zwyssig (viele davon als Kopie in [CH-BEl](https://rism.online/people/30003427/sources?mode=sources&fq=sigla%3ACH-BEl&fq=source-type%3Amanuscript&fb=material-source-types%3Aunion&fb=sigla%3Aintersection&page=1&rows=40) vorhanden), werden in der Musikbibliothek der Abtei Wettingen-Mehrerau zahlreiche Quellen aufbewahrt, die aus Wettingen oder aus weiteren im frühen 19. Jahrhundert aufgehobenen Klöstern stammen.
 
 ## Brig
 
@@ -859,6 +870,11 @@ Bestände verzeichnet in: RISM A/I; B/I; A/II; B/II; B/VI.1; B/VIII.1.
 Literatur: Handbuch der historischen Buchbestände.
 
 Von RISM erfasst wurden ca. 980 Handschriften, ca. 570 Musikdrucke, Theoretica und Kirchenlieder. Die Sammlung umfasst 8’.625 Partituren und 524 Theoretica (Methoden, Abhandlungen, Studien etc.) vor 1900. Der grösste Teil besteht aus Drucken aus der zweiten Hälfte des 19. Jahrhunderts (5'690 Titel); 3'128 wurden zwischen 1800 und 1850 veröffentlicht, 755 stammen aus dem 18. Jahrhundert und nur 9 aus dem 17. Jahrhundert.
+
+### Fondation La Ménestrandie
+
+Literatur: Paul Kristof, Inventaire du fonds documentaire de La Ménestrandie, Genève 1992.<br>
+Die Sammlung der Stiftung La Ménestrandie ist aus der Tätigkeit von Hélène Teysseire-Vuilleumier (1898-1986) entstanden. Die Musikerin und Leiterin des gleichnamigen, 1935 gegründeten Ensembles sammelte Musikinstrumente, Musikquellen und Bücher über Musik. Die Sammlung enthält insgesamt ca. 1'700 Musiknoten, darunter 95 historische Handschriften und Drucke.
 
 ### [Institut et Musée Voltaire, bibliothèque (CH-Gimv)](http://www.rism-ch.org/catalog?search_field=library_siglum&q=CH-Gimv)
 
