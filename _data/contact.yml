@@ -33,10 +33,10 @@ groups:
           name: "Dr. Cédric Güggi"
           phone: "+41(0)58 464 49 34"
           days:
-            en: "(Monday and Tuesday)"
-            de: "(Montag und Dienstag)"
-            fr: "(lundi et mardi)"
-            it: "(lunedì e martedì)"
+            en: "(Monday and Thursday)"
+            de: "(Montag und Donnerstag)"
+            fr: "(lundi et jeudi)"
+            it: "(lunedì e giovedì)"
           email: "cedric.gueggi@rism.digital"
           photo: "cedric.gueggi.jpg"
           text:
@@ -62,7 +62,7 @@ groups:
       person:
         - id: CB
           name: "Dr. Claudio Bacciagaluppi"
-          phone: "+41(0)58 465 03 59"
+          phone: "+41(0)58 465 73 25"
           email: "claudio.bacciagaluppi@rism.digital"
           photo: "claudio.bacciagaluppi.jpg"
           text:
@@ -72,7 +72,7 @@ groups:
               it: "Claudio Bacciagaluppi ha studiato musicologia a Zurigo e ha conseguito il dottorato a Friburgo (Svizzera). Come post-doc a Friburgo ha scritto \"Artistic Disobedience: Music and Confession in Switzerland, 1648-1762\" (Leiden 2017). Svolge attività di ricerca presso la Hochschule der Künste di Berna (2006-2009 e dal 2015). Lavora per RISM Svizzera dal 2011. È responsabile della digitalizzazione e di altri progetti speciali e si occupa delle traduzioni."
         - id: AH
           name: "Dr. Andrew Hankinson"
-          phone: "+41(0)58 465 03 59"
+          phone: "+41(0)58 465 73 25"
           email: "andrew.hankinson@rism.digital"
           no-photo: true
           text:
@@ -82,7 +82,7 @@ groups:
               it: "Andrew Hankinson is a digital humanist, librarian, academic, and coder. He completed a dissertation on large-scale optical music recognition. His research focuses primarily on large-scale music document digitization, recognition, search, and retrieval. He was senior software engineer at the Bodleian Libraries in the University of Oxford, where he led the developments of the Digital Bodleian. He previously developed the DIAMM web application. He was Chair of the MEI Board, and has longstanding experience with IIIF and is a member of the IIIF A/V working group. He currently leads the development of Muscat+."
         - id: RZ
           name: "Rodolfo Zitellini, M. A."
-          phone: "+41(0)58 465 03 59"
+          phone: "+41(0)58 465 73 25"
           email: "rodolfo.zitellini@rism.digital"
           photo: "rodolfo.zitellini.jpg"
           text:
