@@ -23,6 +23,12 @@
         it: "Printed Sacred Music"
       link: http://www.printed-sacred-music.org
     - name:
+        de: "Werkverzeichnisse in RISM Online"
+        en: "Work catalogs in RISM Online"
+        fr: "Catalogue des oeuvres de RISM Online"
+        it: "Catalogo delle opere in RISM Online"
+      link: https://catalogs.rism.online/
+    - name:
         de: "Weitere Publikationen"
         en: "Other publications"
         fr: "Autres publications"
