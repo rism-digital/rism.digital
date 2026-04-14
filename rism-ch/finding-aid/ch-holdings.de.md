@@ -1952,7 +1952,7 @@ Swisscovery verzeichnet 1 Musikdruck (Kirchenlieder) 1850-1900.
 
 ## Yverdon
 
-### Bibliothèque publique
+### [Bibliothèque d'Yverdon-les-Bains (CH-YB)](https://rism.online/search?q=%22CH-YB%22&nc=CH&mode=sources&page=1&rows=40)
 
 Literatur: RISM-Umfrage 1990; Handbuch der historischen Buchbestände; Swisscovery.
 
