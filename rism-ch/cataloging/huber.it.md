@@ -36,11 +36,11 @@ messo a disposizione del pubblico interessato.
 
 #### Contatto
 
-Wolfgang Göldi\
-Kantonsbibliothek St. Gallen\
+Kantonsbibliothek Vadiana St. Gallen\
+Spezialabteilungen\
 Notkerstrasse 22\
 CH-9000 St. Gallen\
-Tel: +41 (0) 58 229 23 40\
+Tel: +41 (0)58 229 38 00\
 e-mail: <kb.rara@sg.ch>
 
 #### Articolo della stampa
