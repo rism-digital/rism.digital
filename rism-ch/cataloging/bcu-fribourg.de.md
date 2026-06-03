@@ -21,7 +21,7 @@ Alle in Muscat erfassten Quellen sind auf [RISM-Online](https://rism.online), da
 Candice Rey
 
 Kantons- und Universitätsbibliothek KUB, Bibliothèque cantonale et universitaire BCU<br>
-Rue de la Carrière 22<br>
+Rue Saint-Michel 6<br>
 Postfach<br>
 1701 Fribourg
 
