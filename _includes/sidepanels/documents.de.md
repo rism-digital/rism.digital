@@ -21,3 +21,4 @@
 * [Jahresbericht 2022](/resources/Jahresbericht-2022-d-web.pdf)
 * [Jahresbericht 2023](/resources/Jahresbericht-2023-d-web.pdf)
 * [Jahresbericht 2024](/resources/Jahresbericht-2024-d-web.pdf)
+* [Jahresbericht 2025](/resources/Jahresbericht-2025-d-web.pdf)
