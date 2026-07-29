@@ -56,15 +56,15 @@ tiles:
         link: https://rism.info
         blank: true
         titles:
-            en: "RISM Editorial Center"
-            de: "RISM Zentralredaktion"
-            fr: "RISM Editorial Center"
-            it: "RISM Editorial Center"
+            en: "RISM Editorial Network"
+            de: "RISM Editorial Network"
+            fr: "RISM Editorial Network"
+            it: "RISM Editorial Network"
         texts:
-            en: "Visit the website of the RISM Editorial Center in Frankfurt am Main. It is the contact point for participants and other interested people, and provides support to the over 30 working groups around the world."
-            de: "Besuchen Sie die Website der RISM Zentralredaktion in Frankfurt am Main. Sie ist die Anlaufstelle für Teilnehmer und andere Interessierte und unterstützt die über 30 Arbeitsgruppen auf der ganzen Welt."
-            fr: "Visitez le site web du RISM Editorial Center à Francfort-sur-le-Main. Il est le point de contact pour les participants et autres personnes intéressées, et fournit un soutien à plus de 30 groupes de travail dans le monde entier."
-            it: "Visitate il sito web del RISM Editorial Center di Francoforte sul Meno. È il punto di contatto per i partecipanti e le altre persone interessate e fornisce supporto agli oltre 30 gruppi di lavoro in tutto il mondo."
+            en: "Visit the website of the RISM Editorial Network in Germany. It is the contact point for participants and other interested people, and provides support to the over 30 working groups around the world."
+            de: "Besuchen Sie die Website des RISM Editorial Network in Deutschland. Es ist die Anlaufstelle für Teilnehmer und andere Interessierte und unterstützt die über 30 Arbeitsgruppen auf der ganzen Welt."
+            fr: "Visitez le site web du RISM Editorial Network en Allemagne. Il est le point de contact pour les participants et autres personnes intéressées, et fournit un soutien à plus de 30 groupes de travail dans le monde entier."
+            it: "Visitate il sito web del RISM Editorial Network in Germania. È il punto di contatto per i partecipanti e le altre persone interessate e fornisce supporto agli oltre 30 gruppi di lavoro in tutto il mondo."
 
     tools:
         image: tools-3.png

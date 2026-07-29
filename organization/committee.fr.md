@@ -50,7 +50,7 @@ permalink: /organization/committee.html
         <div class="column is-half-desktop">
             <p>
     			Dr. Balázs Mikusi<br>
-                RISM Editorial Center
+                RISM Editorial Network
             </p>
         </div>
     </div>

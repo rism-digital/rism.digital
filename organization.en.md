@@ -9,7 +9,7 @@ permalink: /organization.html
 # About us
 
 The RISM Digital Center is part of the Répertoire International des Sources Musicales (RISM), the international 
-organisation founded in 1952 whose aim is to inventory music sources worldwide and make them accessible. The RISM network also comprises the [RISM Editorial Center](https://rism.info/editorial-center.html) in Germany and [working groups](https://rism.info/working-groups.html) in over 30 countries. The RISM project is one of the most significant collaborative efforts in the humanities, but it also provides arguably one of the very few datasets worldwide that deserve the label of *big data in musicology*.
+organisation founded in 1952 whose aim is to inventory music sources worldwide and make them accessible. The RISM community also comprises the [RISM Editorial Network](https://rism.info/editorial-network.html) in Germany and [working groups](https://rism.info/working-groups.html) in over 30 countries. The RISM project is one of the most significant collaborative efforts in the humanities, but it also provides arguably one of the very few datasets worldwide that deserve the label of *big data in musicology*.
 
 The mission of the RISM Digital Center is twofold. Firstly, it leads the development of a digital infrastructure for the RISM. In this context, its role is to ensure that the RISM project maintains a strategic position within the large international network of digital resources for research. Its duties include:
 - the development and the maintenance of open-source tools for applications focusing on data creation, curation, and publication in the domain of music sources;
