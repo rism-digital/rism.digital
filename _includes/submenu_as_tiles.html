@@ -1,15 +1,11 @@
 {% assign menus = site.data.[include.submenubar] %}
 
 {% for menu in menus %}
-<div class="tile is-ancestor tile is-block-desktop is-flex-widescreen">
-    {% for item in menu.items %}
-    {% assign mod = forloop.index | modulo: 2 %}
-    {% if mod == 1 %}
-</div>
-<div class="tile is-ancestor tile is-block-desktop is-flex-widescreen">
-    {% endif %}
-    <div class="tile is-parent">
-        <div class="tile is-child card">
+<div class="fixed-grid rism-ch-menu-grid">
+    <div class="grid">
+        {% for item in menu.items %}
+        <div class="cell">
+            <div class="card">
             <a href="{{ item.link }}">
                 <div class="card-image is-menu">
                     <img src="/images/tiles/{{ item.image }}">
@@ -18,8 +14,9 @@
                     <h3>{{ item.name[site.active_lang] }}</h3>
                 </div>
             </a>
+            </div>
         </div>
+        {% endfor %}
     </div>
-    {% endfor %}   
-</div> 
+</div>
 {% endfor %}

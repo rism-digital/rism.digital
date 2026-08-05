@@ -54,6 +54,16 @@ $content-heading-color: hsl(0, 0%, 40%);
     height: 100%;
 }
 
+.rism-ch-menu-grid > .grid {
+    grid-template-columns: 1fr;
+}
+
+@media screen and (min-width: 769px) {
+    .rism-ch-menu-grid > .grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
 .rism-ch-muscat {
     p {
         color: $primary;
