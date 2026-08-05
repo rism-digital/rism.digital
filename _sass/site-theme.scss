@@ -1,21 +1,10 @@
+@use "sass:color";
+
 $rism-digital-center-primary: hsl(0, 74%, 32%); /* equivalent #8c1515 */
-$primary: $rism-digital-center-primary;
-$link: $rism-digital-center-primary;
 $rism-digital-center-white: #fff;
 
-// colored navbar
-$navbar-background-color: $rism-digital-center-primary;
-$navbar-item-color: $rism-digital-center-white;
-$navbar-item-hover-background-color: lighten($rism-digital-center-primary, 5%);
-$navbar-item-hover-color: $rism-digital-center-white;
-$navbar-item-active-background-color: darken($rism-digital-center-primary, 5%);
-$navbar-item-active-color: $rism-digital-center-white;
-
-// white navbar
-//$navbar-item-hover-background-color: $rism-digital-center-primary;
-//$navbar-item-hover-color: $rism-digital-center-white;
-//$navbar-item-active-background-color: darken($rism-digital-center-primary, 5%);
-//$navbar-item-active-color: $rism-digital-center-white;
+$primary: $rism-digital-center-primary;
+$content-heading-color: hsl(0, 0%, 40%);
 
 .card { 
     background: #fafafa !important;
@@ -46,13 +35,23 @@ $navbar-item-active-color: $rism-digital-center-white;
     a:hover {
         h1, h2, h3 {
             transition: color 0.2s ease-in-out;
-            color: darken($content-heading-color, 20%);
+            color: color.adjust($content-heading-color, $lightness: -20%);
         }
         .card-image > img {
             transition: filter 0.2s ease-in-out;
             filter: brightness(105%);
         }
     }
+}
+
+.fixed-grid > .grid > .cell > .card,
+.fixed-grid > .grid > .cell > .card .card-image,
+.fixed-grid > .grid > .cell > .card .card-image img {
+    border-radius: 0 !important;
+}
+
+.fixed-grid > .grid > .cell > .card {
+    height: 100%;
 }
 
 .rism-ch-muscat {

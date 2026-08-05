@@ -95,31 +95,29 @@ tiles:
             it: "Esplorate le varie pubblicazioni realizzate dal RISM Digital Center insieme alle altre attività. Tra queste vi sono pubblicazioni online di documenti d'archivio, banche dati di interesse musicale e pubblicazioni scientifiche."
 ---
 
-<div class="tile is-ancestor">
-    <div class="tile is-parent">
-        {% include tile-card.html tile=page.tiles.digital_center %}
-    </div>
-    <div class="tile is-8">
-        <div class="tile is-vertical">
-            <div class="tile is-parent">
-                {% include tile-card.html tile=page.tiles.rism_ch %}
-            </div>
-            <div class="tile">
-                <div class="tile is-parent">
-                    {% include tile-card.html tile=page.tiles.news %}
-                </div>
-                <div class="tile is-parent">
-                    {% include tile-card.html tile=page.tiles.rism_zr %}
-                </div>
-            </div>
+<div class="fixed-grid has-1-cols-mobile has-2-cols-tablet has-3-cols-desktop">
+    <div class="grid">
+        <div class="cell is-row-span-2-desktop">
+            {% include tile-card.html tile=page.tiles.digital_center %}
+        </div>
+        <div class="cell is-col-span-2-desktop">
+            {% include tile-card.html tile=page.tiles.rism_ch %}
+        </div>
+        <div class="cell">
+            {% include tile-card.html tile=page.tiles.news %}
+        </div>
+        <div class="cell">
+            {% include tile-card.html tile=page.tiles.rism_zr %}
         </div>
     </div>
 </div>
-<div class="tile is-ancestor">
-    <div class="tile is-parent is-8">
-        {% include tile-card.html tile=page.tiles.tools %}
-    </div>
-    <div class="tile is-parent">
-        {% include tile-card.html tile=page.tiles.publications %}
+<div class="fixed-grid has-1-cols-mobile has-2-cols-tablet has-3-cols-desktop">
+    <div class="grid">
+        <div class="cell is-col-span-2-desktop">
+            {% include tile-card.html tile=page.tiles.tools %}
+        </div>
+        <div class="cell">
+            {% include tile-card.html tile=page.tiles.publications %}
+        </div>
     </div>
 </div>
