@@ -56,15 +56,15 @@ tiles:
         link: https://rism.info
         blank: true
         titles:
-            en: "RISM Editorial Center"
-            de: "RISM Zentralredaktion"
-            fr: "RISM Editorial Center"
-            it: "RISM Editorial Center"
+            en: "RISM Editorial Network"
+            de: "RISM Editorial Network"
+            fr: "RISM Editorial Network"
+            it: "RISM Editorial Network"
         texts:
-            en: "Visit the website of the RISM Editorial Center in Frankfurt am Main. It is the contact point for participants and other interested people, and provides support to the over 30 working groups around the world."
-            de: "Besuchen Sie die Website der RISM Zentralredaktion in Frankfurt am Main. Sie ist die Anlaufstelle für Teilnehmer und andere Interessierte und unterstützt die über 30 Arbeitsgruppen auf der ganzen Welt."
-            fr: "Visitez le site web du RISM Editorial Center à Francfort-sur-le-Main. Il est le point de contact pour les participants et autres personnes intéressées, et fournit un soutien à plus de 30 groupes de travail dans le monde entier."
-            it: "Visitate il sito web del RISM Editorial Center di Francoforte sul Meno. È il punto di contatto per i partecipanti e le altre persone interessate e fornisce supporto agli oltre 30 gruppi di lavoro in tutto il mondo."
+            en: "Visit the website of the RISM Editorial Network in Germany. It is the contact point for participants and other interested people, and provides support to the over 30 working groups around the world."
+            de: "Besuchen Sie die Website des RISM Editorial Network in Deutschland. Es ist die Anlaufstelle für Teilnehmer und andere Interessierte und unterstützt die über 30 Arbeitsgruppen auf der ganzen Welt."
+            fr: "Visitez le site web du RISM Editorial Network en Allemagne. Il est le point de contact pour les participants et autres personnes intéressées, et fournit un soutien à plus de 30 groupes de travail dans le monde entier."
+            it: "Visitate il sito web del RISM Editorial Network in Germania. È il punto di contatto per i partecipanti e le altre persone interessate e fornisce supporto agli oltre 30 gruppi di lavoro in tutto il mondo."
 
     tools:
         image: tools-3.png
@@ -95,31 +95,29 @@ tiles:
             it: "Esplorate le varie pubblicazioni realizzate dal RISM Digital Center insieme alle altre attività. Tra queste vi sono pubblicazioni online di documenti d'archivio, banche dati di interesse musicale e pubblicazioni scientifiche."
 ---
 
-<div class="tile is-ancestor">
-    <div class="tile is-parent">
-        {% include tile-card.html tile=page.tiles.digital_center %}
-    </div>
-    <div class="tile is-8">
-        <div class="tile is-vertical">
-            <div class="tile is-parent">
-                {% include tile-card.html tile=page.tiles.rism_ch %}
-            </div>
-            <div class="tile">
-                <div class="tile is-parent">
-                    {% include tile-card.html tile=page.tiles.news %}
-                </div>
-                <div class="tile is-parent">
-                    {% include tile-card.html tile=page.tiles.rism_zr %}
-                </div>
-            </div>
+<div class="fixed-grid has-1-cols-mobile has-2-cols-tablet has-3-cols-desktop">
+    <div class="grid">
+        <div class="cell is-row-span-2-desktop">
+            {% include tile-card.html tile=page.tiles.digital_center %}
+        </div>
+        <div class="cell is-col-span-2-desktop">
+            {% include tile-card.html tile=page.tiles.rism_ch %}
+        </div>
+        <div class="cell">
+            {% include tile-card.html tile=page.tiles.news %}
+        </div>
+        <div class="cell">
+            {% include tile-card.html tile=page.tiles.rism_zr %}
         </div>
     </div>
 </div>
-<div class="tile is-ancestor">
-    <div class="tile is-parent is-8">
-        {% include tile-card.html tile=page.tiles.tools %}
-    </div>
-    <div class="tile is-parent">
-        {% include tile-card.html tile=page.tiles.publications %}
+<div class="fixed-grid has-1-cols-mobile has-2-cols-tablet has-3-cols-desktop">
+    <div class="grid">
+        <div class="cell is-col-span-2-desktop">
+            {% include tile-card.html tile=page.tiles.tools %}
+        </div>
+        <div class="cell">
+            {% include tile-card.html tile=page.tiles.publications %}
+        </div>
     </div>
 </div>
