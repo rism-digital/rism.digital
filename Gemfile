@@ -10,7 +10,7 @@ ruby "4.0.5"
 # Happy Jekylling!
 gem "jekyll", "~> 4.4.1"
 
-gem "rism-theme", git: "https://github.com/rism-digital/rism-theme", branch: "theme-updates-07-2026"
+gem "rism-theme", git: "https://github.com/rism-digital/rism-theme", branch: "master"
 # gem "rism-theme", path: '/Users/laurent/projects/rism-theme'
 # gem "rism-theme", path: '/Users/ahankins/Documents/code/rism/rism-theme'
 
@@ -20,10 +20,10 @@ group :jekyll_plugins do
   gem "jekyll-paginate-v2"
   gem "jekyll-polyglot"
   gem "jekyll-seo-tag"
-  
+
   gem "rism-md", git: 'https://github.com/rism-digital/rism-md'
   #gem "rism-md", path: '/Users/laurent/projects/rism-md'
-  
+
   gem "rism-website-indexer", git: 'https://github.com/rism-digital/rism-website-indexer', branch: :main
   #gem "rism-website-indexer", path: '/Users/laurent/projects/rism-website-indexer'
 end
