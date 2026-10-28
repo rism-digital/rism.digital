@@ -15,3 +15,7 @@ registrazioni sonore, testi manoscritti, testi a stampa, corrispondenza,
 fotografie e altri documenti personali o istituzionali.
 
 {% include submenu_as_list.html submenubar="finding-aid" %}
+
+<hr/>
+
+{% include form.html %}

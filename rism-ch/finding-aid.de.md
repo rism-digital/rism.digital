@@ -17,3 +17,7 @@ Korrespondenz, Fotos und weitere persönliche oder geschäftliche
 Unterlagen.
 
 {% include submenu_as_list.html submenubar="finding-aid" %}
+
+<hr/>
+
+{% include form.html %}

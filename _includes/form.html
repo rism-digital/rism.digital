@@ -1,0 +1,139 @@
+
+{% assign t = site.data.form[site.active_lang] | default: site.data.form.de %}
+
+<h1>{{ t.title }}</h1>
+
+<form id="collection-form" action="https://formspree.io/f/mnppdore" method="POST">
+    <input type="hidden" name="_subject" value="{{ t.subject | escape }}">
+
+    <!-- Email -->
+    <div class="field">
+        <label for="email">{{ t.email }} <span class="has-text-danger">*</span></label>
+        <div class="control mt-2">
+            <input class="input" type="email" id="email" name="email" autocomplete="email" required>
+        </div>
+    </div>
+
+    <!-- Institution -->
+    <div class="field">
+        <label for="institution">{{ t.institution }} <span class="has-text-danger">*</span></label>
+        <div class="control mt-2">
+            <input class="input" type="text" id="institution" name="institution" required>
+        </div>
+    </div>
+
+    <!-- RISM Sigel -->
+    <div class="field">
+        <label for="rism_sigel">{{ t.rism_sigel }}</label>
+        <div class="control mt-2">
+            <input class="input" type="text" id="rism_sigel" name="rism_sigel">
+        </div>
+    </div>
+
+    <!-- Catalog URL -->
+    <div class="field">
+        <label for="catalog_url">{{ t.catalog_url }}</label>
+        <div class="control mt-2">
+            <input class="input" type="url" id="catalog_url" name="catalog_url" placeholder="https://">
+        </div>
+    </div>
+
+    <!-- Collection type -->
+    <div class="field">
+        <label>{{ t.collection_type }} <span class="has-text-danger">*</span></label>
+        <div class="control mt-2">
+            <label class="radio">
+                <input type="radio" name="collection_type" value="person" required>
+                {{ t.person }}
+            </label>
+        </div>
+        <div class="control mt-2">
+            <label class="radio">
+                <input type="radio" name="collection_type" value="institution" required>
+                {{ t.institutional }}
+            </label>
+        </div>
+    </div>
+
+    <!-- Personennachlass -->
+    <div id="personennachlass-fields" class="is-hidden">
+        <div class="field">
+            <label for="person_name">{{ t.person_name }}</label>
+            <div class="control mt-2">
+                <input class="input" type="text" id="person_name" name="person_name">
+            </div>
+        </div>
+
+        <div class="field">
+            <label for="life_dates">{{ t.life_dates }}</label>
+            <div class="control mt-2">
+                <input class="input" type="text" id="life_dates" name="collection_name">
+            </div>
+        </div>
+    </div>
+
+    <!-- Institutionelle Sammlung -->
+    <div id="institution-fields" class="is-hidden">
+        <div class="field">
+            <label for="collection_name">{{ t.collection_name }}</label>
+            <div class="control mt-2">
+                <input class="input" type="text" id="collection_name" name="collection_name">
+            </div>
+        </div>
+
+        <div class="field">
+            <label for="activity_dates">{{ t.activity_dates }}</label>
+            <div class="control mt-2">
+                <input class="input" type="text" id="activity_dates" name="collection_name">
+            </div>
+        </div>
+    </div>
+
+    <!-- Submit -->
+    <div class="field mt-5">
+        <div class="control">
+            <button class="button is-primary" type="submit">{{ t.submit }}</button>
+        </div>
+    </div>
+</form>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    const form = document.getElementById("collection-form");
+
+    if (!form) return;
+
+    const radios = form.querySelectorAll(
+        'input[name="collection_type"]'
+    );
+
+    const blocks = {
+        person: document.getElementById("personennachlass-fields"),
+        institution: document.getElementById("institution-fields")
+    };
+
+    function updateFields() {
+        const selected = form.querySelector(
+            'input[name="collection_type"]:checked'
+        )?.value;
+
+        Object.entries(blocks).forEach(([type, block]) => {
+            const active = selected === type;
+
+            block.classList.toggle("is-hidden", !active);
+
+            block.querySelectorAll("input, select, textarea")
+                .forEach(input => {
+                    input.disabled = !active;
+                });
+        });
+    }
+
+    radios.forEach(radio => {
+        radio.addEventListener("change", updateFields);
+    });
+
+    updateFields();
+});
+
+</script>
