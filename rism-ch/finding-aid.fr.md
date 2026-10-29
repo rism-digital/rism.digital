@@ -16,3 +16,7 @@ textes imprimés, des correspondances, des photos et d\'autres documents
 personnels ou de sociétés.
 
 {% include submenu_as_list.html submenubar="finding-aid" %}
+
+<hr/>
+
+{% include form.html %}
