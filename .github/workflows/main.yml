@@ -56,14 +56,16 @@ jobs:
           echo "DEPLOY_PATH=${{ secrets.DEPLOY_PRODUCTION_PATH }}" >> $GITHUB_ENV
 
       - name: Write WireGuard config
-        working-directory: ${{ github.workspace }}
+        env:
+          VPN_CONFIGURATION: ${{ secrets.VPN_CONFIGURATION }}
         run: |
-          sudo echo "${{ secrets.VPN_CONFIGURATION }}" > ./wg0.conf
+          sudo install -d -m 700 /etc/wireguard
+          sudo install -m 600 /dev/null /etc/wireguard/wg0.conf
+          printf '%s\n' "$VPN_CONFIGURATION" | sudo tee /etc/wireguard/wg0.conf > /dev/null
 
       - name: Set up WireGuard VPN
-        working-directory: ${{ github.workspace }}
-        run: |
-          sudo wg-quick up ./wg0.conf
+        id: vpn
+        run: sudo wg-quick up wg0
 
       # Deploy to remote server
       - name: Deploy with rsync
@@ -77,6 +79,5 @@ jobs:
           remote_key: ${{ secrets.DEPLOY_KEY }}
 
       - name: Disconnect VPN
-        working-directory: ${{ github.workspace }}
-        run: |
-          sudo wg-quick down ./wg0.conf
+        if: ${{ always() && steps.vpn.outcome == 'success' }}
+        run: sudo wg-quick down wg0
