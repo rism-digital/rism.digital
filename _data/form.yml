@@ -47,7 +47,7 @@ fr:
   catalog_url: "URL de la notice de catalogue (si disponible)"
   collection_type: "Type de collection"
   person: "Fonds/collection personnel"
-  institutional: "Fonds/collection institutionnelle"
+  institutional: "Fonds/collection institutionnel"
   person_name: "Nom de la personne"
   life_dates: "Dates de naissance et de décès"
   collection_name: "Nom de l'institution (p. ex. association chorale, orchestre, etc.)"
