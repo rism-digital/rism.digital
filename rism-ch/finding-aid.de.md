@@ -6,7 +6,7 @@ lang: de
 permalink: /rism-ch/finding-aid.html
 ---
 
-# Geschlossene Musikbestände in schweizerischen Archiven und Bibliotheken
+# Musikbestände in schweizerischen Archiven und Bibliotheken
 
 Die Listen bieten einen Überblick über Bestände mit Schwerpunkt Musik, die in der
 schweizerischen Archiven und Bibliotheken aufbewahrt sind. Darunter
