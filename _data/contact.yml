@@ -31,11 +31,6 @@ groups:
       person:
         - id: GG
           name: "Dr. Cédric Güggi"
-          days:
-            en: "(Monday and Thursday)"
-            de: "(Montag und Donnerstag)"
-            fr: "(lundi et jeudi)"
-            it: "(lunedì e giovedì)"
           email: "cedric.gueggi@rism.digital"
           photo: "cedric.gueggi.jpg"
           text:
