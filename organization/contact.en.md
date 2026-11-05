@@ -47,11 +47,6 @@ titles:
             {{ p.name }}
         </p>
         <p class="person_data">
-            <span class="icon"><i class="fas fa-phone"></i></span>{{ p.phone }}
-            {% if p.days %}
-            {{ p.days[site.active_lang] }}
-            {% endif %}
-            <br/>
             <a href="mailto:{{ p.email }}"><span class="icon"><i class="fas fa-envelope"></i></span>{{ p.email }}</a>
         </p>
         <p class="text">
