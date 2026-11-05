@@ -47,7 +47,6 @@ titles:
             {{ p.name }}
         </p>
         <p class="person_data">
-            <span class="icon"><i class="fas fa-phone"></i></span>{{ p.phone }}
             {% if p.days %}
             {{ p.days[site.active_lang] }}
             {% endif %}
