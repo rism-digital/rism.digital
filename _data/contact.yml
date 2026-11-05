@@ -17,10 +17,10 @@ office:
         fr: "Où sommes nous?"
         it: "Dove siamo?"
     nb:
-        en: "The RISM Digital Center is located at the <a target=\"_blank\" href=\"https://www.nb.admin.ch/en/about-us">Swiss National Library</a>."
-        de: "Das RISM Digital Center befindet sich in der <a target=\"_blank\" href=\"https://www.nb.admin.ch/de/uber-uns">Schweizerischen Nationalbibliothek</a>."
-        fr: "Le RISM Digital Center se trouve à la <a target=\"_blank\" href=\"https://www.nb.admin.ch/fr/portrait">Bibliothèque nationale suisse</a>."
-        it: "Il RISM Digital Center si trova presso la <a target=\"_blank\" href=\"https://www.nb.admin.ch/it/chi-siamo">Biblioteca nazionale svizzera</a>."
+        en: "The RISM Digital Center is located at the <a target=\"_blank\" href=\"https://www.nb.admin.ch/en/about-us\">Swiss National Library</a>."
+        de: "Das RISM Digital Center befindet sich in der <a target=\"_blank\" href=\"https://www.nb.admin.ch/de/uber-uns\">Schweizerischen Nationalbibliothek</a>."
+        fr: "Le RISM Digital Center se trouve à la <a target=\"_blank\" href=\"https://www.nb.admin.ch/fr/portrait\">Bibliothèque nationale suisse</a>."
+        it: "Il RISM Digital Center si trova presso la <a target=\"_blank\" href=\"https://www.nb.admin.ch/it/chi-siamo\">Biblioteca nazionale svizzera</a>."
 
 groups:
     - labels:
