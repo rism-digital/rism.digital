@@ -7,20 +7,20 @@ title:
 office:
     email: "info@rism.digital"
     address:
-        en: "RISM Digital Center<br/>Hallwylstrasse 15<br/>PO box 286<br/>CH-3000 Bern 6"
-        de: "RISM Digital Center<br/>Hallwylstrasse 15<br/>Postfach 286<br/>CH-3000 Bern 6"
-        fr: "RISM Digital Center<br/>Hallwylstrasse 15<br/>CP 286<br/>CH-3000 Berne 6"
-        it: "RISM Digital Center<br/>Hallwylstrasse 15<br/>CP 286<br/>CH-3000 Berna 6"
+        en: "RISM Digital Center<br/>Hallwylstrasse 15<br/>PO box 286<br/>CH-3000 Bern 6<br/>+41(0)58 464 49 34"
+        de: "RISM Digital Center<br/>Hallwylstrasse 15<br/>Postfach 286<br/>CH-3000 Bern 6<br/>+41(0)58 464 49 34"
+        fr: "RISM Digital Center<br/>Hallwylstrasse 15<br/>CP 286<br/>CH-3000 Berne 6<br/>+41(0)58 464 49 34"
+        it: "RISM Digital Center<br/>Hallwylstrasse 15<br/>CP 286<br/>CH-3000 Berna 6<br/>+41(0)58 464 49 34"
     howto:
         en: "How to find us?"
         de: "Wo sind wir?"
         fr: "Où sommes nous?"
         it: "Dove siamo?"
     nb:
-        en: "The RISM Digital Center is located at the <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=en\">Swiss National Library</a>."
-        de: "Das RISM Digital Center befindet sich in der <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=de\">Schweizerischen Nationalbibliothek</a>."
-        fr: "Le RISM Digital Center se trouve à la <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=fr\">Bibliothèque nationale suisse</a>."
-        it: "Il RISM Digital Center si trova presso la <a target=\"_blank\" href=\"http://www.nb.admin.ch/slb/index.html?lang=it\">Biblioteca nazionale svizzera</a>."
+        en: "The RISM Digital Center is located at the <a target=\"_blank\" href=\"https://www.nb.admin.ch/en/about-us">Swiss National Library</a>."
+        de: "Das RISM Digital Center befindet sich in der <a target=\"_blank\" href=\"https://www.nb.admin.ch/de/uber-uns">Schweizerischen Nationalbibliothek</a>."
+        fr: "Le RISM Digital Center se trouve à la <a target=\"_blank\" href=\"https://www.nb.admin.ch/fr/portrait">Bibliothèque nationale suisse</a>."
+        it: "Il RISM Digital Center si trova presso la <a target=\"_blank\" href=\"https://www.nb.admin.ch/it/chi-siamo">Biblioteca nazionale svizzera</a>."
 
 groups:
     - labels:
@@ -31,7 +31,6 @@ groups:
       person:
         - id: GG
           name: "Dr. Cédric Güggi"
-          phone: "+41(0)58 464 49 34"
           days:
             en: "(Monday and Thursday)"
             de: "(Montag und Donnerstag)"
@@ -46,7 +45,6 @@ groups:
               it: "Cédric Güggi ha studiato musicologia e linguistica tedesca e letteratura tedesca antica presso l'Università di Zurigo. Dopo un primo impiego come ricercatore presso l'Ufficio svizzero del RISM (2006-2008) e una collaborazione con il dipartimento di musica della Biblioteca Centrale di Zurigo (2008-2009), ha assunto la co-direzione di RISM Svizzera nel settembre 2009 (RISM Digital Center dal 2021). Da allora è responsabile per le questioni amministrative e per i progetti di inventariazione. Nel 2019 Cédric Güggi ha conseguito il dottorato all'Università di Zurigo con una tesi di ricerca sull'interpretazione musicale sull'esempio del compositore e direttore d'orchestra Paul Klecki (1900-1973)."
         - id: LP
           name: "PD Dr. Laurent Pugin"
-          phone: "+41(0)58 463 80 16"
           email: "laurent.pugin@rism.digital"
           photo: "laurent.pugin.jpg"
           text:
@@ -62,7 +60,6 @@ groups:
       person:
         - id: CB
           name: "Dr. Claudio Bacciagaluppi"
-          phone: "+41(0)58 465 73 25"
           email: "claudio.bacciagaluppi@rism.digital"
           photo: "claudio.bacciagaluppi.jpg"
           text:
@@ -72,7 +69,6 @@ groups:
               it: "Claudio Bacciagaluppi è nato vicino a Milano nel 1971. Ha studiato musicologia all’Università di Zurigo e ha conseguito il dottorato a Friburgo nel 2008. È stato collaboratore di progetto della Fonoteca Nazionale Svizzera (Lugano) nel 2001-2002 e ha lavorato nella biblioteca musicale e nel dipartimento di ricerca dell’Accademia delle Arti di Berna (HKB) dal 2002 al 2009 e dal 2015 al 2025. Dal 2011 lavora per il RISM Digital Center, dove oltre alla catalogazione si occupa del progetto dei cataloghi tematici e di altri progetti speciali."
         - id: AH
           name: "Dr. Andrew Hankinson"
-          phone: "+41(0)58 465 73 25"
           email: "andrew.hankinson@rism.digital"
           no-photo: true
           text:
@@ -82,7 +78,6 @@ groups:
               it: "Andrew Hankinson is a digital humanist, librarian, academic, and coder. He completed a dissertation on large-scale optical music recognition. His research focuses primarily on large-scale music document digitization, recognition, search, and retrieval. He was senior software engineer at the Bodleian Libraries in the University of Oxford, where he led the developments of the Digital Bodleian. He previously developed the DIAMM web application. He was Chair of the MEI Board, and has longstanding experience with IIIF and is a member of the IIIF A/V working group. He currently leads the development of Muscat+."
         - id: RZ
           name: "Rodolfo Zitellini, M. A."
-          phone: "+41(0)58 465 73 25"
           email: "rodolfo.zitellini@rism.digital"
           photo: "rodolfo.zitellini.jpg"
           text:
@@ -92,7 +87,6 @@ groups:
               it: "Rodolfo Zitellini è musicista e musicologo con una specializzazione in scienze informatiche. Ha conseguito il Diploma di Clavicembalo a Bologna e successivamente un Master in Musicologia a Friburgo (Svizzera). Ha lavorato come consulente per sistemi embedded di software (2005-2011) e come musicologo indipendente. Ha partecipato al progetto FNS <q>Printed Sacred Music in Europe 1500-1800</q> (2011-2013) come consulente tecnico. Dal 2011 lavora presso RISM Svizzera all'infrastruttura digitale e allo sviluppo del software di catalogazione Muscat. Inoltre è responsabile di progetti speciali non tecnici."
         - id: LB
           name: "Lynn Beutler, M. A."
-          phone: "+41(0)58 465 73 25"
           email: "lynn.beutler@rism.digital"
           no-photo: true
           text:
