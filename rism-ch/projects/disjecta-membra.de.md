@@ -119,6 +119,6 @@ strings, bc
 <br/>
 
 #### 38 Partsongs
-[Reutterliedlin] (https://rism.online/sources/993104152) S, A, T, B
+[Reutterliedlin](https://rism.online/sources/993104152) S, A, T, B
 - CH-Bu UBH F X 22-24: [S, A, B](https://ub.unibas.ch/digi/a100/diverse_projekte/pre2009pdf/BAU_5/BAU_5_000119592.pdf)
 - CH-Zz Mus.908 [T incpl.](https://uzb.swisscovery.slsp.ch/discovery/delivery/41SLSP_UZB:UZB/12464168370005508)
