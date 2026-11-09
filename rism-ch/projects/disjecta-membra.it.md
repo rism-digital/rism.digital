@@ -44,7 +44,6 @@ V (4), org
 [A, B, org](https://rism.online/viewer.html#?manifest=https://iiif.rism.digital/manifest/ch/h79273.json)
 - US-R M1490 .G749c.8
 [S 1, S 2 and T, org](http://hdl.handle.net/1802/37282)
-
 <br/>
 
 #### L'Estocart, Paschal de (1539c-1584p)
@@ -117,3 +116,8 @@ strings, bc
 - B-Bc 7895
 [vl 1, 2, b, cor 1](https://rism.online/viewer.html#?manifest=https://iiif.rism.digital/manifest/ch/h238254.json)  
 <br/>
+
+#### 38 Partsongs
+[Reutterliedlin](https://rism.online/sources/993104152) S, A, T, B
+- CH-Bu UBH F X 22-24: [S, A, B](https://ub.unibas.ch/digi/a100/diverse_projekte/pre2009pdf/BAU_5/BAU_5_000119592.pdf)
+- CH-Zz Mus.908 [T incpl.](https://uzb.swisscovery.slsp.ch/discovery/delivery/41SLSP_UZB:UZB/12464168370005508)
