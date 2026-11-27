@@ -19,3 +19,7 @@ fotografie e altri documenti personali o istituzionali.
 <hr/>
 
 {% include form.html %}
+
+<br>
+
+*Se desiderate segnalare più fondi/collezioni contemporaneamente, inviate direttamente un’e-mail all’indirizzo [info@rism.digital](info@rism.digital).*
