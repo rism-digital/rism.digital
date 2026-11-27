@@ -21,4 +21,6 @@ personnels ou de sociétés.
 
 {% include form.html %}
 
+<br>
+
 *Si vous souhaitez signaler plusieurs fonds/collections à la fois, veuillez envoyer directement un e-mail à [info@rism.digital](info@rism.digital).*
