@@ -24,4 +24,4 @@ The list Libraries and Archives with Musical Holdings contains an alphanbetical 
 
 <br>
 
-*If you wish to report several archives/collections at once, please email [info@rism.digital](info@rism.digital) directly.*
+*If you wish to report several archives/collections at once, please email [info@rism.digital](mailto:info@rism.digital) directly.*
