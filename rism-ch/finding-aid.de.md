@@ -24,4 +24,4 @@ Unterlagen.
 
 <br>
 
-*Falls Sie mehrere Nachlässen/Sammlungen auf einmal melden möchten, senden Sie bitte direkt eine E-Mail an [info@rism.digital](info@rism.digital).*
+*Falls Sie mehrere Nachlässen/Sammlungen auf einmal melden möchten, senden Sie bitte direkt eine E-Mail an [info@rism.digital](mailto:info@rism.digital).*
